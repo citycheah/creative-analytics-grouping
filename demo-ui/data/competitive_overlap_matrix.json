@@ -1,0 +1,98 @@
+[
+  {
+    "brand_a": "Maxis",
+    "brand_b": "Maxis",
+    "jaccard_overlap": 1.0,
+    "shared_theme_count": 9
+  },
+  {
+    "brand_a": "Maxis",
+    "brand_b": "CelcomDigi",
+    "jaccard_overlap": 0.7,
+    "shared_theme_count": 7
+  },
+  {
+    "brand_a": "Maxis",
+    "brand_b": "U Mobile",
+    "jaccard_overlap": 0.5,
+    "shared_theme_count": 5
+  },
+  {
+    "brand_a": "Maxis",
+    "brand_b": "Unifi",
+    "jaccard_overlap": 0.3,
+    "shared_theme_count": 3
+  },
+  {
+    "brand_a": "CelcomDigi",
+    "brand_b": "Maxis",
+    "jaccard_overlap": 0.7,
+    "shared_theme_count": 7
+  },
+  {
+    "brand_a": "CelcomDigi",
+    "brand_b": "CelcomDigi",
+    "jaccard_overlap": 1.0,
+    "shared_theme_count": 8
+  },
+  {
+    "brand_a": "CelcomDigi",
+    "brand_b": "U Mobile",
+    "jaccard_overlap": 0.556,
+    "shared_theme_count": 5
+  },
+  {
+    "brand_a": "CelcomDigi",
+    "brand_b": "Unifi",
+    "jaccard_overlap": 0.333,
+    "shared_theme_count": 3
+  },
+  {
+    "brand_a": "U Mobile",
+    "brand_b": "Maxis",
+    "jaccard_overlap": 0.5,
+    "shared_theme_count": 5
+  },
+  {
+    "brand_a": "U Mobile",
+    "brand_b": "CelcomDigi",
+    "jaccard_overlap": 0.556,
+    "shared_theme_count": 5
+  },
+  {
+    "brand_a": "U Mobile",
+    "brand_b": "U Mobile",
+    "jaccard_overlap": 1.0,
+    "shared_theme_count": 6
+  },
+  {
+    "brand_a": "U Mobile",
+    "brand_b": "Unifi",
+    "jaccard_overlap": 0.111,
+    "shared_theme_count": 1
+  },
+  {
+    "brand_a": "Unifi",
+    "brand_b": "Maxis",
+    "jaccard_overlap": 0.3,
+    "shared_theme_count": 3
+  },
+  {
+    "brand_a": "Unifi",
+    "brand_b": "CelcomDigi",
+    "jaccard_overlap": 0.333,
+    "shared_theme_count": 3
+  },
+  {
+    "brand_a": "Unifi",
+    "brand_b": "U Mobile",
+    "jaccard_overlap": 0.111,
+    "shared_theme_count": 1
+  },
+  {
+    "brand_a": "Unifi",
+    "brand_b": "Unifi",
+    "jaccard_overlap": 1.0,
+    "shared_theme_count": 4
+  }
+]

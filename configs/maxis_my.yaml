@@ -1,0 +1,30 @@
+# Per-advertiser configuration for Maxis (Malaysia Telco Showcase)
+advertiser_name: "Maxis"
+advertiser_names:
+  - "MAXIS"
+  - "MAXIS BROADBAND"
+  - "HOTLINK"
+  - "MAXIS BUSINESS"
+country: "Malaysia"
+competitors:
+  - "Maxis"
+  - "CelcomDigi"
+  - "U Mobile"
+  - "Unifi"
+date_range:
+  - "2026-01-01"
+  - "2026-03-31"
+
+clustering:
+  track: "frame"
+  visual_weight: 0.3
+  min_cluster_size: 4
+  min_samples: 2
+  umap_components: 30
+  umap_seed: 42
+  merge_threshold: 0.94
+  text_embedding_model: "all-MiniLM-L6-v2"
+
+gemini:
+  model: "gemini-2.5-flash"
+  thinking_budget: 0

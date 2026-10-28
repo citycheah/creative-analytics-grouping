@@ -1,0 +1,24 @@
+# Template configuration for onboarding a new advertiser
+advertiser_name: "Maxis"
+advertiser_names:
+  - "MAXIS"
+  - "MAXIS BROADBAND"
+  - "HOTLINK"
+country: "Malaysia"
+date_range:
+  - "2026-01-01"
+  - "2026-03-31"
+
+clustering:
+  track: "frame"                 # "frame" (fast, cost-effective) or "video"
+  visual_weight: 0.3             # weight for visual vectors vs text vectors (0.0 to 1.0)
+  min_cluster_size: 4            # minimum cluster size for HDBSCAN
+  min_samples: 2                 # conservative noise threshold
+  umap_components: 30            # target dimensions for UMAP reduction
+  umap_seed: 42                  # random seed for reproducible projection
+  merge_threshold: 0.94          # cosine threshold for post-hoc centroid merging
+  text_embedding_model: "all-MiniLM-L6-v2"  # or "all-mpnet-base-v2"
+
+gemini:
+  model: "gemini-2.5-flash"
+  thinking_budget: 0             # set 0 for fastest/lowest cost structured output

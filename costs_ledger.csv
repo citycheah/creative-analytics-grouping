@@ -1,0 +1,1257 @@
+ts,stage,service,sku,asset_id,units,unit_desc,unit_cost,cost_usd,latency_s,status
+2026-03-31T14:00:00,data-pull,bigquery,bq_analysis_us,bq_telco_extract_01,0.032000,per TiB scanned,6.25,0.20000000,2.381,OK
+2026-03-31T14:00:04,data-pull,bigquery,bq_analysis_us,bq_telco_extract_02,0.024500,per TiB scanned,6.25,0.15312500,2.749,OK
+2026-03-31T14:00:08,data-pull,bigquery,bq_analysis_us,bq_telco_extract_03,0.011000,per TiB scanned,6.25,0.06875000,2.427,OK
+2026-03-31T14:00:12,data-pull,bigquery,bq_analysis_us,bq_telco_extract_04,0.005000,per TiB scanned,6.25,0.03125000,2.798,OK
+2026-03-31T14:00:30,embed-frame,vertex-mm-embedding,mm_image,9010001,1.0,per image,0.0001,0.00010000,1.178,OK
+2026-03-31T14:00:30,embed-video,vertex-mm-embedding,mm_video_essential,9010001,10.0,per second of video,0.0005,0.00500000,11.457,OK
+2026-03-31T14:00:30,enrichment,gemini,gemini_text_in,9010001,2879,per input token,1.5e-07,0.00043185,1.897,OK
+2026-03-31T14:00:30,enrichment,gemini,gemini_text_out,9010001,133,per output token,6e-07,0.00007980,0.000,OK
+2026-03-31T14:00:31,embed-frame,vertex-mm-embedding,mm_image,9010004,1.0,per image,0.0001,0.00010000,1.105,OK
+2026-03-31T14:00:31,embed-video,vertex-mm-embedding,mm_video_essential,9010004,30.0,per second of video,0.0005,0.01500000,11.869,OK
+2026-03-31T14:00:31,enrichment,gemini,gemini_text_in,9010004,2653,per input token,1.5e-07,0.00039795,1.638,OK
+2026-03-31T14:00:31,enrichment,gemini,gemini_text_out,9010004,139,per output token,6e-07,0.00008340,0.000,OK
+2026-03-31T14:00:32,embed-frame,vertex-mm-embedding,mm_image,9010007,1.0,per image,0.0001,0.00010000,1.036,OK
+2026-03-31T14:00:32,enrichment,gemini,gemini_text_in,9010007,3161,per input token,1.5e-07,0.00047415,1.853,OK
+2026-03-31T14:00:32,enrichment,gemini,gemini_text_out,9010007,130,per output token,6e-07,0.00007800,0.000,OK
+2026-03-31T14:00:33,embed-frame,vertex-mm-embedding,mm_image,9010010,1.0,per image,0.0001,0.00010000,1.134,OK
+2026-03-31T14:00:33,embed-video,vertex-mm-embedding,mm_video_essential,9010010,10.0,per second of video,0.0005,0.00500000,11.479,OK
+2026-03-31T14:00:33,enrichment,gemini,gemini_text_in,9010010,2736,per input token,1.5e-07,0.00041040,1.753,OK
+2026-03-31T14:00:33,enrichment,gemini,gemini_text_out,9010010,102,per output token,6e-07,0.00006120,0.000,OK
+2026-03-31T14:00:34,embed-frame,vertex-mm-embedding,mm_image,9010013,1.0,per image,0.0001,0.00010000,0.870,OK
+2026-03-31T14:00:34,embed-video,vertex-mm-embedding,mm_video_essential,9010013,15.0,per second of video,0.0005,0.00750000,14.978,OK
+2026-03-31T14:00:34,enrichment,gemini,gemini_text_in,9010013,2981,per input token,1.5e-07,0.00044715,1.223,OK
+2026-03-31T14:00:34,enrichment,gemini,gemini_text_out,9010013,114,per output token,6e-07,0.00006840,0.000,OK
+2026-03-31T14:00:35,embed-frame,vertex-mm-embedding,mm_image,9010016,1.0,per image,0.0001,0.00010000,0.900,OK
+2026-03-31T14:00:35,enrichment,gemini,gemini_text_in,9010016,2742,per input token,1.5e-07,0.00041130,1.605,OK
+2026-03-31T14:00:35,enrichment,gemini,gemini_text_out,9010016,136,per output token,6e-07,0.00008160,0.000,OK
+2026-03-31T14:00:36,embed-frame,vertex-mm-embedding,mm_image,9010019,1.0,per image,0.0001,0.00010000,1.285,OK
+2026-03-31T14:00:36,embed-video,vertex-mm-embedding,mm_video_essential,9010019,10.0,per second of video,0.0005,0.00500000,14.258,OK
+2026-03-31T14:00:36,enrichment,gemini,gemini_text_in,9010019,2841,per input token,1.5e-07,0.00042615,1.372,OK
+2026-03-31T14:00:36,enrichment,gemini,gemini_text_out,9010019,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:00:37,embed-frame,vertex-mm-embedding,mm_image,9010022,1.0,per image,0.0001,0.00010000,0.878,OK
+2026-03-31T14:00:37,embed-video,vertex-mm-embedding,mm_video_essential,9010022,30.0,per second of video,0.0005,0.01500000,13.792,OK
+2026-03-31T14:00:37,enrichment,gemini,gemini_text_in,9010022,2855,per input token,1.5e-07,0.00042825,1.323,OK
+2026-03-31T14:00:37,enrichment,gemini,gemini_text_out,9010022,98,per output token,6e-07,0.00005880,0.000,OK
+2026-03-31T14:00:38,embed-frame,vertex-mm-embedding,mm_image,9010025,1.0,per image,0.0001,0.00010000,1.233,OK
+2026-03-31T14:00:38,enrichment,gemini,gemini_text_in,9010025,2502,per input token,1.5e-07,0.00037530,1.818,OK
+2026-03-31T14:00:38,enrichment,gemini,gemini_text_out,9010025,121,per output token,6e-07,0.00007260,0.000,OK
+2026-03-31T14:00:39,embed-frame,vertex-mm-embedding,mm_image,9010028,1.0,per image,0.0001,0.00010000,1.121,OK
+2026-03-31T14:00:39,embed-video,vertex-mm-embedding,mm_video_essential,9010028,30.0,per second of video,0.0005,0.01500000,14.004,OK
+2026-03-31T14:00:39,enrichment,gemini,gemini_text_in,9010028,2864,per input token,1.5e-07,0.00042960,1.679,OK
+2026-03-31T14:00:39,enrichment,gemini,gemini_text_out,9010028,116,per output token,6e-07,0.00006960,0.000,OK
+2026-03-31T14:00:40,embed-frame,vertex-mm-embedding,mm_image,9010031,1.0,per image,0.0001,0.00010000,0.994,OK
+2026-03-31T14:00:40,embed-video,vertex-mm-embedding,mm_video_essential,9010031,10.0,per second of video,0.0005,0.00500000,12.987,OK
+2026-03-31T14:00:40,enrichment,gemini,gemini_text_in,9010031,3034,per input token,1.5e-07,0.00045510,1.343,OK
+2026-03-31T14:00:40,enrichment,gemini,gemini_text_out,9010031,144,per output token,6e-07,0.00008640,0.000,OK
+2026-03-31T14:00:41,embed-frame,vertex-mm-embedding,mm_image,9010034,1.0,per image,0.0001,0.00010000,1.126,OK
+2026-03-31T14:00:41,enrichment,gemini,gemini_text_in,9010034,3153,per input token,1.5e-07,0.00047295,1.846,OK
+2026-03-31T14:00:41,enrichment,gemini,gemini_text_out,9010034,121,per output token,6e-07,0.00007260,0.000,OK
+2026-03-31T14:00:42,embed-frame,vertex-mm-embedding,mm_image,9010037,1.0,per image,0.0001,0.00010000,1.058,OK
+2026-03-31T14:00:42,embed-video,vertex-mm-embedding,mm_video_essential,9010037,30.0,per second of video,0.0005,0.01500000,12.028,OK
+2026-03-31T14:00:42,enrichment,gemini,gemini_text_in,9010037,3273,per input token,1.5e-07,0.00049095,1.403,OK
+2026-03-31T14:00:42,enrichment,gemini,gemini_text_out,9010037,139,per output token,6e-07,0.00008340,0.000,OK
+2026-03-31T14:00:43,embed-frame,vertex-mm-embedding,mm_image,9010039,1.0,per image,0.0001,0.00010000,1.207,OK
+2026-03-31T14:00:43,embed-video,vertex-mm-embedding,mm_video_essential,9010039,15.0,per second of video,0.0005,0.00750000,14.630,OK
+2026-03-31T14:00:43,enrichment,gemini,gemini_text_in,9010039,2911,per input token,1.5e-07,0.00043665,1.846,OK
+2026-03-31T14:00:43,enrichment,gemini,gemini_text_out,9010039,101,per output token,6e-07,0.00006060,0.000,OK
+2026-03-31T14:00:44,embed-frame,vertex-mm-embedding,mm_image,9010041,1.0,per image,0.0001,0.00010000,0.889,OK
+2026-03-31T14:00:44,enrichment,gemini,gemini_text_in,9010041,2564,per input token,1.5e-07,0.00038460,1.783,OK
+2026-03-31T14:00:44,enrichment,gemini,gemini_text_out,9010041,139,per output token,6e-07,0.00008340,0.000,OK
+2026-03-31T14:00:45,embed-frame,vertex-mm-embedding,mm_image,9010043,1.0,per image,0.0001,0.00010000,1.153,OK
+2026-03-31T14:00:45,embed-video,vertex-mm-embedding,mm_video_essential,9010043,30.0,per second of video,0.0005,0.01500000,13.186,OK
+2026-03-31T14:00:45,enrichment,gemini,gemini_text_in,9010043,3320,per input token,1.5e-07,0.00049800,1.261,OK
+2026-03-31T14:00:45,enrichment,gemini,gemini_text_out,9010043,116,per output token,6e-07,0.00006960,0.000,OK
+2026-03-31T14:00:46,embed-frame,vertex-mm-embedding,mm_image,9010045,1.0,per image,0.0001,0.00010000,1.151,OK
+2026-03-31T14:00:46,embed-video,vertex-mm-embedding,mm_video_essential,9010045,30.0,per second of video,0.0005,0.01500000,11.621,OK
+2026-03-31T14:00:46,enrichment,gemini,gemini_text_in,9010045,3195,per input token,1.5e-07,0.00047925,1.399,OK
+2026-03-31T14:00:46,enrichment,gemini,gemini_text_out,9010045,106,per output token,6e-07,0.00006360,0.000,OK
+2026-03-31T14:00:47,embed-frame,vertex-mm-embedding,mm_image,9010047,1.0,per image,0.0001,0.00010000,0.914,OK
+2026-03-31T14:00:47,enrichment,gemini,gemini_text_in,9010047,3094,per input token,1.5e-07,0.00046410,1.497,OK
+2026-03-31T14:00:47,enrichment,gemini,gemini_text_out,9010047,136,per output token,6e-07,0.00008160,0.000,OK
+2026-03-31T14:00:48,embed-frame,vertex-mm-embedding,mm_image,9010049,1.0,per image,0.0001,0.00010000,0.935,OK
+2026-03-31T14:00:48,embed-video,vertex-mm-embedding,mm_video_essential,9010049,10.0,per second of video,0.0005,0.00500000,13.673,OK
+2026-03-31T14:00:48,enrichment,gemini,gemini_text_in,9010049,3394,per input token,1.5e-07,0.00050910,1.531,OK
+2026-03-31T14:00:48,enrichment,gemini,gemini_text_out,9010049,108,per output token,6e-07,0.00006480,0.000,OK
+2026-03-31T14:00:49,embed-frame,vertex-mm-embedding,mm_image,9010051,1.0,per image,0.0001,0.00010000,1.335,OK
+2026-03-31T14:00:49,embed-video,vertex-mm-embedding,mm_video_essential,9010051,10.0,per second of video,0.0005,0.00500000,12.316,OK
+2026-03-31T14:00:49,enrichment,gemini,gemini_text_in,9010051,3193,per input token,1.5e-07,0.00047895,1.852,OK
+2026-03-31T14:00:49,enrichment,gemini,gemini_text_out,9010051,102,per output token,6e-07,0.00006120,0.000,OK
+2026-03-31T14:00:50,embed-frame,vertex-mm-embedding,mm_image,9010053,1.0,per image,0.0001,0.00010000,1.333,OK
+2026-03-31T14:00:50,enrichment,gemini,gemini_text_in,9010053,3218,per input token,1.5e-07,0.00048270,1.775,OK
+2026-03-31T14:00:50,enrichment,gemini,gemini_text_out,9010053,132,per output token,6e-07,0.00007920,0.000,OK
+2026-03-31T14:00:51,embed-frame,vertex-mm-embedding,mm_image,9010055,1.0,per image,0.0001,0.00010000,1.202,OK
+2026-03-31T14:00:51,embed-video,vertex-mm-embedding,mm_video_essential,9010055,30.0,per second of video,0.0005,0.01500000,14.185,OK
+2026-03-31T14:00:51,enrichment,gemini,gemini_text_in,9010055,3310,per input token,1.5e-07,0.00049650,1.306,OK
+2026-03-31T14:00:51,enrichment,gemini,gemini_text_out,9010055,132,per output token,6e-07,0.00007920,0.000,OK
+2026-03-31T14:00:52,embed-frame,vertex-mm-embedding,mm_image,9010057,1.0,per image,0.0001,0.00010000,1.111,OK
+2026-03-31T14:00:52,embed-video,vertex-mm-embedding,mm_video_essential,9010057,15.0,per second of video,0.0005,0.00750000,12.519,OK
+2026-03-31T14:00:52,enrichment,gemini,gemini_text_in,9010057,3041,per input token,1.5e-07,0.00045615,1.277,OK
+2026-03-31T14:00:52,enrichment,gemini,gemini_text_out,9010057,117,per output token,6e-07,0.00007020,0.000,OK
+2026-03-31T14:00:53,embed-frame,vertex-mm-embedding,mm_image,9010059,1.0,per image,0.0001,0.00010000,1.106,OK
+2026-03-31T14:00:53,enrichment,gemini,gemini_text_in,9010059,2825,per input token,1.5e-07,0.00042375,1.669,OK
+2026-03-31T14:00:53,enrichment,gemini,gemini_text_out,9010059,128,per output token,6e-07,0.00007680,0.000,OK
+2026-03-31T14:00:54,embed-frame,vertex-mm-embedding,mm_image,9010061,1.0,per image,0.0001,0.00010000,1.259,OK
+2026-03-31T14:00:54,embed-video,vertex-mm-embedding,mm_video_essential,9010061,30.0,per second of video,0.0005,0.01500000,12.293,OK
+2026-03-31T14:00:54,enrichment,gemini,gemini_text_in,9010061,3297,per input token,1.5e-07,0.00049455,1.273,OK
+2026-03-31T14:00:54,enrichment,gemini,gemini_text_out,9010061,132,per output token,6e-07,0.00007920,0.000,OK
+2026-03-31T14:00:55,embed-frame,vertex-mm-embedding,mm_image,9010063,1.0,per image,0.0001,0.00010000,0.961,OK
+2026-03-31T14:00:55,embed-video,vertex-mm-embedding,mm_video_essential,9010063,15.0,per second of video,0.0005,0.00750000,13.634,OK
+2026-03-31T14:00:55,enrichment,gemini,gemini_text_in,9010063,2557,per input token,1.5e-07,0.00038355,1.416,OK
+2026-03-31T14:00:55,enrichment,gemini,gemini_text_out,9010063,96,per output token,6e-07,0.00005760,0.000,OK
+2026-03-31T14:00:56,embed-frame,vertex-mm-embedding,mm_image,9010065,1.0,per image,0.0001,0.00010000,0.860,OK
+2026-03-31T14:00:56,enrichment,gemini,gemini_text_in,9010065,3047,per input token,1.5e-07,0.00045705,1.617,OK
+2026-03-31T14:00:56,enrichment,gemini,gemini_text_out,9010065,133,per output token,6e-07,0.00007980,0.000,OK
+2026-03-31T14:00:57,embed-frame,vertex-mm-embedding,mm_image,9010067,1.0,per image,0.0001,0.00010000,1.068,OK
+2026-03-31T14:00:57,embed-video,vertex-mm-embedding,mm_video_essential,9010067,15.0,per second of video,0.0005,0.00750000,13.509,OK
+2026-03-31T14:00:57,enrichment,gemini,gemini_text_in,9010067,2968,per input token,1.5e-07,0.00044520,1.506,OK
+2026-03-31T14:00:57,enrichment,gemini,gemini_text_out,9010067,131,per output token,6e-07,0.00007860,0.000,OK
+2026-03-31T14:00:58,embed-frame,vertex-mm-embedding,mm_image,9010069,1.0,per image,0.0001,0.00010000,1.013,OK
+2026-03-31T14:00:58,embed-video,vertex-mm-embedding,mm_video_essential,9010069,10.0,per second of video,0.0005,0.00500000,13.310,OK
+2026-03-31T14:00:58,enrichment,gemini,gemini_text_in,9010069,2852,per input token,1.5e-07,0.00042780,1.352,OK
+2026-03-31T14:00:58,enrichment,gemini,gemini_text_out,9010069,111,per output token,6e-07,0.00006660,0.000,OK
+2026-03-31T14:00:59,embed-frame,vertex-mm-embedding,mm_image,9010071,1.0,per image,0.0001,0.00010000,0.881,OK
+2026-03-31T14:00:59,enrichment,gemini,gemini_text_in,9010071,2976,per input token,1.5e-07,0.00044640,1.863,OK
+2026-03-31T14:00:59,enrichment,gemini,gemini_text_out,9010071,133,per output token,6e-07,0.00007980,0.000,OK
+2026-03-31T14:01:00,embed-frame,vertex-mm-embedding,mm_image,9010073,1.0,per image,0.0001,0.00010000,0.923,OK
+2026-03-31T14:01:00,embed-video,vertex-mm-embedding,mm_video_essential,9010073,15.0,per second of video,0.0005,0.00750000,15.375,OK
+2026-03-31T14:01:00,enrichment,gemini,gemini_text_in,9010073,2947,per input token,1.5e-07,0.00044205,1.760,OK
+2026-03-31T14:01:00,enrichment,gemini,gemini_text_out,9010073,128,per output token,6e-07,0.00007680,0.000,OK
+2026-03-31T14:01:01,embed-frame,vertex-mm-embedding,mm_image,9010075,1.0,per image,0.0001,0.00010000,1.162,OK
+2026-03-31T14:01:01,embed-video,vertex-mm-embedding,mm_video_essential,9010075,15.0,per second of video,0.0005,0.00750000,14.726,OK
+2026-03-31T14:01:01,enrichment,gemini,gemini_text_in,9010075,2525,per input token,1.5e-07,0.00037875,1.326,OK
+2026-03-31T14:01:01,enrichment,gemini,gemini_text_out,9010075,126,per output token,6e-07,0.00007560,0.000,OK
+2026-03-31T14:01:02,embed-frame,vertex-mm-embedding,mm_image,9010077,1.0,per image,0.0001,0.00010000,1.116,OK
+2026-03-31T14:01:02,enrichment,gemini,gemini_text_in,9010077,2404,per input token,1.5e-07,0.00036060,1.234,OK
+2026-03-31T14:01:02,enrichment,gemini,gemini_text_out,9010077,135,per output token,6e-07,0.00008100,0.000,OK
+2026-03-31T14:01:03,embed-frame,vertex-mm-embedding,mm_image,9010079,1.0,per image,0.0001,0.00010000,0.954,OK
+2026-03-31T14:01:03,embed-video,vertex-mm-embedding,mm_video_essential,9010079,15.0,per second of video,0.0005,0.00750000,15.319,OK
+2026-03-31T14:01:03,enrichment,gemini,gemini_text_in,9010079,2858,per input token,1.5e-07,0.00042870,1.456,OK
+2026-03-31T14:01:03,enrichment,gemini,gemini_text_out,9010079,105,per output token,6e-07,0.00006300,0.000,OK
+2026-03-31T14:01:04,embed-frame,vertex-mm-embedding,mm_image,9010081,1.0,per image,0.0001,0.00010000,0.852,OK
+2026-03-31T14:01:04,embed-video,vertex-mm-embedding,mm_video_essential,9010081,30.0,per second of video,0.0005,0.01500000,13.191,OK
+2026-03-31T14:01:04,enrichment,gemini,gemini_text_in,9010081,3186,per input token,1.5e-07,0.00047790,1.396,OK
+2026-03-31T14:01:04,enrichment,gemini,gemini_text_out,9010081,132,per output token,6e-07,0.00007920,0.000,OK
+2026-03-31T14:01:05,embed-frame,vertex-mm-embedding,mm_image,9010083,1.0,per image,0.0001,0.00010000,1.241,OK
+2026-03-31T14:01:05,enrichment,gemini,gemini_text_in,9010083,2428,per input token,1.5e-07,0.00036420,1.642,OK
+2026-03-31T14:01:05,enrichment,gemini,gemini_text_out,9010083,106,per output token,6e-07,0.00006360,0.000,OK
+2026-03-31T14:01:06,embed-frame,vertex-mm-embedding,mm_image,9010085,1.0,per image,0.0001,0.00010000,1.088,OK
+2026-03-31T14:01:06,embed-video,vertex-mm-embedding,mm_video_essential,9010085,15.0,per second of video,0.0005,0.00750000,12.599,OK
+2026-03-31T14:01:06,enrichment,gemini,gemini_text_in,9010085,3099,per input token,1.5e-07,0.00046485,1.838,OK
+2026-03-31T14:01:06,enrichment,gemini,gemini_text_out,9010085,121,per output token,6e-07,0.00007260,0.000,OK
+2026-03-31T14:01:07,embed-frame,vertex-mm-embedding,mm_image,9010087,1.0,per image,0.0001,0.00010000,1.093,OK
+2026-03-31T14:01:07,embed-video,vertex-mm-embedding,mm_video_essential,9010087,15.0,per second of video,0.0005,0.00750000,15.228,OK
+2026-03-31T14:01:07,enrichment,gemini,gemini_text_in,9010087,3293,per input token,1.5e-07,0.00049395,1.874,OK
+2026-03-31T14:01:07,enrichment,gemini,gemini_text_out,9010087,101,per output token,6e-07,0.00006060,0.000,OK
+2026-03-31T14:01:08,embed-frame,vertex-mm-embedding,mm_image,9010089,1.0,per image,0.0001,0.00010000,0.857,OK
+2026-03-31T14:01:08,enrichment,gemini,gemini_text_in,9010089,3310,per input token,1.5e-07,0.00049650,1.653,OK
+2026-03-31T14:01:08,enrichment,gemini,gemini_text_out,9010089,117,per output token,6e-07,0.00007020,0.000,OK
+2026-03-31T14:01:09,embed-frame,vertex-mm-embedding,mm_image,9010091,1.0,per image,0.0001,0.00010000,0.905,OK
+2026-03-31T14:01:09,embed-video,vertex-mm-embedding,mm_video_essential,9010091,15.0,per second of video,0.0005,0.00750000,14.059,OK
+2026-03-31T14:01:09,enrichment,gemini,gemini_text_in,9010091,2791,per input token,1.5e-07,0.00041865,1.770,OK
+2026-03-31T14:01:09,enrichment,gemini,gemini_text_out,9010091,104,per output token,6e-07,0.00006240,0.000,OK
+2026-03-31T14:01:10,embed-frame,vertex-mm-embedding,mm_image,9010093,1.0,per image,0.0001,0.00010000,0.877,OK
+2026-03-31T14:01:10,embed-video,vertex-mm-embedding,mm_video_essential,9010093,30.0,per second of video,0.0005,0.01500000,11.473,OK
+2026-03-31T14:01:10,enrichment,gemini,gemini_text_in,9010093,2742,per input token,1.5e-07,0.00041130,1.593,OK
+2026-03-31T14:01:10,enrichment,gemini,gemini_text_out,9010093,119,per output token,6e-07,0.00007140,0.000,OK
+2026-03-31T14:01:11,embed-frame,vertex-mm-embedding,mm_image,9010095,1.0,per image,0.0001,0.00010000,0.869,OK
+2026-03-31T14:01:11,enrichment,gemini,gemini_text_in,9010095,3160,per input token,1.5e-07,0.00047400,1.629,OK
+2026-03-31T14:01:11,enrichment,gemini,gemini_text_out,9010095,100,per output token,6e-07,0.00006000,0.000,OK
+2026-03-31T14:01:12,embed-frame,vertex-mm-embedding,mm_image,9010097,1.0,per image,0.0001,0.00010000,1.020,OK
+2026-03-31T14:01:12,embed-video,vertex-mm-embedding,mm_video_essential,9010097,15.0,per second of video,0.0005,0.00750000,13.334,OK
+2026-03-31T14:01:12,enrichment,gemini,gemini_text_in,9010097,2796,per input token,1.5e-07,0.00041940,1.888,OK
+2026-03-31T14:01:12,enrichment,gemini,gemini_text_out,9010097,107,per output token,6e-07,0.00006420,0.000,OK
+2026-03-31T14:01:13,embed-frame,vertex-mm-embedding,mm_image,9010099,1.0,per image,0.0001,0.00010000,1.237,OK
+2026-03-31T14:01:13,embed-video,vertex-mm-embedding,mm_video_essential,9010099,30.0,per second of video,0.0005,0.01500000,15.315,OK
+2026-03-31T14:01:13,enrichment,gemini,gemini_text_in,9010099,3270,per input token,1.5e-07,0.00049050,1.349,OK
+2026-03-31T14:01:13,enrichment,gemini,gemini_text_out,9010099,104,per output token,6e-07,0.00006240,0.000,OK
+2026-03-31T14:01:14,embed-frame,vertex-mm-embedding,mm_image,9010101,1.0,per image,0.0001,0.00010000,1.105,OK
+2026-03-31T14:01:14,enrichment,gemini,gemini_text_in,9010101,3211,per input token,1.5e-07,0.00048165,1.830,OK
+2026-03-31T14:01:14,enrichment,gemini,gemini_text_out,9010101,132,per output token,6e-07,0.00007920,0.000,OK
+2026-03-31T14:01:15,embed-frame,vertex-mm-embedding,mm_image,9010103,1.0,per image,0.0001,0.00010000,1.026,OK
+2026-03-31T14:01:15,embed-video,vertex-mm-embedding,mm_video_essential,9010103,30.0,per second of video,0.0005,0.01500000,15.452,OK
+2026-03-31T14:01:15,enrichment,gemini,gemini_text_in,9010103,2427,per input token,1.5e-07,0.00036405,1.578,OK
+2026-03-31T14:01:15,enrichment,gemini,gemini_text_out,9010103,116,per output token,6e-07,0.00006960,0.000,OK
+2026-03-31T14:01:16,embed-frame,vertex-mm-embedding,mm_image,9010105,1.0,per image,0.0001,0.00010000,1.218,OK
+2026-03-31T14:01:16,embed-video,vertex-mm-embedding,mm_video_essential,9010105,30.0,per second of video,0.0005,0.01500000,15.230,OK
+2026-03-31T14:01:16,enrichment,gemini,gemini_text_in,9010105,3118,per input token,1.5e-07,0.00046770,1.706,OK
+2026-03-31T14:01:16,enrichment,gemini,gemini_text_out,9010105,100,per output token,6e-07,0.00006000,0.000,OK
+2026-03-31T14:01:17,embed-frame,vertex-mm-embedding,mm_image,9010107,1.0,per image,0.0001,0.00010000,1.254,OK
+2026-03-31T14:01:17,enrichment,gemini,gemini_text_in,9010107,2819,per input token,1.5e-07,0.00042285,1.376,OK
+2026-03-31T14:01:17,enrichment,gemini,gemini_text_out,9010107,113,per output token,6e-07,0.00006780,0.000,OK
+2026-03-31T14:01:18,embed-frame,vertex-mm-embedding,mm_image,9010109,1.0,per image,0.0001,0.00010000,1.262,OK
+2026-03-31T14:01:18,embed-video,vertex-mm-embedding,mm_video_essential,9010109,10.0,per second of video,0.0005,0.00500000,15.255,OK
+2026-03-31T14:01:18,enrichment,gemini,gemini_text_in,9010109,3371,per input token,1.5e-07,0.00050565,1.481,OK
+2026-03-31T14:01:18,enrichment,gemini,gemini_text_out,9010109,117,per output token,6e-07,0.00007020,0.000,OK
+2026-03-31T14:01:19,embed-frame,vertex-mm-embedding,mm_image,9010111,1.0,per image,0.0001,0.00010000,1.013,OK
+2026-03-31T14:01:19,embed-video,vertex-mm-embedding,mm_video_essential,9010111,10.0,per second of video,0.0005,0.00500000,14.411,OK
+2026-03-31T14:01:19,enrichment,gemini,gemini_text_in,9010111,3380,per input token,1.5e-07,0.00050700,1.619,OK
+2026-03-31T14:01:19,enrichment,gemini,gemini_text_out,9010111,135,per output token,6e-07,0.00008100,0.000,OK
+2026-03-31T14:01:20,embed-frame,vertex-mm-embedding,mm_image,9010113,1.0,per image,0.0001,0.00010000,1.189,OK
+2026-03-31T14:01:20,enrichment,gemini,gemini_text_in,9010113,2423,per input token,1.5e-07,0.00036345,1.723,OK
+2026-03-31T14:01:20,enrichment,gemini,gemini_text_out,9010113,110,per output token,6e-07,0.00006600,0.000,OK
+2026-03-31T14:01:21,embed-frame,vertex-mm-embedding,mm_image,9010115,1.0,per image,0.0001,0.00010000,1.191,OK
+2026-03-31T14:01:21,embed-video,vertex-mm-embedding,mm_video_essential,9010115,30.0,per second of video,0.0005,0.01500000,12.728,OK
+2026-03-31T14:01:21,enrichment,gemini,gemini_text_in,9010115,2650,per input token,1.5e-07,0.00039750,1.633,OK
+2026-03-31T14:01:21,enrichment,gemini,gemini_text_out,9010115,139,per output token,6e-07,0.00008340,0.000,OK
+2026-03-31T14:01:22,embed-frame,vertex-mm-embedding,mm_image,9010117,1.0,per image,0.0001,0.00010000,0.898,OK
+2026-03-31T14:01:22,embed-video,vertex-mm-embedding,mm_video_essential,9010117,15.0,per second of video,0.0005,0.00750000,13.980,OK
+2026-03-31T14:01:22,enrichment,gemini,gemini_text_in,9010117,2746,per input token,1.5e-07,0.00041190,1.432,OK
+2026-03-31T14:01:22,enrichment,gemini,gemini_text_out,9010117,103,per output token,6e-07,0.00006180,0.000,OK
+2026-03-31T14:01:23,embed-frame,vertex-mm-embedding,mm_image,9010119,1.0,per image,0.0001,0.00010000,1.257,OK
+2026-03-31T14:01:23,enrichment,gemini,gemini_text_in,9010119,2415,per input token,1.5e-07,0.00036225,1.779,OK
+2026-03-31T14:01:23,enrichment,gemini,gemini_text_out,9010119,142,per output token,6e-07,0.00008520,0.000,OK
+2026-03-31T14:01:24,embed-frame,vertex-mm-embedding,mm_image,9010121,1.0,per image,0.0001,0.00010000,1.082,OK
+2026-03-31T14:01:24,embed-video,vertex-mm-embedding,mm_video_essential,9010121,10.0,per second of video,0.0005,0.00500000,14.459,OK
+2026-03-31T14:01:24,enrichment,gemini,gemini_text_in,9010121,2409,per input token,1.5e-07,0.00036135,1.536,OK
+2026-03-31T14:01:24,enrichment,gemini,gemini_text_out,9010121,105,per output token,6e-07,0.00006300,0.000,OK
+2026-03-31T14:01:25,embed-frame,vertex-mm-embedding,mm_image,9010123,1.0,per image,0.0001,0.00010000,1.200,OK
+2026-03-31T14:01:25,embed-video,vertex-mm-embedding,mm_video_essential,9010123,10.0,per second of video,0.0005,0.00500000,12.318,OK
+2026-03-31T14:01:25,enrichment,gemini,gemini_text_in,9010123,3169,per input token,1.5e-07,0.00047535,1.391,OK
+2026-03-31T14:01:25,enrichment,gemini,gemini_text_out,9010123,106,per output token,6e-07,0.00006360,0.000,OK
+2026-03-31T14:01:26,embed-frame,vertex-mm-embedding,mm_image,9010125,1.0,per image,0.0001,0.00010000,0.873,OK
+2026-03-31T14:01:26,embed-video,vertex-mm-embedding,mm_video_essential,9010125,10.0,per second of video,0.0005,0.00500000,11.967,OK
+2026-03-31T14:01:26,enrichment,gemini,gemini_text_in,9010125,2799,per input token,1.5e-07,0.00041985,1.284,OK
+2026-03-31T14:01:26,enrichment,gemini,gemini_text_out,9010125,100,per output token,6e-07,0.00006000,0.000,OK
+2026-03-31T14:01:27,embed-frame,vertex-mm-embedding,mm_image,9010128,1.0,per image,0.0001,0.00010000,1.204,OK
+2026-03-31T14:01:27,embed-video,vertex-mm-embedding,mm_video_essential,9010128,15.0,per second of video,0.0005,0.00750000,11.691,OK
+2026-03-31T14:01:27,enrichment,gemini,gemini_text_in,9010128,2861,per input token,1.5e-07,0.00042915,1.477,OK
+2026-03-31T14:01:27,enrichment,gemini,gemini_text_out,9010128,107,per output token,6e-07,0.00006420,0.000,OK
+2026-03-31T14:01:28,embed-frame,vertex-mm-embedding,mm_image,9010131,1.0,per image,0.0001,0.00010000,1.313,OK
+2026-03-31T14:01:28,enrichment,gemini,gemini_text_in,9010131,2819,per input token,1.5e-07,0.00042285,1.546,OK
+2026-03-31T14:01:28,enrichment,gemini,gemini_text_out,9010131,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:01:29,embed-frame,vertex-mm-embedding,mm_image,9010134,1.0,per image,0.0001,0.00010000,1.182,OK
+2026-03-31T14:01:29,embed-video,vertex-mm-embedding,mm_video_essential,9010134,15.0,per second of video,0.0005,0.00750000,15.388,OK
+2026-03-31T14:01:29,enrichment,gemini,gemini_text_in,9010134,3342,per input token,1.5e-07,0.00050130,1.480,OK
+2026-03-31T14:01:29,enrichment,gemini,gemini_text_out,9010134,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:01:30,embed-frame,vertex-mm-embedding,mm_image,9010137,1.0,per image,0.0001,0.00010000,1.253,OK
+2026-03-31T14:01:30,embed-video,vertex-mm-embedding,mm_video_essential,9010137,10.0,per second of video,0.0005,0.00500000,13.438,OK
+2026-03-31T14:01:30,enrichment,gemini,gemini_text_in,9010137,3399,per input token,1.5e-07,0.00050985,1.353,OK
+2026-03-31T14:01:30,enrichment,gemini,gemini_text_out,9010137,109,per output token,6e-07,0.00006540,0.000,OK
+2026-03-31T14:01:31,embed-frame,vertex-mm-embedding,mm_image,9010140,1.0,per image,0.0001,0.00010000,0.975,OK
+2026-03-31T14:01:31,enrichment,gemini,gemini_text_in,9010140,3135,per input token,1.5e-07,0.00047025,1.464,OK
+2026-03-31T14:01:31,enrichment,gemini,gemini_text_out,9010140,101,per output token,6e-07,0.00006060,0.000,OK
+2026-03-31T14:01:32,embed-frame,vertex-mm-embedding,mm_image,9010143,1.0,per image,0.0001,0.00010000,1.333,OK
+2026-03-31T14:01:32,embed-video,vertex-mm-embedding,mm_video_essential,9010143,30.0,per second of video,0.0005,0.01500000,14.119,OK
+2026-03-31T14:01:32,enrichment,gemini,gemini_text_in,9010143,2982,per input token,1.5e-07,0.00044730,1.789,OK
+2026-03-31T14:01:32,enrichment,gemini,gemini_text_out,9010143,101,per output token,6e-07,0.00006060,0.000,OK
+2026-03-31T14:01:33,embed-frame,vertex-mm-embedding,mm_image,9010146,1.0,per image,0.0001,0.00010000,1.119,OK
+2026-03-31T14:01:33,embed-video,vertex-mm-embedding,mm_video_essential,9010146,30.0,per second of video,0.0005,0.01500000,15.209,OK
+2026-03-31T14:01:33,enrichment,gemini,gemini_text_in,9010146,2531,per input token,1.5e-07,0.00037965,1.654,OK
+2026-03-31T14:01:33,enrichment,gemini,gemini_text_out,9010146,134,per output token,6e-07,0.00008040,0.000,OK
+2026-03-31T14:01:34,embed-frame,vertex-mm-embedding,mm_image,9010149,1.0,per image,0.0001,0.00010000,0.990,OK
+2026-03-31T14:01:34,enrichment,gemini,gemini_text_in,9010149,2544,per input token,1.5e-07,0.00038160,1.639,OK
+2026-03-31T14:01:34,enrichment,gemini,gemini_text_out,9010149,96,per output token,6e-07,0.00005760,0.000,OK
+2026-03-31T14:01:35,embed-frame,vertex-mm-embedding,mm_image,9010152,1.0,per image,0.0001,0.00010000,1.050,OK
+2026-03-31T14:01:35,embed-video,vertex-mm-embedding,mm_video_essential,9010152,15.0,per second of video,0.0005,0.00750000,13.025,OK
+2026-03-31T14:01:35,enrichment,gemini,gemini_text_in,9010152,2483,per input token,1.5e-07,0.00037245,1.636,OK
+2026-03-31T14:01:35,enrichment,gemini,gemini_text_out,9010152,144,per output token,6e-07,0.00008640,0.000,OK
+2026-03-31T14:01:36,embed-frame,vertex-mm-embedding,mm_image,9010155,1.0,per image,0.0001,0.00010000,1.212,OK
+2026-03-31T14:01:36,embed-video,vertex-mm-embedding,mm_video_essential,9010155,30.0,per second of video,0.0005,0.01500000,12.921,OK
+2026-03-31T14:01:36,enrichment,gemini,gemini_text_in,9010155,3265,per input token,1.5e-07,0.00048975,1.819,OK
+2026-03-31T14:01:36,enrichment,gemini,gemini_text_out,9010155,96,per output token,6e-07,0.00005760,0.000,OK
+2026-03-31T14:01:37,embed-frame,vertex-mm-embedding,mm_image,9010158,1.0,per image,0.0001,0.00010000,0.946,OK
+2026-03-31T14:01:37,enrichment,gemini,gemini_text_in,9010158,3239,per input token,1.5e-07,0.00048585,1.264,OK
+2026-03-31T14:01:37,enrichment,gemini,gemini_text_out,9010158,104,per output token,6e-07,0.00006240,0.000,OK
+2026-03-31T14:01:38,embed-frame,vertex-mm-embedding,mm_image,9010161,1.0,per image,0.0001,0.00010000,1.175,OK
+2026-03-31T14:01:38,embed-video,vertex-mm-embedding,mm_video_essential,9010161,10.0,per second of video,0.0005,0.00500000,14.665,OK
+2026-03-31T14:01:38,enrichment,gemini,gemini_text_in,9010161,2655,per input token,1.5e-07,0.00039825,1.738,OK
+2026-03-31T14:01:38,enrichment,gemini,gemini_text_out,9010161,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:01:39,embed-frame,vertex-mm-embedding,mm_image,9010163,1.0,per image,0.0001,0.00010000,1.289,OK
+2026-03-31T14:01:39,embed-video,vertex-mm-embedding,mm_video_essential,9010163,30.0,per second of video,0.0005,0.01500000,13.323,OK
+2026-03-31T14:01:39,enrichment,gemini,gemini_text_in,9010163,3290,per input token,1.5e-07,0.00049350,1.491,OK
+2026-03-31T14:01:39,enrichment,gemini,gemini_text_out,9010163,129,per output token,6e-07,0.00007740,0.000,OK
+2026-03-31T14:01:40,embed-frame,vertex-mm-embedding,mm_image,9010165,1.0,per image,0.0001,0.00010000,1.124,OK
+2026-03-31T14:01:40,enrichment,gemini,gemini_text_in,9010165,3153,per input token,1.5e-07,0.00047295,1.895,OK
+2026-03-31T14:01:40,enrichment,gemini,gemini_text_out,9010165,127,per output token,6e-07,0.00007620,0.000,OK
+2026-03-31T14:01:41,embed-frame,vertex-mm-embedding,mm_image,9010167,1.0,per image,0.0001,0.00010000,1.197,OK
+2026-03-31T14:01:41,embed-video,vertex-mm-embedding,mm_video_essential,9010167,10.0,per second of video,0.0005,0.00500000,15.528,OK
+2026-03-31T14:01:41,enrichment,gemini,gemini_text_in,9010167,2669,per input token,1.5e-07,0.00040035,1.310,OK
+2026-03-31T14:01:41,enrichment,gemini,gemini_text_out,9010167,105,per output token,6e-07,0.00006300,0.000,OK
+2026-03-31T14:01:42,embed-frame,vertex-mm-embedding,mm_image,9010169,1.0,per image,0.0001,0.00010000,1.295,OK
+2026-03-31T14:01:42,embed-video,vertex-mm-embedding,mm_video_essential,9010169,10.0,per second of video,0.0005,0.00500000,12.777,OK
+2026-03-31T14:01:42,enrichment,gemini,gemini_text_in,9010169,2738,per input token,1.5e-07,0.00041070,1.726,OK
+2026-03-31T14:01:42,enrichment,gemini,gemini_text_out,9010169,140,per output token,6e-07,0.00008400,0.000,OK
+2026-03-31T14:01:43,embed-frame,vertex-mm-embedding,mm_image,9010171,1.0,per image,0.0001,0.00010000,1.219,OK
+2026-03-31T14:01:43,enrichment,gemini,gemini_text_in,9010171,3125,per input token,1.5e-07,0.00046875,1.842,OK
+2026-03-31T14:01:43,enrichment,gemini,gemini_text_out,9010171,138,per output token,6e-07,0.00008280,0.000,OK
+2026-03-31T14:01:44,embed-frame,vertex-mm-embedding,mm_image,9010173,1.0,per image,0.0001,0.00010000,1.093,OK
+2026-03-31T14:01:44,embed-video,vertex-mm-embedding,mm_video_essential,9010173,30.0,per second of video,0.0005,0.01500000,15.307,OK
+2026-03-31T14:01:44,enrichment,gemini,gemini_text_in,9010173,3188,per input token,1.5e-07,0.00047820,1.872,OK
+2026-03-31T14:01:44,enrichment,gemini,gemini_text_out,9010173,113,per output token,6e-07,0.00006780,0.000,OK
+2026-03-31T14:01:45,embed-frame,vertex-mm-embedding,mm_image,9010175,1.0,per image,0.0001,0.00010000,1.126,OK
+2026-03-31T14:01:45,embed-video,vertex-mm-embedding,mm_video_essential,9010175,10.0,per second of video,0.0005,0.00500000,14.622,OK
+2026-03-31T14:01:45,enrichment,gemini,gemini_text_in,9010175,3041,per input token,1.5e-07,0.00045615,1.581,OK
+2026-03-31T14:01:45,enrichment,gemini,gemini_text_out,9010175,121,per output token,6e-07,0.00007260,0.000,OK
+2026-03-31T14:01:46,embed-frame,vertex-mm-embedding,mm_image,9010177,1.0,per image,0.0001,0.00010000,0.976,OK
+2026-03-31T14:01:46,enrichment,gemini,gemini_text_in,9010177,2846,per input token,1.5e-07,0.00042690,1.578,OK
+2026-03-31T14:01:46,enrichment,gemini,gemini_text_out,9010177,127,per output token,6e-07,0.00007620,0.000,OK
+2026-03-31T14:01:47,embed-frame,vertex-mm-embedding,mm_image,9010179,1.0,per image,0.0001,0.00010000,0.965,OK
+2026-03-31T14:01:47,embed-video,vertex-mm-embedding,mm_video_essential,9010179,10.0,per second of video,0.0005,0.00500000,14.608,OK
+2026-03-31T14:01:47,enrichment,gemini,gemini_text_in,9010179,2568,per input token,1.5e-07,0.00038520,1.691,OK
+2026-03-31T14:01:47,enrichment,gemini,gemini_text_out,9010179,144,per output token,6e-07,0.00008640,0.000,OK
+2026-03-31T14:01:48,embed-frame,vertex-mm-embedding,mm_image,9010181,1.0,per image,0.0001,0.00010000,0.981,OK
+2026-03-31T14:01:48,embed-video,vertex-mm-embedding,mm_video_essential,9010181,30.0,per second of video,0.0005,0.01500000,15.455,OK
+2026-03-31T14:01:48,enrichment,gemini,gemini_text_in,9010181,2656,per input token,1.5e-07,0.00039840,1.314,OK
+2026-03-31T14:01:48,enrichment,gemini,gemini_text_out,9010181,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:01:49,embed-frame,vertex-mm-embedding,mm_image,9010183,1.0,per image,0.0001,0.00010000,1.004,OK
+2026-03-31T14:01:49,enrichment,gemini,gemini_text_in,9010183,2805,per input token,1.5e-07,0.00042075,1.401,OK
+2026-03-31T14:01:49,enrichment,gemini,gemini_text_out,9010183,109,per output token,6e-07,0.00006540,0.000,OK
+2026-03-31T14:01:50,embed-frame,vertex-mm-embedding,mm_image,9010185,1.0,per image,0.0001,0.00010000,1.153,OK
+2026-03-31T14:01:50,embed-video,vertex-mm-embedding,mm_video_essential,9010185,15.0,per second of video,0.0005,0.00750000,13.214,OK
+2026-03-31T14:01:50,enrichment,gemini,gemini_text_in,9010185,2819,per input token,1.5e-07,0.00042285,1.695,OK
+2026-03-31T14:01:50,enrichment,gemini,gemini_text_out,9010185,136,per output token,6e-07,0.00008160,0.000,OK
+2026-03-31T14:01:51,embed-frame,vertex-mm-embedding,mm_image,9010187,1.0,per image,0.0001,0.00010000,0.921,OK
+2026-03-31T14:01:51,embed-video,vertex-mm-embedding,mm_video_essential,9010187,10.0,per second of video,0.0005,0.00500000,12.081,OK
+2026-03-31T14:01:51,enrichment,gemini,gemini_text_in,9010187,2708,per input token,1.5e-07,0.00040620,1.334,OK
+2026-03-31T14:01:51,enrichment,gemini,gemini_text_out,9010187,144,per output token,6e-07,0.00008640,0.000,OK
+2026-03-31T14:01:52,embed-frame,vertex-mm-embedding,mm_image,9010189,1.0,per image,0.0001,0.00010000,1.115,OK
+2026-03-31T14:01:52,enrichment,gemini,gemini_text_in,9010189,2713,per input token,1.5e-07,0.00040695,1.801,OK
+2026-03-31T14:01:52,enrichment,gemini,gemini_text_out,9010189,114,per output token,6e-07,0.00006840,0.000,OK
+2026-03-31T14:01:53,embed-frame,vertex-mm-embedding,mm_image,9010191,1.0,per image,0.0001,0.00010000,0.923,OK
+2026-03-31T14:01:53,embed-video,vertex-mm-embedding,mm_video_essential,9010191,30.0,per second of video,0.0005,0.01500000,13.481,OK
+2026-03-31T14:01:53,enrichment,gemini,gemini_text_in,9010191,2583,per input token,1.5e-07,0.00038745,1.222,OK
+2026-03-31T14:01:53,enrichment,gemini,gemini_text_out,9010191,95,per output token,6e-07,0.00005700,0.000,OK
+2026-03-31T14:01:54,embed-frame,vertex-mm-embedding,mm_image,9010193,1.0,per image,0.0001,0.00010000,1.273,OK
+2026-03-31T14:01:54,embed-video,vertex-mm-embedding,mm_video_essential,9010193,10.0,per second of video,0.0005,0.00500000,14.459,OK
+2026-03-31T14:01:54,enrichment,gemini,gemini_text_in,9010193,2521,per input token,1.5e-07,0.00037815,1.261,OK
+2026-03-31T14:01:54,enrichment,gemini,gemini_text_out,9010193,122,per output token,6e-07,0.00007320,0.000,OK
+2026-03-31T14:01:55,embed-frame,vertex-mm-embedding,mm_image,9010195,1.0,per image,0.0001,0.00010000,1.128,OK
+2026-03-31T14:01:55,enrichment,gemini,gemini_text_in,9010195,3094,per input token,1.5e-07,0.00046410,1.848,OK
+2026-03-31T14:01:55,enrichment,gemini,gemini_text_out,9010195,119,per output token,6e-07,0.00007140,0.000,OK
+2026-03-31T14:01:56,embed-frame,vertex-mm-embedding,mm_image,9010197,1.0,per image,0.0001,0.00010000,1.181,OK
+2026-03-31T14:01:56,embed-video,vertex-mm-embedding,mm_video_essential,9010197,15.0,per second of video,0.0005,0.00750000,14.734,OK
+2026-03-31T14:01:56,enrichment,gemini,gemini_text_in,9010197,3270,per input token,1.5e-07,0.00049050,1.317,OK
+2026-03-31T14:01:56,enrichment,gemini,gemini_text_out,9010197,113,per output token,6e-07,0.00006780,0.000,OK
+2026-03-31T14:01:57,embed-frame,vertex-mm-embedding,mm_image,9010199,1.0,per image,0.0001,0.00010000,1.130,OK
+2026-03-31T14:01:57,embed-video,vertex-mm-embedding,mm_video_essential,9010199,30.0,per second of video,0.0005,0.01500000,14.513,OK
+2026-03-31T14:01:57,enrichment,gemini,gemini_text_in,9010199,3281,per input token,1.5e-07,0.00049215,1.642,OK
+2026-03-31T14:01:57,enrichment,gemini,gemini_text_out,9010199,120,per output token,6e-07,0.00007200,0.000,OK
+2026-03-31T14:01:58,embed-frame,vertex-mm-embedding,mm_image,9010201,1.0,per image,0.0001,0.00010000,1.170,OK
+2026-03-31T14:01:58,enrichment,gemini,gemini_text_in,9010201,2403,per input token,1.5e-07,0.00036045,1.822,OK
+2026-03-31T14:01:58,enrichment,gemini,gemini_text_out,9010201,129,per output token,6e-07,0.00007740,0.000,OK
+2026-03-31T14:01:59,embed-frame,vertex-mm-embedding,mm_image,9010203,1.0,per image,0.0001,0.00010000,1.076,OK
+2026-03-31T14:01:59,embed-video,vertex-mm-embedding,mm_video_essential,9010203,15.0,per second of video,0.0005,0.00750000,11.716,OK
+2026-03-31T14:01:59,enrichment,gemini,gemini_text_in,9010203,2949,per input token,1.5e-07,0.00044235,1.210,OK
+2026-03-31T14:01:59,enrichment,gemini,gemini_text_out,9010203,112,per output token,6e-07,0.00006720,0.000,OK
+2026-03-31T14:02:00,embed-frame,vertex-mm-embedding,mm_image,9010205,1.0,per image,0.0001,0.00010000,1.148,OK
+2026-03-31T14:02:00,embed-video,vertex-mm-embedding,mm_video_essential,9010205,15.0,per second of video,0.0005,0.00750000,13.823,OK
+2026-03-31T14:02:00,enrichment,gemini,gemini_text_in,9010205,2636,per input token,1.5e-07,0.00039540,1.624,OK
+2026-03-31T14:02:00,enrichment,gemini,gemini_text_out,9010205,96,per output token,6e-07,0.00005760,0.000,OK
+2026-03-31T14:02:01,embed-frame,vertex-mm-embedding,mm_image,9010207,1.0,per image,0.0001,0.00010000,0.907,OK
+2026-03-31T14:02:01,enrichment,gemini,gemini_text_in,9010207,2433,per input token,1.5e-07,0.00036495,1.566,OK
+2026-03-31T14:02:01,enrichment,gemini,gemini_text_out,9010207,132,per output token,6e-07,0.00007920,0.000,OK
+2026-03-31T14:02:02,embed-frame,vertex-mm-embedding,mm_image,9010209,1.0,per image,0.0001,0.00010000,0.881,OK
+2026-03-31T14:02:02,embed-video,vertex-mm-embedding,mm_video_essential,9010209,15.0,per second of video,0.0005,0.00750000,12.707,OK
+2026-03-31T14:02:02,enrichment,gemini,gemini_text_in,9010209,3223,per input token,1.5e-07,0.00048345,1.413,OK
+2026-03-31T14:02:02,enrichment,gemini,gemini_text_out,9010209,111,per output token,6e-07,0.00006660,0.000,OK
+2026-03-31T14:02:03,embed-frame,vertex-mm-embedding,mm_image,9010211,1.0,per image,0.0001,0.00010000,0.952,OK
+2026-03-31T14:02:03,embed-video,vertex-mm-embedding,mm_video_essential,9010211,15.0,per second of video,0.0005,0.00750000,14.325,OK
+2026-03-31T14:02:03,enrichment,gemini,gemini_text_in,9010211,2688,per input token,1.5e-07,0.00040320,1.836,OK
+2026-03-31T14:02:03,enrichment,gemini,gemini_text_out,9010211,103,per output token,6e-07,0.00006180,0.000,OK
+2026-03-31T14:02:04,embed-frame,vertex-mm-embedding,mm_image,9010213,1.0,per image,0.0001,0.00010000,1.032,OK
+2026-03-31T14:02:04,enrichment,gemini,gemini_text_in,9010213,2741,per input token,1.5e-07,0.00041115,1.247,OK
+2026-03-31T14:02:04,enrichment,gemini,gemini_text_out,9010213,129,per output token,6e-07,0.00007740,0.000,OK
+2026-03-31T14:02:05,embed-frame,vertex-mm-embedding,mm_image,9010215,1.0,per image,0.0001,0.00010000,1.012,OK
+2026-03-31T14:02:05,embed-video,vertex-mm-embedding,mm_video_essential,9010215,10.0,per second of video,0.0005,0.00500000,14.346,OK
+2026-03-31T14:02:05,enrichment,gemini,gemini_text_in,9010215,2686,per input token,1.5e-07,0.00040290,1.848,OK
+2026-03-31T14:02:05,enrichment,gemini,gemini_text_out,9010215,102,per output token,6e-07,0.00006120,0.000,OK
+2026-03-31T14:02:06,embed-frame,vertex-mm-embedding,mm_image,9010217,1.0,per image,0.0001,0.00010000,1.228,OK
+2026-03-31T14:02:06,embed-video,vertex-mm-embedding,mm_video_essential,9010217,30.0,per second of video,0.0005,0.01500000,13.603,OK
+2026-03-31T14:02:06,enrichment,gemini,gemini_text_in,9010217,3246,per input token,1.5e-07,0.00048690,1.415,OK
+2026-03-31T14:02:06,enrichment,gemini,gemini_text_out,9010217,100,per output token,6e-07,0.00006000,0.000,OK
+2026-03-31T14:02:07,embed-frame,vertex-mm-embedding,mm_image,9010219,1.0,per image,0.0001,0.00010000,1.041,OK
+2026-03-31T14:02:07,enrichment,gemini,gemini_text_in,9010219,2889,per input token,1.5e-07,0.00043335,1.772,OK
+2026-03-31T14:02:07,enrichment,gemini,gemini_text_out,9010219,103,per output token,6e-07,0.00006180,0.000,OK
+2026-03-31T14:02:08,embed-frame,vertex-mm-embedding,mm_image,9010221,1.0,per image,0.0001,0.00010000,1.278,OK
+2026-03-31T14:02:08,embed-video,vertex-mm-embedding,mm_video_essential,9010221,15.0,per second of video,0.0005,0.00750000,11.686,OK
+2026-03-31T14:02:08,enrichment,gemini,gemini_text_in,9010221,2988,per input token,1.5e-07,0.00044820,1.624,OK
+2026-03-31T14:02:08,enrichment,gemini,gemini_text_out,9010221,104,per output token,6e-07,0.00006240,0.000,OK
+2026-03-31T14:02:09,embed-frame,vertex-mm-embedding,mm_image,9010223,1.0,per image,0.0001,0.00010000,0.977,OK
+2026-03-31T14:02:09,embed-video,vertex-mm-embedding,mm_video_essential,9010223,10.0,per second of video,0.0005,0.00500000,11.905,OK
+2026-03-31T14:02:09,enrichment,gemini,gemini_text_in,9010223,2693,per input token,1.5e-07,0.00040395,1.436,OK
+2026-03-31T14:02:09,enrichment,gemini,gemini_text_out,9010223,113,per output token,6e-07,0.00006780,0.000,OK
+2026-03-31T14:02:10,embed-frame,vertex-mm-embedding,mm_image,9010225,1.0,per image,0.0001,0.00010000,1.143,OK
+2026-03-31T14:02:10,enrichment,gemini,gemini_text_in,9010225,3392,per input token,1.5e-07,0.00050880,1.618,OK
+2026-03-31T14:02:10,enrichment,gemini,gemini_text_out,9010225,122,per output token,6e-07,0.00007320,0.000,OK
+2026-03-31T14:02:11,embed-frame,vertex-mm-embedding,mm_image,9010227,1.0,per image,0.0001,0.00010000,1.147,OK
+2026-03-31T14:02:11,embed-video,vertex-mm-embedding,mm_video_essential,9010227,10.0,per second of video,0.0005,0.00500000,13.579,OK
+2026-03-31T14:02:11,enrichment,gemini,gemini_text_in,9010227,3012,per input token,1.5e-07,0.00045180,1.416,OK
+2026-03-31T14:02:11,enrichment,gemini,gemini_text_out,9010227,114,per output token,6e-07,0.00006840,0.000,OK
+2026-03-31T14:02:12,embed-frame,vertex-mm-embedding,mm_image,9010229,1.0,per image,0.0001,0.00010000,1.327,OK
+2026-03-31T14:02:12,embed-video,vertex-mm-embedding,mm_video_essential,9010229,15.0,per second of video,0.0005,0.00750000,15.571,OK
+2026-03-31T14:02:12,enrichment,gemini,gemini_text_in,9010229,3356,per input token,1.5e-07,0.00050340,1.712,OK
+2026-03-31T14:02:12,enrichment,gemini,gemini_text_out,9010229,129,per output token,6e-07,0.00007740,0.000,OK
+2026-03-31T14:02:13,embed-frame,vertex-mm-embedding,mm_image,9010231,1.0,per image,0.0001,0.00010000,1.338,OK
+2026-03-31T14:02:13,enrichment,gemini,gemini_text_in,9010231,2932,per input token,1.5e-07,0.00043980,1.497,OK
+2026-03-31T14:02:13,enrichment,gemini,gemini_text_out,9010231,97,per output token,6e-07,0.00005820,0.000,OK
+2026-03-31T14:02:14,embed-frame,vertex-mm-embedding,mm_image,9010233,1.0,per image,0.0001,0.00010000,1.046,OK
+2026-03-31T14:02:14,embed-video,vertex-mm-embedding,mm_video_essential,9010233,15.0,per second of video,0.0005,0.00750000,12.140,OK
+2026-03-31T14:02:14,enrichment,gemini,gemini_text_in,9010233,2780,per input token,1.5e-07,0.00041700,1.595,OK
+2026-03-31T14:02:14,enrichment,gemini,gemini_text_out,9010233,131,per output token,6e-07,0.00007860,0.000,OK
+2026-03-31T14:02:15,embed-frame,vertex-mm-embedding,mm_image,9010236,1.0,per image,0.0001,0.00010000,1.119,OK
+2026-03-31T14:02:15,embed-video,vertex-mm-embedding,mm_video_essential,9010236,15.0,per second of video,0.0005,0.00750000,11.666,OK
+2026-03-31T14:02:15,enrichment,gemini,gemini_text_in,9010236,3077,per input token,1.5e-07,0.00046155,1.899,OK
+2026-03-31T14:02:15,enrichment,gemini,gemini_text_out,9010236,104,per output token,6e-07,0.00006240,0.000,OK
+2026-03-31T14:02:16,embed-frame,vertex-mm-embedding,mm_image,9010239,1.0,per image,0.0001,0.00010000,1.219,OK
+2026-03-31T14:02:16,enrichment,gemini,gemini_text_in,9010239,3187,per input token,1.5e-07,0.00047805,1.458,OK
+2026-03-31T14:02:16,enrichment,gemini,gemini_text_out,9010239,109,per output token,6e-07,0.00006540,0.000,OK
+2026-03-31T14:02:17,embed-frame,vertex-mm-embedding,mm_image,9010242,1.0,per image,0.0001,0.00010000,0.863,OK
+2026-03-31T14:02:17,embed-video,vertex-mm-embedding,mm_video_essential,9010242,10.0,per second of video,0.0005,0.00500000,14.787,OK
+2026-03-31T14:02:17,enrichment,gemini,gemini_text_in,9010242,3347,per input token,1.5e-07,0.00050205,1.560,OK
+2026-03-31T14:02:17,enrichment,gemini,gemini_text_out,9010242,104,per output token,6e-07,0.00006240,0.000,OK
+2026-03-31T14:02:18,embed-frame,vertex-mm-embedding,mm_image,9010245,1.0,per image,0.0001,0.00010000,1.304,OK
+2026-03-31T14:02:18,embed-video,vertex-mm-embedding,mm_video_essential,9010245,15.0,per second of video,0.0005,0.00750000,15.149,OK
+2026-03-31T14:02:18,enrichment,gemini,gemini_text_in,9010245,2976,per input token,1.5e-07,0.00044640,1.519,OK
+2026-03-31T14:02:18,enrichment,gemini,gemini_text_out,9010245,111,per output token,6e-07,0.00006660,0.000,OK
+2026-03-31T14:02:19,embed-frame,vertex-mm-embedding,mm_image,9010248,1.0,per image,0.0001,0.00010000,0.927,OK
+2026-03-31T14:02:19,enrichment,gemini,gemini_text_in,9010248,2698,per input token,1.5e-07,0.00040470,1.740,OK
+2026-03-31T14:02:19,enrichment,gemini,gemini_text_out,9010248,107,per output token,6e-07,0.00006420,0.000,OK
+2026-03-31T14:02:20,embed-frame,vertex-mm-embedding,mm_image,9010251,1.0,per image,0.0001,0.00010000,1.214,OK
+2026-03-31T14:02:20,embed-video,vertex-mm-embedding,mm_video_essential,9010251,30.0,per second of video,0.0005,0.01500000,14.564,OK
+2026-03-31T14:02:20,enrichment,gemini,gemini_text_in,9010251,3310,per input token,1.5e-07,0.00049650,1.822,OK
+2026-03-31T14:02:20,enrichment,gemini,gemini_text_out,9010251,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:02:21,embed-frame,vertex-mm-embedding,mm_image,9010254,1.0,per image,0.0001,0.00010000,1.054,OK
+2026-03-31T14:02:21,embed-video,vertex-mm-embedding,mm_video_essential,9010254,30.0,per second of video,0.0005,0.01500000,13.675,OK
+2026-03-31T14:02:21,enrichment,gemini,gemini_text_in,9010254,3036,per input token,1.5e-07,0.00045540,1.680,OK
+2026-03-31T14:02:21,enrichment,gemini,gemini_text_out,9010254,126,per output token,6e-07,0.00007560,0.000,OK
+2026-03-31T14:02:22,embed-frame,vertex-mm-embedding,mm_image,9010257,1.0,per image,0.0001,0.00010000,1.327,OK
+2026-03-31T14:02:22,enrichment,gemini,gemini_text_in,9010257,2854,per input token,1.5e-07,0.00042810,1.638,OK
+2026-03-31T14:02:22,enrichment,gemini,gemini_text_out,9010257,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:02:23,embed-frame,vertex-mm-embedding,mm_image,9010259,1.0,per image,0.0001,0.00010000,1.335,OK
+2026-03-31T14:02:23,embed-video,vertex-mm-embedding,mm_video_essential,9010259,15.0,per second of video,0.0005,0.00750000,14.466,OK
+2026-03-31T14:02:23,enrichment,gemini,gemini_text_in,9010259,3284,per input token,1.5e-07,0.00049260,1.217,OK
+2026-03-31T14:02:23,enrichment,gemini,gemini_text_out,9010259,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:02:24,embed-frame,vertex-mm-embedding,mm_image,9010261,1.0,per image,0.0001,0.00010000,1.133,OK
+2026-03-31T14:02:24,embed-video,vertex-mm-embedding,mm_video_essential,9010261,10.0,per second of video,0.0005,0.00500000,13.511,OK
+2026-03-31T14:02:24,enrichment,gemini,gemini_text_in,9010261,3396,per input token,1.5e-07,0.00050940,1.676,OK
+2026-03-31T14:02:24,enrichment,gemini,gemini_text_out,9010261,95,per output token,6e-07,0.00005700,0.000,OK
+2026-03-31T14:02:25,embed-frame,vertex-mm-embedding,mm_image,9010263,1.0,per image,0.0001,0.00010000,1.204,OK
+2026-03-31T14:02:25,enrichment,gemini,gemini_text_in,9010263,2882,per input token,1.5e-07,0.00043230,1.237,OK
+2026-03-31T14:02:25,enrichment,gemini,gemini_text_out,9010263,100,per output token,6e-07,0.00006000,0.000,OK
+2026-03-31T14:02:26,embed-frame,vertex-mm-embedding,mm_image,9010265,1.0,per image,0.0001,0.00010000,0.955,OK
+2026-03-31T14:02:26,embed-video,vertex-mm-embedding,mm_video_essential,9010265,10.0,per second of video,0.0005,0.00500000,12.539,OK
+2026-03-31T14:02:26,enrichment,gemini,gemini_text_in,9010265,2673,per input token,1.5e-07,0.00040095,1.472,OK
+2026-03-31T14:02:26,enrichment,gemini,gemini_text_out,9010265,131,per output token,6e-07,0.00007860,0.000,OK
+2026-03-31T14:02:27,embed-frame,vertex-mm-embedding,mm_image,9010267,1.0,per image,0.0001,0.00010000,0.874,OK
+2026-03-31T14:02:27,embed-video,vertex-mm-embedding,mm_video_essential,9010267,30.0,per second of video,0.0005,0.01500000,15.468,OK
+2026-03-31T14:02:27,enrichment,gemini,gemini_text_in,9010267,3312,per input token,1.5e-07,0.00049680,1.697,OK
+2026-03-31T14:02:27,enrichment,gemini,gemini_text_out,9010267,99,per output token,6e-07,0.00005940,0.000,OK
+2026-03-31T14:02:28,embed-frame,vertex-mm-embedding,mm_image,9010269,1.0,per image,0.0001,0.00010000,1.286,OK
+2026-03-31T14:02:28,enrichment,gemini,gemini_text_in,9010269,2424,per input token,1.5e-07,0.00036360,1.482,OK
+2026-03-31T14:02:28,enrichment,gemini,gemini_text_out,9010269,126,per output token,6e-07,0.00007560,0.000,OK
+2026-03-31T14:02:29,embed-frame,vertex-mm-embedding,mm_image,9010271,1.0,per image,0.0001,0.00010000,1.036,OK
+2026-03-31T14:02:29,embed-video,vertex-mm-embedding,mm_video_essential,9010271,15.0,per second of video,0.0005,0.00750000,13.501,OK
+2026-03-31T14:02:29,enrichment,gemini,gemini_text_in,9010271,2950,per input token,1.5e-07,0.00044250,1.495,OK
+2026-03-31T14:02:29,enrichment,gemini,gemini_text_out,9010271,114,per output token,6e-07,0.00006840,0.000,OK
+2026-03-31T14:02:30,embed-frame,vertex-mm-embedding,mm_image,9010273,1.0,per image,0.0001,0.00010000,0.987,OK
+2026-03-31T14:02:30,embed-video,vertex-mm-embedding,mm_video_essential,9010273,30.0,per second of video,0.0005,0.01500000,14.983,OK
+2026-03-31T14:02:30,enrichment,gemini,gemini_text_in,9010273,2669,per input token,1.5e-07,0.00040035,1.881,OK
+2026-03-31T14:02:30,enrichment,gemini,gemini_text_out,9010273,139,per output token,6e-07,0.00008340,0.000,OK
+2026-03-31T14:02:31,embed-frame,vertex-mm-embedding,mm_image,9010275,1.0,per image,0.0001,0.00010000,0.994,OK
+2026-03-31T14:02:31,enrichment,gemini,gemini_text_in,9010275,3183,per input token,1.5e-07,0.00047745,1.221,OK
+2026-03-31T14:02:31,enrichment,gemini,gemini_text_out,9010275,119,per output token,6e-07,0.00007140,0.000,OK
+2026-03-31T14:02:32,embed-frame,vertex-mm-embedding,mm_image,9010277,1.0,per image,0.0001,0.00010000,0.927,OK
+2026-03-31T14:02:32,embed-video,vertex-mm-embedding,mm_video_essential,9010277,10.0,per second of video,0.0005,0.00500000,13.707,OK
+2026-03-31T14:02:32,enrichment,gemini,gemini_text_in,9010277,3048,per input token,1.5e-07,0.00045720,1.635,OK
+2026-03-31T14:02:32,enrichment,gemini,gemini_text_out,9010277,115,per output token,6e-07,0.00006900,0.000,OK
+2026-03-31T14:02:33,embed-frame,vertex-mm-embedding,mm_image,9010279,1.0,per image,0.0001,0.00010000,1.030,OK
+2026-03-31T14:02:33,embed-video,vertex-mm-embedding,mm_video_essential,9010279,15.0,per second of video,0.0005,0.00750000,14.318,OK
+2026-03-31T14:02:33,enrichment,gemini,gemini_text_in,9010279,2462,per input token,1.5e-07,0.00036930,1.675,OK
+2026-03-31T14:02:33,enrichment,gemini,gemini_text_out,9010279,95,per output token,6e-07,0.00005700,0.000,OK
+2026-03-31T14:02:34,embed-frame,vertex-mm-embedding,mm_image,9010281,1.0,per image,0.0001,0.00010000,1.233,OK
+2026-03-31T14:02:34,enrichment,gemini,gemini_text_in,9010281,2937,per input token,1.5e-07,0.00044055,1.465,OK
+2026-03-31T14:02:34,enrichment,gemini,gemini_text_out,9010281,127,per output token,6e-07,0.00007620,0.000,OK
+2026-03-31T14:02:35,embed-frame,vertex-mm-embedding,mm_image,9010283,1.0,per image,0.0001,0.00010000,1.316,OK
+2026-03-31T14:02:35,embed-video,vertex-mm-embedding,mm_video_essential,9010283,10.0,per second of video,0.0005,0.00500000,14.825,OK
+2026-03-31T14:02:35,enrichment,gemini,gemini_text_in,9010283,3016,per input token,1.5e-07,0.00045240,1.206,OK
+2026-03-31T14:02:35,enrichment,gemini,gemini_text_out,9010283,95,per output token,6e-07,0.00005700,0.000,OK
+2026-03-31T14:02:36,embed-frame,vertex-mm-embedding,mm_image,9010285,1.0,per image,0.0001,0.00010000,1.071,OK
+2026-03-31T14:02:36,embed-video,vertex-mm-embedding,mm_video_essential,9010285,30.0,per second of video,0.0005,0.01500000,11.703,OK
+2026-03-31T14:02:36,enrichment,gemini,gemini_text_in,9010285,2937,per input token,1.5e-07,0.00044055,1.575,OK
+2026-03-31T14:02:36,enrichment,gemini,gemini_text_out,9010285,102,per output token,6e-07,0.00006120,0.000,OK
+2026-03-31T14:02:37,embed-frame,vertex-mm-embedding,mm_image,9010287,1.0,per image,0.0001,0.00010000,1.263,OK
+2026-03-31T14:02:37,enrichment,gemini,gemini_text_in,9010287,3228,per input token,1.5e-07,0.00048420,1.459,OK
+2026-03-31T14:02:37,enrichment,gemini,gemini_text_out,9010287,119,per output token,6e-07,0.00007140,0.000,OK
+2026-03-31T14:02:38,embed-frame,vertex-mm-embedding,mm_image,9010289,1.0,per image,0.0001,0.00010000,0.989,OK
+2026-03-31T14:02:38,embed-video,vertex-mm-embedding,mm_video_essential,9010289,15.0,per second of video,0.0005,0.00750000,12.544,OK
+2026-03-31T14:02:38,enrichment,gemini,gemini_text_in,9010289,3244,per input token,1.5e-07,0.00048660,1.500,OK
+2026-03-31T14:02:38,enrichment,gemini,gemini_text_out,9010289,100,per output token,6e-07,0.00006000,0.000,OK
+2026-03-31T14:02:39,embed-frame,vertex-mm-embedding,mm_image,9010291,1.0,per image,0.0001,0.00010000,0.953,OK
+2026-03-31T14:02:39,embed-video,vertex-mm-embedding,mm_video_essential,9010291,30.0,per second of video,0.0005,0.01500000,11.963,OK
+2026-03-31T14:02:39,enrichment,gemini,gemini_text_in,9010291,3340,per input token,1.5e-07,0.00050100,1.819,OK
+2026-03-31T14:02:39,enrichment,gemini,gemini_text_out,9010291,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:02:40,embed-frame,vertex-mm-embedding,mm_image,9010293,1.0,per image,0.0001,0.00010000,1.003,OK
+2026-03-31T14:02:40,enrichment,gemini,gemini_text_in,9010293,2567,per input token,1.5e-07,0.00038505,1.669,OK
+2026-03-31T14:02:40,enrichment,gemini,gemini_text_out,9010293,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:02:41,embed-frame,vertex-mm-embedding,mm_image,9010295,1.0,per image,0.0001,0.00010000,1.089,OK
+2026-03-31T14:02:41,embed-video,vertex-mm-embedding,mm_video_essential,9010295,10.0,per second of video,0.0005,0.00500000,12.504,OK
+2026-03-31T14:02:41,enrichment,gemini,gemini_text_in,9010295,3386,per input token,1.5e-07,0.00050790,1.750,OK
+2026-03-31T14:02:41,enrichment,gemini,gemini_text_out,9010295,127,per output token,6e-07,0.00007620,0.000,OK
+2026-03-31T14:02:42,embed-frame,vertex-mm-embedding,mm_image,9010297,1.0,per image,0.0001,0.00010000,1.184,OK
+2026-03-31T14:02:42,embed-video,vertex-mm-embedding,mm_video_essential,9010297,30.0,per second of video,0.0005,0.01500000,13.625,OK
+2026-03-31T14:02:42,enrichment,gemini,gemini_text_in,9010297,3362,per input token,1.5e-07,0.00050430,1.340,OK
+2026-03-31T14:02:42,enrichment,gemini,gemini_text_out,9010297,133,per output token,6e-07,0.00007980,0.000,OK
+2026-03-31T14:02:43,embed-frame,vertex-mm-embedding,mm_image,9010299,1.0,per image,0.0001,0.00010000,1.217,OK
+2026-03-31T14:02:43,enrichment,gemini,gemini_text_in,9010299,2818,per input token,1.5e-07,0.00042270,1.221,OK
+2026-03-31T14:02:43,enrichment,gemini,gemini_text_out,9010299,138,per output token,6e-07,0.00008280,0.000,OK
+2026-03-31T14:02:44,embed-frame,vertex-mm-embedding,mm_image,9010301,1.0,per image,0.0001,0.00010000,0.865,OK
+2026-03-31T14:02:44,embed-video,vertex-mm-embedding,mm_video_essential,9010301,10.0,per second of video,0.0005,0.00500000,13.350,OK
+2026-03-31T14:02:44,enrichment,gemini,gemini_text_in,9010301,3147,per input token,1.5e-07,0.00047205,1.350,OK
+2026-03-31T14:02:44,enrichment,gemini,gemini_text_out,9010301,119,per output token,6e-07,0.00007140,0.000,OK
+2026-03-31T14:02:45,embed-frame,vertex-mm-embedding,mm_image,9010303,1.0,per image,0.0001,0.00010000,0.906,OK
+2026-03-31T14:02:45,embed-video,vertex-mm-embedding,mm_video_essential,9010303,10.0,per second of video,0.0005,0.00500000,11.980,OK
+2026-03-31T14:02:45,enrichment,gemini,gemini_text_in,9010303,2690,per input token,1.5e-07,0.00040350,1.434,OK
+2026-03-31T14:02:45,enrichment,gemini,gemini_text_out,9010303,134,per output token,6e-07,0.00008040,0.000,OK
+2026-03-31T14:02:46,embed-frame,vertex-mm-embedding,mm_image,9010305,1.0,per image,0.0001,0.00010000,1.055,OK
+2026-03-31T14:02:46,embed-video,vertex-mm-embedding,mm_video_essential,9010305,15.0,per second of video,0.0005,0.00750000,13.050,OK
+2026-03-31T14:02:46,enrichment,gemini,gemini_text_in,9010305,3372,per input token,1.5e-07,0.00050580,1.316,OK
+2026-03-31T14:02:46,enrichment,gemini,gemini_text_out,9010305,135,per output token,6e-07,0.00008100,0.000,OK
+2026-03-31T14:02:47,embed-frame,vertex-mm-embedding,mm_image,9010308,1.0,per image,0.0001,0.00010000,0.850,OK
+2026-03-31T14:02:47,embed-video,vertex-mm-embedding,mm_video_essential,9010308,30.0,per second of video,0.0005,0.01500000,13.618,OK
+2026-03-31T14:02:47,enrichment,gemini,gemini_text_in,9010308,2586,per input token,1.5e-07,0.00038790,1.690,OK
+2026-03-31T14:02:47,enrichment,gemini,gemini_text_out,9010308,133,per output token,6e-07,0.00007980,0.000,OK
+2026-03-31T14:02:48,embed-frame,vertex-mm-embedding,mm_image,9010311,1.0,per image,0.0001,0.00010000,1.058,OK
+2026-03-31T14:02:48,enrichment,gemini,gemini_text_in,9010311,3324,per input token,1.5e-07,0.00049860,1.799,OK
+2026-03-31T14:02:48,enrichment,gemini,gemini_text_out,9010311,132,per output token,6e-07,0.00007920,0.000,OK
+2026-03-31T14:02:49,embed-frame,vertex-mm-embedding,mm_image,9010314,1.0,per image,0.0001,0.00010000,1.345,OK
+2026-03-31T14:02:49,embed-video,vertex-mm-embedding,mm_video_essential,9010314,15.0,per second of video,0.0005,0.00750000,14.356,OK
+2026-03-31T14:02:49,enrichment,gemini,gemini_text_in,9010314,3074,per input token,1.5e-07,0.00046110,1.214,OK
+2026-03-31T14:02:49,enrichment,gemini,gemini_text_out,9010314,100,per output token,6e-07,0.00006000,0.000,OK
+2026-03-31T14:02:50,embed-frame,vertex-mm-embedding,mm_image,9010317,1.0,per image,0.0001,0.00010000,1.151,OK
+2026-03-31T14:02:50,embed-video,vertex-mm-embedding,mm_video_essential,9010317,15.0,per second of video,0.0005,0.00750000,12.191,OK
+2026-03-31T14:02:50,enrichment,gemini,gemini_text_in,9010317,3267,per input token,1.5e-07,0.00049005,1.412,OK
+2026-03-31T14:02:50,enrichment,gemini,gemini_text_out,9010317,107,per output token,6e-07,0.00006420,0.000,OK
+2026-03-31T14:02:51,embed-frame,vertex-mm-embedding,mm_image,9010320,1.0,per image,0.0001,0.00010000,0.889,OK
+2026-03-31T14:02:51,enrichment,gemini,gemini_text_in,9010320,3046,per input token,1.5e-07,0.00045690,1.594,OK
+2026-03-31T14:02:51,enrichment,gemini,gemini_text_out,9010320,101,per output token,6e-07,0.00006060,0.000,OK
+2026-03-31T14:02:52,embed-frame,vertex-mm-embedding,mm_image,9010323,1.0,per image,0.0001,0.00010000,1.029,OK
+2026-03-31T14:02:52,embed-video,vertex-mm-embedding,mm_video_essential,9010323,30.0,per second of video,0.0005,0.01500000,13.546,OK
+2026-03-31T14:02:52,enrichment,gemini,gemini_text_in,9010323,3263,per input token,1.5e-07,0.00048945,1.609,OK
+2026-03-31T14:02:52,enrichment,gemini,gemini_text_out,9010323,111,per output token,6e-07,0.00006660,0.000,OK
+2026-03-31T14:02:53,embed-frame,vertex-mm-embedding,mm_image,9010326,1.0,per image,0.0001,0.00010000,1.256,OK
+2026-03-31T14:02:53,embed-video,vertex-mm-embedding,mm_video_essential,9010326,30.0,per second of video,0.0005,0.01500000,12.030,OK
+2026-03-31T14:02:53,enrichment,gemini,gemini_text_in,9010326,3074,per input token,1.5e-07,0.00046110,1.425,OK
+2026-03-31T14:02:53,enrichment,gemini,gemini_text_out,9010326,126,per output token,6e-07,0.00007560,0.000,OK
+2026-03-31T14:02:54,embed-frame,vertex-mm-embedding,mm_image,9010329,1.0,per image,0.0001,0.00010000,0.953,OK
+2026-03-31T14:02:54,enrichment,gemini,gemini_text_in,9010329,2861,per input token,1.5e-07,0.00042915,1.620,OK
+2026-03-31T14:02:54,enrichment,gemini,gemini_text_out,9010329,121,per output token,6e-07,0.00007260,0.000,OK
+2026-03-31T14:02:55,embed-frame,vertex-mm-embedding,mm_image,9010332,1.0,per image,0.0001,0.00010000,1.044,OK
+2026-03-31T14:02:55,embed-video,vertex-mm-embedding,mm_video_essential,9010332,10.0,per second of video,0.0005,0.00500000,14.356,OK
+2026-03-31T14:02:55,enrichment,gemini,gemini_text_in,9010332,2623,per input token,1.5e-07,0.00039345,1.337,OK
+2026-03-31T14:02:55,enrichment,gemini,gemini_text_out,9010332,96,per output token,6e-07,0.00005760,0.000,OK
+2026-03-31T14:02:56,embed-frame,vertex-mm-embedding,mm_image,9010335,1.0,per image,0.0001,0.00010000,1.268,OK
+2026-03-31T14:02:56,embed-video,vertex-mm-embedding,mm_video_essential,9010335,10.0,per second of video,0.0005,0.00500000,14.179,OK
+2026-03-31T14:02:56,enrichment,gemini,gemini_text_in,9010335,2439,per input token,1.5e-07,0.00036585,1.595,OK
+2026-03-31T14:02:56,enrichment,gemini,gemini_text_out,9010335,142,per output token,6e-07,0.00008520,0.000,OK
+2026-03-31T14:02:57,embed-frame,vertex-mm-embedding,mm_image,9010338,1.0,per image,0.0001,0.00010000,1.024,OK
+2026-03-31T14:02:57,enrichment,gemini,gemini_text_in,9010338,3036,per input token,1.5e-07,0.00045540,1.480,OK
+2026-03-31T14:02:57,enrichment,gemini,gemini_text_out,9010338,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:02:58,embed-frame,vertex-mm-embedding,mm_image,9010341,1.0,per image,0.0001,0.00010000,1.276,OK
+2026-03-31T14:02:58,embed-video,vertex-mm-embedding,mm_video_essential,9010341,10.0,per second of video,0.0005,0.00500000,12.793,OK
+2026-03-31T14:02:58,enrichment,gemini,gemini_text_in,9010341,3396,per input token,1.5e-07,0.00050940,1.697,OK
+2026-03-31T14:02:58,enrichment,gemini,gemini_text_out,9010341,135,per output token,6e-07,0.00008100,0.000,OK
+2026-03-31T14:02:59,embed-frame,vertex-mm-embedding,mm_image,9010343,1.0,per image,0.0001,0.00010000,1.008,OK
+2026-03-31T14:02:59,embed-video,vertex-mm-embedding,mm_video_essential,9010343,15.0,per second of video,0.0005,0.00750000,12.120,OK
+2026-03-31T14:02:59,enrichment,gemini,gemini_text_in,9010343,2690,per input token,1.5e-07,0.00040350,1.862,OK
+2026-03-31T14:02:59,enrichment,gemini,gemini_text_out,9010343,117,per output token,6e-07,0.00007020,0.000,OK
+2026-03-31T14:03:00,embed-frame,vertex-mm-embedding,mm_image,9010345,1.0,per image,0.0001,0.00010000,1.174,OK
+2026-03-31T14:03:00,enrichment,gemini,gemini_text_in,9010345,2512,per input token,1.5e-07,0.00037680,1.566,OK
+2026-03-31T14:03:00,enrichment,gemini,gemini_text_out,9010345,122,per output token,6e-07,0.00007320,0.000,OK
+2026-03-31T14:03:01,embed-frame,vertex-mm-embedding,mm_image,9010347,1.0,per image,0.0001,0.00010000,1.329,OK
+2026-03-31T14:03:01,embed-video,vertex-mm-embedding,mm_video_essential,9010347,10.0,per second of video,0.0005,0.00500000,14.977,OK
+2026-03-31T14:03:01,enrichment,gemini,gemini_text_in,9010347,2888,per input token,1.5e-07,0.00043320,1.338,OK
+2026-03-31T14:03:01,enrichment,gemini,gemini_text_out,9010347,111,per output token,6e-07,0.00006660,0.000,OK
+2026-03-31T14:03:02,embed-frame,vertex-mm-embedding,mm_image,9010349,1.0,per image,0.0001,0.00010000,0.899,OK
+2026-03-31T14:03:02,embed-video,vertex-mm-embedding,mm_video_essential,9010349,10.0,per second of video,0.0005,0.00500000,12.489,OK
+2026-03-31T14:03:02,enrichment,gemini,gemini_text_in,9010349,2682,per input token,1.5e-07,0.00040230,1.303,OK
+2026-03-31T14:03:02,enrichment,gemini,gemini_text_out,9010349,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:03:03,embed-frame,vertex-mm-embedding,mm_image,9010351,1.0,per image,0.0001,0.00010000,0.888,OK
+2026-03-31T14:03:03,enrichment,gemini,gemini_text_in,9010351,2532,per input token,1.5e-07,0.00037980,1.866,OK
+2026-03-31T14:03:03,enrichment,gemini,gemini_text_out,9010351,95,per output token,6e-07,0.00005700,0.000,OK
+2026-03-31T14:03:04,embed-frame,vertex-mm-embedding,mm_image,9010353,1.0,per image,0.0001,0.00010000,1.047,OK
+2026-03-31T14:03:04,embed-video,vertex-mm-embedding,mm_video_essential,9010353,15.0,per second of video,0.0005,0.00750000,12.512,OK
+2026-03-31T14:03:04,enrichment,gemini,gemini_text_in,9010353,2819,per input token,1.5e-07,0.00042285,1.424,OK
+2026-03-31T14:03:04,enrichment,gemini,gemini_text_out,9010353,110,per output token,6e-07,0.00006600,0.000,OK
+2026-03-31T14:03:05,embed-frame,vertex-mm-embedding,mm_image,9010355,1.0,per image,0.0001,0.00010000,0.958,OK
+2026-03-31T14:03:05,embed-video,vertex-mm-embedding,mm_video_essential,9010355,15.0,per second of video,0.0005,0.00750000,12.186,OK
+2026-03-31T14:03:05,enrichment,gemini,gemini_text_in,9010355,2587,per input token,1.5e-07,0.00038805,1.698,OK
+2026-03-31T14:03:05,enrichment,gemini,gemini_text_out,9010355,128,per output token,6e-07,0.00007680,0.000,OK
+2026-03-31T14:03:06,embed-frame,vertex-mm-embedding,mm_image,9010357,1.0,per image,0.0001,0.00010000,1.160,OK
+2026-03-31T14:03:06,enrichment,gemini,gemini_text_in,9010357,2473,per input token,1.5e-07,0.00037095,1.510,OK
+2026-03-31T14:03:06,enrichment,gemini,gemini_text_out,9010357,96,per output token,6e-07,0.00005760,0.000,OK
+2026-03-31T14:03:07,embed-frame,vertex-mm-embedding,mm_image,9010359,1.0,per image,0.0001,0.00010000,1.023,OK
+2026-03-31T14:03:07,embed-video,vertex-mm-embedding,mm_video_essential,9010359,15.0,per second of video,0.0005,0.00750000,12.536,OK
+2026-03-31T14:03:07,enrichment,gemini,gemini_text_in,9010359,3371,per input token,1.5e-07,0.00050565,1.868,OK
+2026-03-31T14:03:07,enrichment,gemini,gemini_text_out,9010359,101,per output token,6e-07,0.00006060,0.000,OK
+2026-03-31T14:03:08,embed-frame,vertex-mm-embedding,mm_image,9010361,1.0,per image,0.0001,0.00010000,1.086,OK
+2026-03-31T14:03:08,embed-video,vertex-mm-embedding,mm_video_essential,9010361,10.0,per second of video,0.0005,0.00500000,14.693,OK
+2026-03-31T14:03:08,enrichment,gemini,gemini_text_in,9010361,2837,per input token,1.5e-07,0.00042555,1.758,OK
+2026-03-31T14:03:08,enrichment,gemini,gemini_text_out,9010361,106,per output token,6e-07,0.00006360,0.000,OK
+2026-03-31T14:03:09,embed-frame,vertex-mm-embedding,mm_image,9010363,1.0,per image,0.0001,0.00010000,1.188,OK
+2026-03-31T14:03:09,enrichment,gemini,gemini_text_in,9010363,3321,per input token,1.5e-07,0.00049815,1.374,OK
+2026-03-31T14:03:09,enrichment,gemini,gemini_text_out,9010363,115,per output token,6e-07,0.00006900,0.000,OK
+2026-03-31T14:03:10,embed-frame,vertex-mm-embedding,mm_image,9010365,1.0,per image,0.0001,0.00010000,0.892,OK
+2026-03-31T14:03:10,embed-video,vertex-mm-embedding,mm_video_essential,9010365,10.0,per second of video,0.0005,0.00500000,11.794,OK
+2026-03-31T14:03:10,enrichment,gemini,gemini_text_in,9010365,3051,per input token,1.5e-07,0.00045765,1.365,OK
+2026-03-31T14:03:10,enrichment,gemini,gemini_text_out,9010365,134,per output token,6e-07,0.00008040,0.000,OK
+2026-03-31T14:03:11,embed-frame,vertex-mm-embedding,mm_image,9010367,1.0,per image,0.0001,0.00010000,1.098,OK
+2026-03-31T14:03:11,embed-video,vertex-mm-embedding,mm_video_essential,9010367,10.0,per second of video,0.0005,0.00500000,14.755,OK
+2026-03-31T14:03:11,enrichment,gemini,gemini_text_in,9010367,2616,per input token,1.5e-07,0.00039240,1.707,OK
+2026-03-31T14:03:11,enrichment,gemini,gemini_text_out,9010367,106,per output token,6e-07,0.00006360,0.000,OK
+2026-03-31T14:03:12,embed-frame,vertex-mm-embedding,mm_image,9010369,1.0,per image,0.0001,0.00010000,1.260,OK
+2026-03-31T14:03:12,enrichment,gemini,gemini_text_in,9010369,2932,per input token,1.5e-07,0.00043980,1.806,OK
+2026-03-31T14:03:12,enrichment,gemini,gemini_text_out,9010369,135,per output token,6e-07,0.00008100,0.000,OK
+2026-03-31T14:03:13,embed-frame,vertex-mm-embedding,mm_image,9010371,1.0,per image,0.0001,0.00010000,1.208,OK
+2026-03-31T14:03:13,embed-video,vertex-mm-embedding,mm_video_essential,9010371,10.0,per second of video,0.0005,0.00500000,12.338,OK
+2026-03-31T14:03:13,enrichment,gemini,gemini_text_in,9010371,2660,per input token,1.5e-07,0.00039900,1.681,OK
+2026-03-31T14:03:13,enrichment,gemini,gemini_text_out,9010371,97,per output token,6e-07,0.00005820,0.000,OK
+2026-03-31T14:03:14,embed-frame,vertex-mm-embedding,mm_image,9010373,1.0,per image,0.0001,0.00010000,0.860,OK
+2026-03-31T14:03:14,embed-video,vertex-mm-embedding,mm_video_essential,9010373,30.0,per second of video,0.0005,0.01500000,12.514,OK
+2026-03-31T14:03:14,enrichment,gemini,gemini_text_in,9010373,3013,per input token,1.5e-07,0.00045195,1.315,OK
+2026-03-31T14:03:14,enrichment,gemini,gemini_text_out,9010373,101,per output token,6e-07,0.00006060,0.000,OK
+2026-03-31T14:03:15,embed-frame,vertex-mm-embedding,mm_image,9010375,1.0,per image,0.0001,0.00010000,1.143,OK
+2026-03-31T14:03:15,enrichment,gemini,gemini_text_in,9010375,2559,per input token,1.5e-07,0.00038385,1.508,OK
+2026-03-31T14:03:15,enrichment,gemini,gemini_text_out,9010375,104,per output token,6e-07,0.00006240,0.000,OK
+2026-03-31T14:03:16,embed-frame,vertex-mm-embedding,mm_image,9010377,1.0,per image,0.0001,0.00010000,0.854,OK
+2026-03-31T14:03:16,embed-video,vertex-mm-embedding,mm_video_essential,9010377,30.0,per second of video,0.0005,0.01500000,11.981,OK
+2026-03-31T14:03:16,enrichment,gemini,gemini_text_in,9010377,2812,per input token,1.5e-07,0.00042180,1.633,OK
+2026-03-31T14:03:16,enrichment,gemini,gemini_text_out,9010377,118,per output token,6e-07,0.00007080,0.000,OK
+2026-03-31T14:03:17,embed-frame,vertex-mm-embedding,mm_image,9010379,1.0,per image,0.0001,0.00010000,1.085,OK
+2026-03-31T14:03:17,embed-video,vertex-mm-embedding,mm_video_essential,9010379,15.0,per second of video,0.0005,0.00750000,14.713,OK
+2026-03-31T14:03:17,enrichment,gemini,gemini_text_in,9010379,2513,per input token,1.5e-07,0.00037695,1.874,OK
+2026-03-31T14:03:17,enrichment,gemini,gemini_text_out,9010379,101,per output token,6e-07,0.00006060,0.000,OK
+2026-03-31T14:03:18,embed-frame,vertex-mm-embedding,mm_image,9010381,1.0,per image,0.0001,0.00010000,0.934,OK
+2026-03-31T14:03:18,enrichment,gemini,gemini_text_in,9010381,2825,per input token,1.5e-07,0.00042375,1.898,OK
+2026-03-31T14:03:18,enrichment,gemini,gemini_text_out,9010381,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:03:19,embed-frame,vertex-mm-embedding,mm_image,9010383,1.0,per image,0.0001,0.00010000,1.050,OK
+2026-03-31T14:03:19,embed-video,vertex-mm-embedding,mm_video_essential,9010383,10.0,per second of video,0.0005,0.00500000,14.385,OK
+2026-03-31T14:03:19,enrichment,gemini,gemini_text_in,9010383,2811,per input token,1.5e-07,0.00042165,1.420,OK
+2026-03-31T14:03:19,enrichment,gemini,gemini_text_out,9010383,117,per output token,6e-07,0.00007020,0.000,OK
+2026-03-31T14:03:20,embed-frame,vertex-mm-embedding,mm_image,9010385,1.0,per image,0.0001,0.00010000,0.888,OK
+2026-03-31T14:03:20,embed-video,vertex-mm-embedding,mm_video_essential,9010385,30.0,per second of video,0.0005,0.01500000,14.065,OK
+2026-03-31T14:03:20,enrichment,gemini,gemini_text_in,9010385,2717,per input token,1.5e-07,0.00040755,1.410,OK
+2026-03-31T14:03:20,enrichment,gemini,gemini_text_out,9010385,111,per output token,6e-07,0.00006660,0.000,OK
+2026-03-31T14:03:21,embed-frame,vertex-mm-embedding,mm_image,9010387,1.0,per image,0.0001,0.00010000,0.902,OK
+2026-03-31T14:03:21,enrichment,gemini,gemini_text_in,9010387,2457,per input token,1.5e-07,0.00036855,1.750,OK
+2026-03-31T14:03:21,enrichment,gemini,gemini_text_out,9010387,115,per output token,6e-07,0.00006900,0.000,OK
+2026-03-31T14:03:22,embed-frame,vertex-mm-embedding,mm_image,9010389,1.0,per image,0.0001,0.00010000,0.973,OK
+2026-03-31T14:03:22,embed-video,vertex-mm-embedding,mm_video_essential,9010389,30.0,per second of video,0.0005,0.01500000,13.584,OK
+2026-03-31T14:03:22,enrichment,gemini,gemini_text_in,9010389,2673,per input token,1.5e-07,0.00040095,1.238,OK
+2026-03-31T14:03:22,enrichment,gemini,gemini_text_out,9010389,123,per output token,6e-07,0.00007380,0.000,OK
+2026-03-31T14:03:23,embed-frame,vertex-mm-embedding,mm_image,9010391,1.0,per image,0.0001,0.00010000,1.074,OK
+2026-03-31T14:03:23,embed-video,vertex-mm-embedding,mm_video_essential,9010391,10.0,per second of video,0.0005,0.00500000,14.668,OK
+2026-03-31T14:03:23,enrichment,gemini,gemini_text_in,9010391,2414,per input token,1.5e-07,0.00036210,1.251,OK
+2026-03-31T14:03:23,enrichment,gemini,gemini_text_out,9010391,100,per output token,6e-07,0.00006000,0.000,OK
+2026-03-31T14:03:24,embed-frame,vertex-mm-embedding,mm_image,9010393,1.0,per image,0.0001,0.00010000,0.994,OK
+2026-03-31T14:03:24,embed-video,vertex-mm-embedding,mm_video_essential,9010393,30.0,per second of video,0.0005,0.01500000,11.817,OK
+2026-03-31T14:03:24,enrichment,gemini,gemini_text_in,9010393,3163,per input token,1.5e-07,0.00047445,1.244,OK
+2026-03-31T14:03:24,enrichment,gemini,gemini_text_out,9010393,98,per output token,6e-07,0.00005880,0.000,OK
+2026-03-31T14:03:25,embed-frame,vertex-mm-embedding,mm_image,9010396,1.0,per image,0.0001,0.00010000,0.915,OK
+2026-03-31T14:03:25,embed-video,vertex-mm-embedding,mm_video_essential,9010396,30.0,per second of video,0.0005,0.01500000,15.222,OK
+2026-03-31T14:03:25,enrichment,gemini,gemini_text_in,9010396,3003,per input token,1.5e-07,0.00045045,1.811,OK
+2026-03-31T14:03:25,enrichment,gemini,gemini_text_out,9010396,138,per output token,6e-07,0.00008280,0.000,OK
+2026-03-31T14:03:26,embed-frame,vertex-mm-embedding,mm_image,9010399,1.0,per image,0.0001,0.00010000,0.939,OK
+2026-03-31T14:03:26,enrichment,gemini,gemini_text_in,9010399,3342,per input token,1.5e-07,0.00050130,1.527,OK
+2026-03-31T14:03:26,enrichment,gemini,gemini_text_out,9010399,114,per output token,6e-07,0.00006840,0.000,OK
+2026-03-31T14:03:27,embed-frame,vertex-mm-embedding,mm_image,9010402,1.0,per image,0.0001,0.00010000,1.162,OK
+2026-03-31T14:03:27,embed-video,vertex-mm-embedding,mm_video_essential,9010402,15.0,per second of video,0.0005,0.00750000,11.742,OK
+2026-03-31T14:03:27,enrichment,gemini,gemini_text_in,9010402,3282,per input token,1.5e-07,0.00049230,1.496,OK
+2026-03-31T14:03:27,enrichment,gemini,gemini_text_out,9010402,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:03:28,embed-frame,vertex-mm-embedding,mm_image,9010405,1.0,per image,0.0001,0.00010000,1.205,OK
+2026-03-31T14:03:28,embed-video,vertex-mm-embedding,mm_video_essential,9010405,30.0,per second of video,0.0005,0.01500000,14.160,OK
+2026-03-31T14:03:28,enrichment,gemini,gemini_text_in,9010405,3088,per input token,1.5e-07,0.00046320,1.852,OK
+2026-03-31T14:03:28,enrichment,gemini,gemini_text_out,9010405,103,per output token,6e-07,0.00006180,0.000,OK
+2026-03-31T14:03:29,embed-frame,vertex-mm-embedding,mm_image,9010408,1.0,per image,0.0001,0.00010000,1.088,OK
+2026-03-31T14:03:29,enrichment,gemini,gemini_text_in,9010408,2571,per input token,1.5e-07,0.00038565,1.883,OK
+2026-03-31T14:03:29,enrichment,gemini,gemini_text_out,9010408,119,per output token,6e-07,0.00007140,0.000,OK
+2026-03-31T14:03:30,embed-frame,vertex-mm-embedding,mm_image,9010411,1.0,per image,0.0001,0.00010000,0.926,OK
+2026-03-31T14:03:30,embed-video,vertex-mm-embedding,mm_video_essential,9010411,10.0,per second of video,0.0005,0.00500000,13.176,OK
+2026-03-31T14:03:30,enrichment,gemini,gemini_text_in,9010411,3186,per input token,1.5e-07,0.00047790,1.680,OK
+2026-03-31T14:03:30,enrichment,gemini,gemini_text_out,9010411,110,per output token,6e-07,0.00006600,0.000,OK
+2026-03-31T14:03:31,embed-frame,vertex-mm-embedding,mm_image,9010414,1.0,per image,0.0001,0.00010000,0.862,OK
+2026-03-31T14:03:31,embed-video,vertex-mm-embedding,mm_video_essential,9010414,15.0,per second of video,0.0005,0.00750000,13.330,OK
+2026-03-31T14:03:31,enrichment,gemini,gemini_text_in,9010414,2960,per input token,1.5e-07,0.00044400,1.816,OK
+2026-03-31T14:03:31,enrichment,gemini,gemini_text_out,9010414,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:03:32,embed-frame,vertex-mm-embedding,mm_image,9010417,1.0,per image,0.0001,0.00010000,1.278,OK
+2026-03-31T14:03:32,enrichment,gemini,gemini_text_in,9010417,2855,per input token,1.5e-07,0.00042825,1.337,OK
+2026-03-31T14:03:32,enrichment,gemini,gemini_text_out,9010417,99,per output token,6e-07,0.00005940,0.000,OK
+2026-03-31T14:03:33,embed-frame,vertex-mm-embedding,mm_image,9010420,1.0,per image,0.0001,0.00010000,1.014,OK
+2026-03-31T14:03:33,embed-video,vertex-mm-embedding,mm_video_essential,9010420,30.0,per second of video,0.0005,0.01500000,11.662,OK
+2026-03-31T14:03:33,enrichment,gemini,gemini_text_in,9010420,2576,per input token,1.5e-07,0.00038640,1.697,OK
+2026-03-31T14:03:33,enrichment,gemini,gemini_text_out,9010420,111,per output token,6e-07,0.00006660,0.000,OK
+2026-03-31T14:03:34,embed-frame,vertex-mm-embedding,mm_image,9010423,1.0,per image,0.0001,0.00010000,1.285,OK
+2026-03-31T14:03:34,embed-video,vertex-mm-embedding,mm_video_essential,9010423,10.0,per second of video,0.0005,0.00500000,12.034,OK
+2026-03-31T14:03:34,enrichment,gemini,gemini_text_in,9010423,3106,per input token,1.5e-07,0.00046590,1.835,OK
+2026-03-31T14:03:34,enrichment,gemini,gemini_text_out,9010423,104,per output token,6e-07,0.00006240,0.000,OK
+2026-03-31T14:03:35,embed-frame,vertex-mm-embedding,mm_image,9010426,1.0,per image,0.0001,0.00010000,1.342,OK
+2026-03-31T14:03:35,enrichment,gemini,gemini_text_in,9010426,3089,per input token,1.5e-07,0.00046335,1.308,OK
+2026-03-31T14:03:35,enrichment,gemini,gemini_text_out,9010426,133,per output token,6e-07,0.00007980,0.000,OK
+2026-03-31T14:03:36,embed-frame,vertex-mm-embedding,mm_image,9010429,1.0,per image,0.0001,0.00010000,0.908,OK
+2026-03-31T14:03:36,embed-video,vertex-mm-embedding,mm_video_essential,9010429,10.0,per second of video,0.0005,0.00500000,13.740,OK
+2026-03-31T14:03:36,enrichment,gemini,gemini_text_in,9010429,3248,per input token,1.5e-07,0.00048720,1.687,OK
+2026-03-31T14:03:36,enrichment,gemini,gemini_text_out,9010429,102,per output token,6e-07,0.00006120,0.000,OK
+2026-03-31T14:03:37,embed-frame,vertex-mm-embedding,mm_image,9010432,1.0,per image,0.0001,0.00010000,1.000,OK
+2026-03-31T14:03:37,embed-video,vertex-mm-embedding,mm_video_essential,9010432,30.0,per second of video,0.0005,0.01500000,14.098,OK
+2026-03-31T14:03:37,enrichment,gemini,gemini_text_in,9010432,3216,per input token,1.5e-07,0.00048240,1.378,OK
+2026-03-31T14:03:37,enrichment,gemini,gemini_text_out,9010432,107,per output token,6e-07,0.00006420,0.000,OK
+2026-03-31T14:03:38,embed-frame,vertex-mm-embedding,mm_image,9010435,1.0,per image,0.0001,0.00010000,0.883,OK
+2026-03-31T14:03:38,enrichment,gemini,gemini_text_in,9010435,2958,per input token,1.5e-07,0.00044370,1.506,OK
+2026-03-31T14:03:38,enrichment,gemini,gemini_text_out,9010435,97,per output token,6e-07,0.00005820,0.000,OK
+2026-03-31T14:03:39,embed-frame,vertex-mm-embedding,mm_image,9010437,1.0,per image,0.0001,0.00010000,0.917,OK
+2026-03-31T14:03:39,embed-video,vertex-mm-embedding,mm_video_essential,9010437,10.0,per second of video,0.0005,0.00500000,12.103,OK
+2026-03-31T14:03:39,enrichment,gemini,gemini_text_in,9010437,2812,per input token,1.5e-07,0.00042180,1.883,OK
+2026-03-31T14:03:39,enrichment,gemini,gemini_text_out,9010437,123,per output token,6e-07,0.00007380,0.000,OK
+2026-03-31T14:03:40,embed-frame,vertex-mm-embedding,mm_image,9010439,1.0,per image,0.0001,0.00010000,1.074,OK
+2026-03-31T14:03:40,embed-video,vertex-mm-embedding,mm_video_essential,9010439,10.0,per second of video,0.0005,0.00500000,12.386,OK
+2026-03-31T14:03:40,enrichment,gemini,gemini_text_in,9010439,2785,per input token,1.5e-07,0.00041775,1.409,OK
+2026-03-31T14:03:40,enrichment,gemini,gemini_text_out,9010439,109,per output token,6e-07,0.00006540,0.000,OK
+2026-03-31T14:03:41,embed-frame,vertex-mm-embedding,mm_image,9010441,1.0,per image,0.0001,0.00010000,1.141,OK
+2026-03-31T14:03:41,enrichment,gemini,gemini_text_in,9010441,2835,per input token,1.5e-07,0.00042525,1.856,OK
+2026-03-31T14:03:41,enrichment,gemini,gemini_text_out,9010441,118,per output token,6e-07,0.00007080,0.000,OK
+2026-03-31T14:03:42,embed-frame,vertex-mm-embedding,mm_image,9010443,1.0,per image,0.0001,0.00010000,1.321,OK
+2026-03-31T14:03:42,embed-video,vertex-mm-embedding,mm_video_essential,9010443,15.0,per second of video,0.0005,0.00750000,13.018,OK
+2026-03-31T14:03:42,enrichment,gemini,gemini_text_in,9010443,3171,per input token,1.5e-07,0.00047565,1.632,OK
+2026-03-31T14:03:42,enrichment,gemini,gemini_text_out,9010443,119,per output token,6e-07,0.00007140,0.000,OK
+2026-03-31T14:03:43,embed-frame,vertex-mm-embedding,mm_image,9010445,1.0,per image,0.0001,0.00010000,1.079,OK
+2026-03-31T14:03:43,embed-video,vertex-mm-embedding,mm_video_essential,9010445,15.0,per second of video,0.0005,0.00750000,12.307,OK
+2026-03-31T14:03:43,enrichment,gemini,gemini_text_in,9010445,2426,per input token,1.5e-07,0.00036390,1.870,OK
+2026-03-31T14:03:43,enrichment,gemini,gemini_text_out,9010445,109,per output token,6e-07,0.00006540,0.000,OK
+2026-03-31T14:03:44,embed-frame,vertex-mm-embedding,mm_image,9010447,1.0,per image,0.0001,0.00010000,1.058,OK
+2026-03-31T14:03:44,enrichment,gemini,gemini_text_in,9010447,3331,per input token,1.5e-07,0.00049965,1.716,OK
+2026-03-31T14:03:44,enrichment,gemini,gemini_text_out,9010447,96,per output token,6e-07,0.00005760,0.000,OK
+2026-03-31T14:03:45,embed-frame,vertex-mm-embedding,mm_image,9010449,1.0,per image,0.0001,0.00010000,1.290,OK
+2026-03-31T14:03:45,embed-video,vertex-mm-embedding,mm_video_essential,9010449,10.0,per second of video,0.0005,0.00500000,12.439,OK
+2026-03-31T14:03:45,enrichment,gemini,gemini_text_in,9010449,2401,per input token,1.5e-07,0.00036015,1.433,OK
+2026-03-31T14:03:45,enrichment,gemini,gemini_text_out,9010449,121,per output token,6e-07,0.00007260,0.000,OK
+2026-03-31T14:03:46,embed-frame,vertex-mm-embedding,mm_image,9010451,1.0,per image,0.0001,0.00010000,1.210,OK
+2026-03-31T14:03:46,embed-video,vertex-mm-embedding,mm_video_essential,9010451,30.0,per second of video,0.0005,0.01500000,13.382,OK
+2026-03-31T14:03:46,enrichment,gemini,gemini_text_in,9010451,3196,per input token,1.5e-07,0.00047940,1.392,OK
+2026-03-31T14:03:46,enrichment,gemini,gemini_text_out,9010451,144,per output token,6e-07,0.00008640,0.000,OK
+2026-03-31T14:03:47,embed-frame,vertex-mm-embedding,mm_image,9010453,1.0,per image,0.0001,0.00010000,1.260,OK
+2026-03-31T14:03:47,enrichment,gemini,gemini_text_in,9010453,2526,per input token,1.5e-07,0.00037890,1.266,OK
+2026-03-31T14:03:47,enrichment,gemini,gemini_text_out,9010453,136,per output token,6e-07,0.00008160,0.000,OK
+2026-03-31T14:03:48,embed-frame,vertex-mm-embedding,mm_image,9010455,1.0,per image,0.0001,0.00010000,0.876,OK
+2026-03-31T14:03:48,embed-video,vertex-mm-embedding,mm_video_essential,9010455,10.0,per second of video,0.0005,0.00500000,15.151,OK
+2026-03-31T14:03:48,enrichment,gemini,gemini_text_in,9010455,2415,per input token,1.5e-07,0.00036225,1.641,OK
+2026-03-31T14:03:48,enrichment,gemini,gemini_text_out,9010455,123,per output token,6e-07,0.00007380,0.000,OK
+2026-03-31T14:03:49,embed-frame,vertex-mm-embedding,mm_image,9010457,1.0,per image,0.0001,0.00010000,1.315,OK
+2026-03-31T14:03:49,embed-video,vertex-mm-embedding,mm_video_essential,9010457,10.0,per second of video,0.0005,0.00500000,12.403,OK
+2026-03-31T14:03:49,enrichment,gemini,gemini_text_in,9010457,3153,per input token,1.5e-07,0.00047295,1.817,OK
+2026-03-31T14:03:49,enrichment,gemini,gemini_text_out,9010457,140,per output token,6e-07,0.00008400,0.000,OK
+2026-03-31T14:03:50,embed-frame,vertex-mm-embedding,mm_image,9010459,1.0,per image,0.0001,0.00010000,1.024,OK
+2026-03-31T14:03:50,enrichment,gemini,gemini_text_in,9010459,2724,per input token,1.5e-07,0.00040860,1.269,OK
+2026-03-31T14:03:50,enrichment,gemini,gemini_text_out,9010459,120,per output token,6e-07,0.00007200,0.000,OK
+2026-03-31T14:03:51,embed-frame,vertex-mm-embedding,mm_image,9010461,1.0,per image,0.0001,0.00010000,1.218,OK
+2026-03-31T14:03:51,embed-video,vertex-mm-embedding,mm_video_essential,9010461,15.0,per second of video,0.0005,0.00750000,11.917,OK
+2026-03-31T14:03:51,enrichment,gemini,gemini_text_in,9010461,3206,per input token,1.5e-07,0.00048090,1.498,OK
+2026-03-31T14:03:51,enrichment,gemini,gemini_text_out,9010461,117,per output token,6e-07,0.00007020,0.000,OK
+2026-03-31T14:03:52,embed-frame,vertex-mm-embedding,mm_image,9010463,1.0,per image,0.0001,0.00010000,1.057,OK
+2026-03-31T14:03:52,embed-video,vertex-mm-embedding,mm_video_essential,9010463,10.0,per second of video,0.0005,0.00500000,11.711,OK
+2026-03-31T14:03:52,enrichment,gemini,gemini_text_in,9010463,3138,per input token,1.5e-07,0.00047070,1.533,OK
+2026-03-31T14:03:52,enrichment,gemini,gemini_text_out,9010463,113,per output token,6e-07,0.00006780,0.000,OK
+2026-03-31T14:03:53,embed-frame,vertex-mm-embedding,mm_image,9010465,1.0,per image,0.0001,0.00010000,0.879,OK
+2026-03-31T14:03:53,enrichment,gemini,gemini_text_in,9010465,2494,per input token,1.5e-07,0.00037410,1.731,OK
+2026-03-31T14:03:53,enrichment,gemini,gemini_text_out,9010465,109,per output token,6e-07,0.00006540,0.000,OK
+2026-03-31T14:03:54,embed-frame,vertex-mm-embedding,mm_image,9010467,1.0,per image,0.0001,0.00010000,1.310,OK
+2026-03-31T14:03:54,embed-video,vertex-mm-embedding,mm_video_essential,9010467,10.0,per second of video,0.0005,0.00500000,11.400,OK
+2026-03-31T14:03:54,enrichment,gemini,gemini_text_in,9010467,3156,per input token,1.5e-07,0.00047340,1.842,OK
+2026-03-31T14:03:54,enrichment,gemini,gemini_text_out,9010467,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:03:55,embed-frame,vertex-mm-embedding,mm_image,9010469,1.0,per image,0.0001,0.00010000,1.015,OK
+2026-03-31T14:03:55,embed-video,vertex-mm-embedding,mm_video_essential,9010469,15.0,per second of video,0.0005,0.00750000,14.988,OK
+2026-03-31T14:03:55,enrichment,gemini,gemini_text_in,9010469,3266,per input token,1.5e-07,0.00048990,1.543,OK
+2026-03-31T14:03:55,enrichment,gemini,gemini_text_out,9010469,122,per output token,6e-07,0.00007320,0.000,OK
+2026-03-31T14:03:56,embed-frame,vertex-mm-embedding,mm_image,9010471,1.0,per image,0.0001,0.00010000,0.959,OK
+2026-03-31T14:03:56,enrichment,gemini,gemini_text_in,9010471,2907,per input token,1.5e-07,0.00043605,1.267,OK
+2026-03-31T14:03:56,enrichment,gemini,gemini_text_out,9010471,115,per output token,6e-07,0.00006900,0.000,OK
+2026-03-31T14:03:57,embed-frame,vertex-mm-embedding,mm_image,9010473,1.0,per image,0.0001,0.00010000,1.081,OK
+2026-03-31T14:03:57,embed-video,vertex-mm-embedding,mm_video_essential,9010473,15.0,per second of video,0.0005,0.00750000,11.949,OK
+2026-03-31T14:03:57,enrichment,gemini,gemini_text_in,9010473,2685,per input token,1.5e-07,0.00040275,1.621,OK
+2026-03-31T14:03:57,enrichment,gemini,gemini_text_out,9010473,106,per output token,6e-07,0.00006360,0.000,OK
+2026-03-31T14:03:58,embed-frame,vertex-mm-embedding,mm_image,9010475,1.0,per image,0.0001,0.00010000,1.173,OK
+2026-03-31T14:03:58,embed-video,vertex-mm-embedding,mm_video_essential,9010475,30.0,per second of video,0.0005,0.01500000,14.201,OK
+2026-03-31T14:03:58,enrichment,gemini,gemini_text_in,9010475,2995,per input token,1.5e-07,0.00044925,1.471,OK
+2026-03-31T14:03:58,enrichment,gemini,gemini_text_out,9010475,130,per output token,6e-07,0.00007800,0.000,OK
+2026-03-31T14:03:59,embed-frame,vertex-mm-embedding,mm_image,9010478,1.0,per image,0.0001,0.00010000,0.962,OK
+2026-03-31T14:03:59,embed-video,vertex-mm-embedding,mm_video_essential,9010478,15.0,per second of video,0.0005,0.00750000,13.144,OK
+2026-03-31T14:03:59,enrichment,gemini,gemini_text_in,9010478,2966,per input token,1.5e-07,0.00044490,1.834,OK
+2026-03-31T14:03:59,enrichment,gemini,gemini_text_out,9010478,110,per output token,6e-07,0.00006600,0.000,OK
+2026-03-31T14:04:00,embed-frame,vertex-mm-embedding,mm_image,9010481,1.0,per image,0.0001,0.00010000,1.292,OK
+2026-03-31T14:04:00,enrichment,gemini,gemini_text_in,9010481,2996,per input token,1.5e-07,0.00044940,1.424,OK
+2026-03-31T14:04:00,enrichment,gemini,gemini_text_out,9010481,104,per output token,6e-07,0.00006240,0.000,OK
+2026-03-31T14:04:01,embed-frame,vertex-mm-embedding,mm_image,9010484,1.0,per image,0.0001,0.00010000,1.000,OK
+2026-03-31T14:04:01,embed-video,vertex-mm-embedding,mm_video_essential,9010484,15.0,per second of video,0.0005,0.00750000,15.002,OK
+2026-03-31T14:04:01,enrichment,gemini,gemini_text_in,9010484,2825,per input token,1.5e-07,0.00042375,1.686,OK
+2026-03-31T14:04:01,enrichment,gemini,gemini_text_out,9010484,132,per output token,6e-07,0.00007920,0.000,OK
+2026-03-31T14:04:02,embed-frame,vertex-mm-embedding,mm_image,9010487,1.0,per image,0.0001,0.00010000,0.934,OK
+2026-03-31T14:04:02,embed-video,vertex-mm-embedding,mm_video_essential,9010487,30.0,per second of video,0.0005,0.01500000,11.756,OK
+2026-03-31T14:04:02,enrichment,gemini,gemini_text_in,9010487,2933,per input token,1.5e-07,0.00043995,1.830,OK
+2026-03-31T14:04:02,enrichment,gemini,gemini_text_out,9010487,122,per output token,6e-07,0.00007320,0.000,OK
+2026-03-31T14:04:03,embed-frame,vertex-mm-embedding,mm_image,9010490,1.0,per image,0.0001,0.00010000,1.309,OK
+2026-03-31T14:04:03,enrichment,gemini,gemini_text_in,9010490,2442,per input token,1.5e-07,0.00036630,1.284,OK
+2026-03-31T14:04:03,enrichment,gemini,gemini_text_out,9010490,124,per output token,6e-07,0.00007440,0.000,OK
+2026-03-31T14:04:04,embed-frame,vertex-mm-embedding,mm_image,9010493,1.0,per image,0.0001,0.00010000,0.967,OK
+2026-03-31T14:04:04,embed-video,vertex-mm-embedding,mm_video_essential,9010493,15.0,per second of video,0.0005,0.00750000,12.185,OK
+2026-03-31T14:04:04,enrichment,gemini,gemini_text_in,9010493,3043,per input token,1.5e-07,0.00045645,1.595,OK
+2026-03-31T14:04:04,enrichment,gemini,gemini_text_out,9010493,119,per output token,6e-07,0.00007140,0.000,OK
+2026-03-31T14:04:05,embed-frame,vertex-mm-embedding,mm_image,9010496,1.0,per image,0.0001,0.00010000,1.065,OK
+2026-03-31T14:04:05,embed-video,vertex-mm-embedding,mm_video_essential,9010496,30.0,per second of video,0.0005,0.01500000,13.373,OK
+2026-03-31T14:04:05,enrichment,gemini,gemini_text_in,9010496,2912,per input token,1.5e-07,0.00043680,1.677,OK
+2026-03-31T14:04:05,enrichment,gemini,gemini_text_out,9010496,100,per output token,6e-07,0.00006000,0.000,OK
+2026-03-31T14:04:06,embed-frame,vertex-mm-embedding,mm_image,9010499,1.0,per image,0.0001,0.00010000,0.871,OK
+2026-03-31T14:04:06,enrichment,gemini,gemini_text_in,9010499,2597,per input token,1.5e-07,0.00038955,1.625,OK
+2026-03-31T14:04:06,enrichment,gemini,gemini_text_out,9010499,129,per output token,6e-07,0.00007740,0.000,OK
+2026-03-31T14:04:07,embed-frame,vertex-mm-embedding,mm_image,9010502,1.0,per image,0.0001,0.00010000,1.277,OK
+2026-03-31T14:04:07,embed-video,vertex-mm-embedding,mm_video_essential,9010502,30.0,per second of video,0.0005,0.01500000,12.720,OK
+2026-03-31T14:04:07,enrichment,gemini,gemini_text_in,9010502,2578,per input token,1.5e-07,0.00038670,1.837,OK
+2026-03-31T14:04:07,enrichment,gemini,gemini_text_out,9010502,96,per output token,6e-07,0.00005760,0.000,OK
+2026-03-31T14:04:08,embed-frame,vertex-mm-embedding,mm_image,9010505,1.0,per image,0.0001,0.00010000,1.121,OK
+2026-03-31T14:04:08,embed-video,vertex-mm-embedding,mm_video_essential,9010505,10.0,per second of video,0.0005,0.00500000,12.091,OK
+2026-03-31T14:04:08,enrichment,gemini,gemini_text_in,9010505,3081,per input token,1.5e-07,0.00046215,1.304,OK
+2026-03-31T14:04:08,enrichment,gemini,gemini_text_out,9010505,112,per output token,6e-07,0.00006720,0.000,OK
+2026-03-31T14:04:09,embed-frame,vertex-mm-embedding,mm_image,9010508,1.0,per image,0.0001,0.00010000,1.280,OK
+2026-03-31T14:04:09,enrichment,gemini,gemini_text_in,9010508,3042,per input token,1.5e-07,0.00045630,1.349,OK
+2026-03-31T14:04:09,enrichment,gemini,gemini_text_out,9010508,102,per output token,6e-07,0.00006120,0.000,OK
+2026-03-31T14:04:10,embed-frame,vertex-mm-embedding,mm_image,9010511,1.0,per image,0.0001,0.00010000,1.102,OK
+2026-03-31T14:04:10,embed-video,vertex-mm-embedding,mm_video_essential,9010511,10.0,per second of video,0.0005,0.00500000,12.109,OK
+2026-03-31T14:04:10,enrichment,gemini,gemini_text_in,9010511,2773,per input token,1.5e-07,0.00041595,1.564,OK
+2026-03-31T14:04:10,enrichment,gemini,gemini_text_out,9010511,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:04:11,embed-frame,vertex-mm-embedding,mm_image,9010513,1.0,per image,0.0001,0.00010000,0.874,OK
+2026-03-31T14:04:11,embed-video,vertex-mm-embedding,mm_video_essential,9010513,10.0,per second of video,0.0005,0.00500000,13.860,OK
+2026-03-31T14:04:11,enrichment,gemini,gemini_text_in,9010513,2410,per input token,1.5e-07,0.00036150,1.449,OK
+2026-03-31T14:04:11,enrichment,gemini,gemini_text_out,9010513,127,per output token,6e-07,0.00007620,0.000,OK
+2026-03-31T14:04:12,embed-frame,vertex-mm-embedding,mm_image,9010515,1.0,per image,0.0001,0.00010000,1.144,OK
+2026-03-31T14:04:12,enrichment,gemini,gemini_text_in,9010515,2420,per input token,1.5e-07,0.00036300,1.558,OK
+2026-03-31T14:04:12,enrichment,gemini,gemini_text_out,9010515,126,per output token,6e-07,0.00007560,0.000,OK
+2026-03-31T14:04:13,embed-frame,vertex-mm-embedding,mm_image,9010517,1.0,per image,0.0001,0.00010000,1.120,OK
+2026-03-31T14:04:13,embed-video,vertex-mm-embedding,mm_video_essential,9010517,15.0,per second of video,0.0005,0.00750000,13.917,OK
+2026-03-31T14:04:13,enrichment,gemini,gemini_text_in,9010517,3218,per input token,1.5e-07,0.00048270,1.870,OK
+2026-03-31T14:04:13,enrichment,gemini,gemini_text_out,9010517,132,per output token,6e-07,0.00007920,0.000,OK
+2026-03-31T14:04:14,embed-frame,vertex-mm-embedding,mm_image,9010519,1.0,per image,0.0001,0.00010000,1.263,OK
+2026-03-31T14:04:14,embed-video,vertex-mm-embedding,mm_video_essential,9010519,30.0,per second of video,0.0005,0.01500000,12.353,OK
+2026-03-31T14:04:14,enrichment,gemini,gemini_text_in,9010519,2536,per input token,1.5e-07,0.00038040,1.462,OK
+2026-03-31T14:04:14,enrichment,gemini,gemini_text_out,9010519,126,per output token,6e-07,0.00007560,0.000,OK
+2026-03-31T14:04:15,embed-frame,vertex-mm-embedding,mm_image,9010521,1.0,per image,0.0001,0.00010000,1.064,OK
+2026-03-31T14:04:15,enrichment,gemini,gemini_text_in,9010521,2995,per input token,1.5e-07,0.00044925,1.764,OK
+2026-03-31T14:04:15,enrichment,gemini,gemini_text_out,9010521,138,per output token,6e-07,0.00008280,0.000,OK
+2026-03-31T14:04:16,embed-frame,vertex-mm-embedding,mm_image,9010523,1.0,per image,0.0001,0.00010000,1.292,OK
+2026-03-31T14:04:16,embed-video,vertex-mm-embedding,mm_video_essential,9010523,30.0,per second of video,0.0005,0.01500000,13.093,OK
+2026-03-31T14:04:16,enrichment,gemini,gemini_text_in,9010523,2411,per input token,1.5e-07,0.00036165,1.583,OK
+2026-03-31T14:04:16,enrichment,gemini,gemini_text_out,9010523,140,per output token,6e-07,0.00008400,0.000,OK
+2026-03-31T14:04:17,embed-frame,vertex-mm-embedding,mm_image,9010525,1.0,per image,0.0001,0.00010000,1.105,OK
+2026-03-31T14:04:17,embed-video,vertex-mm-embedding,mm_video_essential,9010525,30.0,per second of video,0.0005,0.01500000,11.986,OK
+2026-03-31T14:04:17,enrichment,gemini,gemini_text_in,9010525,3318,per input token,1.5e-07,0.00049770,1.423,OK
+2026-03-31T14:04:17,enrichment,gemini,gemini_text_out,9010525,95,per output token,6e-07,0.00005700,0.000,OK
+2026-03-31T14:04:18,embed-frame,vertex-mm-embedding,mm_image,9010527,1.0,per image,0.0001,0.00010000,0.922,OK
+2026-03-31T14:04:18,enrichment,gemini,gemini_text_in,9010527,2460,per input token,1.5e-07,0.00036900,1.301,OK
+2026-03-31T14:04:18,enrichment,gemini,gemini_text_out,9010527,106,per output token,6e-07,0.00006360,0.000,OK
+2026-03-31T14:04:19,embed-frame,vertex-mm-embedding,mm_image,9010529,1.0,per image,0.0001,0.00010000,1.307,OK
+2026-03-31T14:04:19,embed-video,vertex-mm-embedding,mm_video_essential,9010529,30.0,per second of video,0.0005,0.01500000,14.489,OK
+2026-03-31T14:04:19,enrichment,gemini,gemini_text_in,9010529,2412,per input token,1.5e-07,0.00036180,1.525,OK
+2026-03-31T14:04:19,enrichment,gemini,gemini_text_out,9010529,138,per output token,6e-07,0.00008280,0.000,OK
+2026-03-31T14:04:20,embed-frame,vertex-mm-embedding,mm_image,9010531,1.0,per image,0.0001,0.00010000,1.048,OK
+2026-03-31T14:04:20,embed-video,vertex-mm-embedding,mm_video_essential,9010531,10.0,per second of video,0.0005,0.00500000,14.921,OK
+2026-03-31T14:04:20,enrichment,gemini,gemini_text_in,9010531,3151,per input token,1.5e-07,0.00047265,1.612,OK
+2026-03-31T14:04:20,enrichment,gemini,gemini_text_out,9010531,129,per output token,6e-07,0.00007740,0.000,OK
+2026-03-31T14:04:21,embed-frame,vertex-mm-embedding,mm_image,9010533,1.0,per image,0.0001,0.00010000,1.241,OK
+2026-03-31T14:04:21,enrichment,gemini,gemini_text_in,9010533,2679,per input token,1.5e-07,0.00040185,1.298,OK
+2026-03-31T14:04:21,enrichment,gemini,gemini_text_out,9010533,101,per output token,6e-07,0.00006060,0.000,OK
+2026-03-31T14:04:22,embed-frame,vertex-mm-embedding,mm_image,9010535,1.0,per image,0.0001,0.00010000,1.056,OK
+2026-03-31T14:04:22,embed-video,vertex-mm-embedding,mm_video_essential,9010535,10.0,per second of video,0.0005,0.00500000,11.581,OK
+2026-03-31T14:04:22,enrichment,gemini,gemini_text_in,9010535,3247,per input token,1.5e-07,0.00048705,1.893,OK
+2026-03-31T14:04:22,enrichment,gemini,gemini_text_out,9010535,135,per output token,6e-07,0.00008100,0.000,OK
+2026-03-31T14:04:23,embed-frame,vertex-mm-embedding,mm_image,9010537,1.0,per image,0.0001,0.00010000,0.957,OK
+2026-03-31T14:04:23,embed-video,vertex-mm-embedding,mm_video_essential,9010537,10.0,per second of video,0.0005,0.00500000,11.833,OK
+2026-03-31T14:04:23,enrichment,gemini,gemini_text_in,9010537,2766,per input token,1.5e-07,0.00041490,1.601,OK
+2026-03-31T14:04:23,enrichment,gemini,gemini_text_out,9010537,98,per output token,6e-07,0.00005880,0.000,OK
+2026-03-31T14:04:24,embed-frame,vertex-mm-embedding,mm_image,9010539,1.0,per image,0.0001,0.00010000,0.973,OK
+2026-03-31T14:04:24,embed-video,vertex-mm-embedding,mm_video_essential,9010539,15.0,per second of video,0.0005,0.00750000,14.249,OK
+2026-03-31T14:04:24,enrichment,gemini,gemini_text_in,9010539,3338,per input token,1.5e-07,0.00050070,1.648,OK
+2026-03-31T14:04:24,enrichment,gemini,gemini_text_out,9010539,126,per output token,6e-07,0.00007560,0.000,OK
+2026-03-31T14:04:25,embed-frame,vertex-mm-embedding,mm_image,9010542,1.0,per image,0.0001,0.00010000,1.059,OK
+2026-03-31T14:04:25,embed-video,vertex-mm-embedding,mm_video_essential,9010542,30.0,per second of video,0.0005,0.01500000,15.215,OK
+2026-03-31T14:04:25,enrichment,gemini,gemini_text_in,9010542,2552,per input token,1.5e-07,0.00038280,1.430,OK
+2026-03-31T14:04:25,enrichment,gemini,gemini_text_out,9010542,139,per output token,6e-07,0.00008340,0.000,OK
+2026-03-31T14:04:26,embed-frame,vertex-mm-embedding,mm_image,9010545,1.0,per image,0.0001,0.00010000,0.870,OK
+2026-03-31T14:04:26,enrichment,gemini,gemini_text_in,9010545,2915,per input token,1.5e-07,0.00043725,1.719,OK
+2026-03-31T14:04:26,enrichment,gemini,gemini_text_out,9010545,97,per output token,6e-07,0.00005820,0.000,OK
+2026-03-31T14:04:27,embed-frame,vertex-mm-embedding,mm_image,9010548,1.0,per image,0.0001,0.00010000,1.109,OK
+2026-03-31T14:04:27,embed-video,vertex-mm-embedding,mm_video_essential,9010548,15.0,per second of video,0.0005,0.00750000,14.734,OK
+2026-03-31T14:04:27,enrichment,gemini,gemini_text_in,9010548,2456,per input token,1.5e-07,0.00036840,1.596,OK
+2026-03-31T14:04:27,enrichment,gemini,gemini_text_out,9010548,97,per output token,6e-07,0.00005820,0.000,OK
+2026-03-31T14:04:28,embed-frame,vertex-mm-embedding,mm_image,9010551,1.0,per image,0.0001,0.00010000,1.060,OK
+2026-03-31T14:04:28,embed-video,vertex-mm-embedding,mm_video_essential,9010551,15.0,per second of video,0.0005,0.00750000,15.279,OK
+2026-03-31T14:04:28,enrichment,gemini,gemini_text_in,9010551,3366,per input token,1.5e-07,0.00050490,1.645,OK
+2026-03-31T14:04:28,enrichment,gemini,gemini_text_out,9010551,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:04:29,embed-frame,vertex-mm-embedding,mm_image,9010554,1.0,per image,0.0001,0.00010000,0.955,OK
+2026-03-31T14:04:29,enrichment,gemini,gemini_text_in,9010554,2645,per input token,1.5e-07,0.00039675,1.763,OK
+2026-03-31T14:04:29,enrichment,gemini,gemini_text_out,9010554,116,per output token,6e-07,0.00006960,0.000,OK
+2026-03-31T14:04:30,embed-frame,vertex-mm-embedding,mm_image,9010557,1.0,per image,0.0001,0.00010000,1.037,OK
+2026-03-31T14:04:30,embed-video,vertex-mm-embedding,mm_video_essential,9010557,10.0,per second of video,0.0005,0.00500000,13.582,OK
+2026-03-31T14:04:30,enrichment,gemini,gemini_text_in,9010557,2880,per input token,1.5e-07,0.00043200,1.895,OK
+2026-03-31T14:04:30,enrichment,gemini,gemini_text_out,9010557,116,per output token,6e-07,0.00006960,0.000,OK
+2026-03-31T14:04:31,embed-frame,vertex-mm-embedding,mm_image,9010560,1.0,per image,0.0001,0.00010000,1.127,OK
+2026-03-31T14:04:31,embed-video,vertex-mm-embedding,mm_video_essential,9010560,30.0,per second of video,0.0005,0.01500000,14.123,OK
+2026-03-31T14:04:31,enrichment,gemini,gemini_text_in,9010560,2710,per input token,1.5e-07,0.00040650,1.862,OK
+2026-03-31T14:04:31,enrichment,gemini,gemini_text_out,9010560,103,per output token,6e-07,0.00006180,0.000,OK
+2026-03-31T14:04:32,embed-frame,vertex-mm-embedding,mm_image,9010563,1.0,per image,0.0001,0.00010000,1.153,OK
+2026-03-31T14:04:32,enrichment,gemini,gemini_text_in,9010563,2717,per input token,1.5e-07,0.00040755,1.555,OK
+2026-03-31T14:04:32,enrichment,gemini,gemini_text_out,9010563,128,per output token,6e-07,0.00007680,0.000,OK
+2026-03-31T14:04:33,embed-frame,vertex-mm-embedding,mm_image,9010565,1.0,per image,0.0001,0.00010000,1.275,OK
+2026-03-31T14:04:33,embed-video,vertex-mm-embedding,mm_video_essential,9010565,30.0,per second of video,0.0005,0.01500000,13.202,OK
+2026-03-31T14:04:33,enrichment,gemini,gemini_text_in,9010565,2461,per input token,1.5e-07,0.00036915,1.524,OK
+2026-03-31T14:04:33,enrichment,gemini,gemini_text_out,9010565,116,per output token,6e-07,0.00006960,0.000,OK
+2026-03-31T14:04:34,embed-frame,vertex-mm-embedding,mm_image,9010567,1.0,per image,0.0001,0.00010000,0.889,OK
+2026-03-31T14:04:34,embed-video,vertex-mm-embedding,mm_video_essential,9010567,30.0,per second of video,0.0005,0.01500000,11.748,OK
+2026-03-31T14:04:34,enrichment,gemini,gemini_text_in,9010567,2602,per input token,1.5e-07,0.00039030,1.248,OK
+2026-03-31T14:04:34,enrichment,gemini,gemini_text_out,9010567,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:04:35,embed-frame,vertex-mm-embedding,mm_image,9010569,1.0,per image,0.0001,0.00010000,1.075,OK
+2026-03-31T14:04:35,enrichment,gemini,gemini_text_in,9010569,3278,per input token,1.5e-07,0.00049170,1.543,OK
+2026-03-31T14:04:35,enrichment,gemini,gemini_text_out,9010569,99,per output token,6e-07,0.00005940,0.000,OK
+2026-03-31T14:04:36,embed-frame,vertex-mm-embedding,mm_image,9010571,1.0,per image,0.0001,0.00010000,0.979,OK
+2026-03-31T14:04:36,embed-video,vertex-mm-embedding,mm_video_essential,9010571,10.0,per second of video,0.0005,0.00500000,12.167,OK
+2026-03-31T14:04:36,enrichment,gemini,gemini_text_in,9010571,2400,per input token,1.5e-07,0.00036000,1.226,OK
+2026-03-31T14:04:36,enrichment,gemini,gemini_text_out,9010571,133,per output token,6e-07,0.00007980,0.000,OK
+2026-03-31T14:04:37,embed-frame,vertex-mm-embedding,mm_image,9010573,1.0,per image,0.0001,0.00010000,1.259,OK
+2026-03-31T14:04:37,embed-video,vertex-mm-embedding,mm_video_essential,9010573,10.0,per second of video,0.0005,0.00500000,13.409,OK
+2026-03-31T14:04:37,enrichment,gemini,gemini_text_in,9010573,2404,per input token,1.5e-07,0.00036060,1.383,OK
+2026-03-31T14:04:37,enrichment,gemini,gemini_text_out,9010573,96,per output token,6e-07,0.00005760,0.000,OK
+2026-03-31T14:04:38,embed-frame,vertex-mm-embedding,mm_image,9010575,1.0,per image,0.0001,0.00010000,1.053,OK
+2026-03-31T14:04:38,enrichment,gemini,gemini_text_in,9010575,2443,per input token,1.5e-07,0.00036645,1.854,OK
+2026-03-31T14:04:38,enrichment,gemini,gemini_text_out,9010575,98,per output token,6e-07,0.00005880,0.000,OK
+2026-03-31T14:04:39,embed-frame,vertex-mm-embedding,mm_image,9010577,1.0,per image,0.0001,0.00010000,1.250,OK
+2026-03-31T14:04:39,embed-video,vertex-mm-embedding,mm_video_essential,9010577,15.0,per second of video,0.0005,0.00750000,15.597,OK
+2026-03-31T14:04:39,enrichment,gemini,gemini_text_in,9010577,2756,per input token,1.5e-07,0.00041340,1.493,OK
+2026-03-31T14:04:39,enrichment,gemini,gemini_text_out,9010577,127,per output token,6e-07,0.00007620,0.000,OK
+2026-03-31T14:04:40,embed-frame,vertex-mm-embedding,mm_image,9010579,1.0,per image,0.0001,0.00010000,0.895,OK
+2026-03-31T14:04:40,embed-video,vertex-mm-embedding,mm_video_essential,9010579,10.0,per second of video,0.0005,0.00500000,14.157,OK
+2026-03-31T14:04:40,enrichment,gemini,gemini_text_in,9010579,2700,per input token,1.5e-07,0.00040500,1.698,OK
+2026-03-31T14:04:40,enrichment,gemini,gemini_text_out,9010579,116,per output token,6e-07,0.00006960,0.000,OK
+2026-03-31T14:04:41,embed-frame,vertex-mm-embedding,mm_image,9010581,1.0,per image,0.0001,0.00010000,1.224,OK
+2026-03-31T14:04:41,enrichment,gemini,gemini_text_in,9010581,2502,per input token,1.5e-07,0.00037530,1.649,OK
+2026-03-31T14:04:41,enrichment,gemini,gemini_text_out,9010581,96,per output token,6e-07,0.00005760,0.000,OK
+2026-03-31T14:04:42,embed-frame,vertex-mm-embedding,mm_image,9010583,1.0,per image,0.0001,0.00010000,0.960,OK
+2026-03-31T14:04:42,embed-video,vertex-mm-embedding,mm_video_essential,9010583,30.0,per second of video,0.0005,0.01500000,11.856,OK
+2026-03-31T14:04:42,enrichment,gemini,gemini_text_in,9010583,3261,per input token,1.5e-07,0.00048915,1.447,OK
+2026-03-31T14:04:42,enrichment,gemini,gemini_text_out,9010583,102,per output token,6e-07,0.00006120,0.000,OK
+2026-03-31T14:04:43,embed-frame,vertex-mm-embedding,mm_image,9010585,1.0,per image,0.0001,0.00010000,0.949,OK
+2026-03-31T14:04:43,embed-video,vertex-mm-embedding,mm_video_essential,9010585,15.0,per second of video,0.0005,0.00750000,14.333,OK
+2026-03-31T14:04:43,enrichment,gemini,gemini_text_in,9010585,2841,per input token,1.5e-07,0.00042615,1.552,OK
+2026-03-31T14:04:43,enrichment,gemini,gemini_text_out,9010585,124,per output token,6e-07,0.00007440,0.000,OK
+2026-03-31T14:04:44,embed-frame,vertex-mm-embedding,mm_image,9010587,1.0,per image,0.0001,0.00010000,1.029,OK
+2026-03-31T14:04:44,enrichment,gemini,gemini_text_in,9010587,2464,per input token,1.5e-07,0.00036960,1.869,OK
+2026-03-31T14:04:44,enrichment,gemini,gemini_text_out,9010587,135,per output token,6e-07,0.00008100,0.000,OK
+2026-03-31T14:04:45,embed-frame,vertex-mm-embedding,mm_image,9010589,1.0,per image,0.0001,0.00010000,0.992,OK
+2026-03-31T14:04:45,embed-video,vertex-mm-embedding,mm_video_essential,9010589,10.0,per second of video,0.0005,0.00500000,12.523,OK
+2026-03-31T14:04:45,enrichment,gemini,gemini_text_in,9010589,3207,per input token,1.5e-07,0.00048105,1.323,OK
+2026-03-31T14:04:45,enrichment,gemini,gemini_text_out,9010589,114,per output token,6e-07,0.00006840,0.000,OK
+2026-03-31T14:04:46,embed-frame,vertex-mm-embedding,mm_image,9010591,1.0,per image,0.0001,0.00010000,1.294,OK
+2026-03-31T14:04:46,embed-video,vertex-mm-embedding,mm_video_essential,9010591,15.0,per second of video,0.0005,0.00750000,14.858,OK
+2026-03-31T14:04:46,enrichment,gemini,gemini_text_in,9010591,2487,per input token,1.5e-07,0.00037305,1.229,OK
+2026-03-31T14:04:46,enrichment,gemini,gemini_text_out,9010591,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:04:47,embed-frame,vertex-mm-embedding,mm_image,9010594,1.0,per image,0.0001,0.00010000,1.104,OK
+2026-03-31T14:04:47,embed-video,vertex-mm-embedding,mm_video_essential,9010594,15.0,per second of video,0.0005,0.00750000,11.553,OK
+2026-03-31T14:04:47,enrichment,gemini,gemini_text_in,9010594,2584,per input token,1.5e-07,0.00038760,1.323,OK
+2026-03-31T14:04:47,enrichment,gemini,gemini_text_out,9010594,120,per output token,6e-07,0.00007200,0.000,OK
+2026-03-31T14:04:48,embed-frame,vertex-mm-embedding,mm_image,9010597,1.0,per image,0.0001,0.00010000,0.937,OK
+2026-03-31T14:04:48,enrichment,gemini,gemini_text_in,9010597,3374,per input token,1.5e-07,0.00050610,1.455,OK
+2026-03-31T14:04:48,enrichment,gemini,gemini_text_out,9010597,128,per output token,6e-07,0.00007680,0.000,OK
+2026-03-31T14:04:49,embed-frame,vertex-mm-embedding,mm_image,9010600,1.0,per image,0.0001,0.00010000,1.014,OK
+2026-03-31T14:04:49,embed-video,vertex-mm-embedding,mm_video_essential,9010600,15.0,per second of video,0.0005,0.00750000,14.174,OK
+2026-03-31T14:04:49,enrichment,gemini,gemini_text_in,9010600,2859,per input token,1.5e-07,0.00042885,1.772,OK
+2026-03-31T14:04:49,enrichment,gemini,gemini_text_out,9010600,141,per output token,6e-07,0.00008460,0.000,OK
+2026-03-31T14:04:50,embed-frame,vertex-mm-embedding,mm_image,9010603,1.0,per image,0.0001,0.00010000,1.316,OK
+2026-03-31T14:04:50,embed-video,vertex-mm-embedding,mm_video_essential,9010603,10.0,per second of video,0.0005,0.00500000,14.263,OK
+2026-03-31T14:04:50,enrichment,gemini,gemini_text_in,9010603,2851,per input token,1.5e-07,0.00042765,1.554,OK
+2026-03-31T14:04:50,enrichment,gemini,gemini_text_out,9010603,123,per output token,6e-07,0.00007380,0.000,OK
+2026-03-31T14:04:51,embed-frame,vertex-mm-embedding,mm_image,9010606,1.0,per image,0.0001,0.00010000,0.900,OK
+2026-03-31T14:04:51,enrichment,gemini,gemini_text_in,9010606,2449,per input token,1.5e-07,0.00036735,1.319,OK
+2026-03-31T14:04:51,enrichment,gemini,gemini_text_out,9010606,143,per output token,6e-07,0.00008580,0.000,OK
+2026-03-31T14:04:52,embed-frame,vertex-mm-embedding,mm_image,9010609,1.0,per image,0.0001,0.00010000,1.253,OK
+2026-03-31T14:04:52,embed-video,vertex-mm-embedding,mm_video_essential,9010609,10.0,per second of video,0.0005,0.00500000,12.854,OK
+2026-03-31T14:04:52,enrichment,gemini,gemini_text_in,9010609,2423,per input token,1.5e-07,0.00036345,1.571,OK
+2026-03-31T14:04:52,enrichment,gemini,gemini_text_out,9010609,109,per output token,6e-07,0.00006540,0.000,OK
+2026-03-31T14:04:53,embed-frame,vertex-mm-embedding,mm_image,9010611,1.0,per image,0.0001,0.00010000,1.034,OK
+2026-03-31T14:04:53,embed-video,vertex-mm-embedding,mm_video_essential,9010611,10.0,per second of video,0.0005,0.00500000,15.523,OK
+2026-03-31T14:04:53,enrichment,gemini,gemini_text_in,9010611,2722,per input token,1.5e-07,0.00040830,1.860,OK
+2026-03-31T14:04:53,enrichment,gemini,gemini_text_out,9010611,142,per output token,6e-07,0.00008520,0.000,OK
+2026-03-31T14:04:54,embed-frame,vertex-mm-embedding,mm_image,9010613,1.0,per image,0.0001,0.00010000,1.029,OK
+2026-03-31T14:04:54,enrichment,gemini,gemini_text_in,9010613,2663,per input token,1.5e-07,0.00039945,1.206,OK
+2026-03-31T14:04:54,enrichment,gemini,gemini_text_out,9010613,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:04:55,embed-frame,vertex-mm-embedding,mm_image,9010615,1.0,per image,0.0001,0.00010000,1.177,OK
+2026-03-31T14:04:55,embed-video,vertex-mm-embedding,mm_video_essential,9010615,30.0,per second of video,0.0005,0.01500000,12.548,OK
+2026-03-31T14:04:55,enrichment,gemini,gemini_text_in,9010615,3223,per input token,1.5e-07,0.00048345,1.231,OK
+2026-03-31T14:04:55,enrichment,gemini,gemini_text_out,9010615,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:04:56,embed-frame,vertex-mm-embedding,mm_image,9010617,1.0,per image,0.0001,0.00010000,1.231,OK
+2026-03-31T14:04:56,embed-video,vertex-mm-embedding,mm_video_essential,9010617,15.0,per second of video,0.0005,0.00750000,15.089,OK
+2026-03-31T14:04:56,enrichment,gemini,gemini_text_in,9010617,2837,per input token,1.5e-07,0.00042555,1.880,OK
+2026-03-31T14:04:56,enrichment,gemini,gemini_text_out,9010617,121,per output token,6e-07,0.00007260,0.000,OK
+2026-03-31T14:04:57,embed-frame,vertex-mm-embedding,mm_image,9010619,1.0,per image,0.0001,0.00010000,1.230,OK
+2026-03-31T14:04:57,enrichment,gemini,gemini_text_in,9010619,2849,per input token,1.5e-07,0.00042735,1.549,OK
+2026-03-31T14:04:57,enrichment,gemini,gemini_text_out,9010619,120,per output token,6e-07,0.00007200,0.000,OK
+2026-03-31T14:04:58,embed-frame,vertex-mm-embedding,mm_image,9010621,1.0,per image,0.0001,0.00010000,1.305,OK
+2026-03-31T14:04:58,embed-video,vertex-mm-embedding,mm_video_essential,9010621,30.0,per second of video,0.0005,0.01500000,13.949,OK
+2026-03-31T14:04:58,enrichment,gemini,gemini_text_in,9010621,3191,per input token,1.5e-07,0.00047865,1.898,OK
+2026-03-31T14:04:58,enrichment,gemini,gemini_text_out,9010621,127,per output token,6e-07,0.00007620,0.000,OK
+2026-03-31T14:04:59,embed-frame,vertex-mm-embedding,mm_image,9010623,1.0,per image,0.0001,0.00010000,0.885,OK
+2026-03-31T14:04:59,embed-video,vertex-mm-embedding,mm_video_essential,9010623,10.0,per second of video,0.0005,0.00500000,13.220,OK
+2026-03-31T14:04:59,enrichment,gemini,gemini_text_in,9010623,2848,per input token,1.5e-07,0.00042720,1.473,OK
+2026-03-31T14:04:59,enrichment,gemini,gemini_text_out,9010623,130,per output token,6e-07,0.00007800,0.000,OK
+2026-03-31T14:05:00,embed-frame,vertex-mm-embedding,mm_image,9010625,1.0,per image,0.0001,0.00010000,1.123,OK
+2026-03-31T14:05:00,enrichment,gemini,gemini_text_in,9010625,2888,per input token,1.5e-07,0.00043320,1.712,OK
+2026-03-31T14:05:00,enrichment,gemini,gemini_text_out,9010625,137,per output token,6e-07,0.00008220,0.000,OK
+2026-03-31T14:05:01,embed-frame,vertex-mm-embedding,mm_image,9010627,1.0,per image,0.0001,0.00010000,1.084,OK
+2026-03-31T14:05:01,embed-video,vertex-mm-embedding,mm_video_essential,9010627,30.0,per second of video,0.0005,0.01500000,13.684,OK
+2026-03-31T14:05:01,enrichment,gemini,gemini_text_in,9010627,3343,per input token,1.5e-07,0.00050145,1.621,OK
+2026-03-31T14:05:01,enrichment,gemini,gemini_text_out,9010627,134,per output token,6e-07,0.00008040,0.000,OK
+2026-03-31T14:05:02,embed-frame,vertex-mm-embedding,mm_image,9010629,1.0,per image,0.0001,0.00010000,0.920,OK
+2026-03-31T14:05:02,embed-video,vertex-mm-embedding,mm_video_essential,9010629,15.0,per second of video,0.0005,0.00750000,15.216,OK
+2026-03-31T14:05:02,enrichment,gemini,gemini_text_in,9010629,3378,per input token,1.5e-07,0.00050670,1.299,OK
+2026-03-31T14:05:02,enrichment,gemini,gemini_text_out,9010629,123,per output token,6e-07,0.00007380,0.000,OK
+2026-03-31T14:05:03,embed-frame,vertex-mm-embedding,mm_image,9010631,1.0,per image,0.0001,0.00010000,0.933,OK
+2026-03-31T14:05:03,enrichment,gemini,gemini_text_in,9010631,2494,per input token,1.5e-07,0.00037410,1.860,OK
+2026-03-31T14:05:03,enrichment,gemini,gemini_text_out,9010631,113,per output token,6e-07,0.00006780,0.000,OK
+2026-03-31T14:05:04,embed-frame,vertex-mm-embedding,mm_image,9010633,1.0,per image,0.0001,0.00010000,1.265,OK
+2026-03-31T14:05:04,embed-video,vertex-mm-embedding,mm_video_essential,9010633,10.0,per second of video,0.0005,0.00500000,13.414,OK
+2026-03-31T14:05:04,enrichment,gemini,gemini_text_in,9010633,2666,per input token,1.5e-07,0.00039990,1.666,OK
+2026-03-31T14:05:04,enrichment,gemini,gemini_text_out,9010633,129,per output token,6e-07,0.00007740,0.000,OK
+2026-03-31T14:05:05,embed-frame,vertex-mm-embedding,mm_image,9010635,1.0,per image,0.0001,0.00010000,0.960,OK
+2026-03-31T14:05:05,embed-video,vertex-mm-embedding,mm_video_essential,9010635,10.0,per second of video,0.0005,0.00500000,13.479,OK
+2026-03-31T14:05:05,enrichment,gemini,gemini_text_in,9010635,3116,per input token,1.5e-07,0.00046740,1.271,OK
+2026-03-31T14:05:05,enrichment,gemini,gemini_text_out,9010635,99,per output token,6e-07,0.00005940,0.000,OK
+2026-03-31T14:05:06,embed-frame,vertex-mm-embedding,mm_image,9010637,1.0,per image,0.0001,0.00010000,1.335,OK
+2026-03-31T14:05:06,embed-video,vertex-mm-embedding,mm_video_essential,9010637,15.0,per second of video,0.0005,0.00750000,13.931,OK
+2026-03-31T14:05:06,enrichment,gemini,gemini_text_in,9010637,2672,per input token,1.5e-07,0.00040080,1.210,OK
+2026-03-31T14:05:06,enrichment,gemini,gemini_text_out,9010637,99,per output token,6e-07,0.00005940,0.000,OK
+2026-03-31T14:05:07,embed-frame,vertex-mm-embedding,mm_image,9010640,1.0,per image,0.0001,0.00010000,1.081,OK
+2026-03-31T14:05:07,embed-video,vertex-mm-embedding,mm_video_essential,9010640,15.0,per second of video,0.0005,0.00750000,13.471,OK
+2026-03-31T14:05:07,enrichment,gemini,gemini_text_in,9010640,2782,per input token,1.5e-07,0.00041730,1.269,OK
+2026-03-31T14:05:07,enrichment,gemini,gemini_text_out,9010640,98,per output token,6e-07,0.00005880,0.000,OK
+2026-03-31T14:05:08,embed-frame,vertex-mm-embedding,mm_image,9010643,1.0,per image,0.0001,0.00010000,0.886,OK
+2026-03-31T14:05:08,enrichment,gemini,gemini_text_in,9010643,2480,per input token,1.5e-07,0.00037200,1.464,OK
+2026-03-31T14:05:08,enrichment,gemini,gemini_text_out,9010643,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:05:09,embed-frame,vertex-mm-embedding,mm_image,9010646,1.0,per image,0.0001,0.00010000,0.900,OK
+2026-03-31T14:05:09,embed-video,vertex-mm-embedding,mm_video_essential,9010646,15.0,per second of video,0.0005,0.00750000,12.381,OK
+2026-03-31T14:05:09,enrichment,gemini,gemini_text_in,9010646,3175,per input token,1.5e-07,0.00047625,1.671,OK
+2026-03-31T14:05:09,enrichment,gemini,gemini_text_out,9010646,126,per output token,6e-07,0.00007560,0.000,OK
+2026-03-31T14:05:10,embed-frame,vertex-mm-embedding,mm_image,9010649,1.0,per image,0.0001,0.00010000,1.124,OK
+2026-03-31T14:05:10,embed-video,vertex-mm-embedding,mm_video_essential,9010649,10.0,per second of video,0.0005,0.00500000,13.856,OK
+2026-03-31T14:05:10,enrichment,gemini,gemini_text_in,9010649,2685,per input token,1.5e-07,0.00040275,1.807,OK
+2026-03-31T14:05:10,enrichment,gemini,gemini_text_out,9010649,130,per output token,6e-07,0.00007800,0.000,OK
+2026-03-31T14:05:11,embed-frame,vertex-mm-embedding,mm_image,9010652,1.0,per image,0.0001,0.00010000,1.273,OK
+2026-03-31T14:05:11,enrichment,gemini,gemini_text_in,9010652,2933,per input token,1.5e-07,0.00043995,1.358,OK
+2026-03-31T14:05:11,enrichment,gemini,gemini_text_out,9010652,114,per output token,6e-07,0.00006840,0.000,OK
+2026-03-31T14:05:12,embed-frame,vertex-mm-embedding,mm_image,9010655,1.0,per image,0.0001,0.00010000,1.296,OK
+2026-03-31T14:05:12,embed-video,vertex-mm-embedding,mm_video_essential,9010655,15.0,per second of video,0.0005,0.00750000,12.328,OK
+2026-03-31T14:05:12,enrichment,gemini,gemini_text_in,9010655,3300,per input token,1.5e-07,0.00049500,1.287,OK
+2026-03-31T14:05:12,enrichment,gemini,gemini_text_out,9010655,99,per output token,6e-07,0.00005940,0.000,OK
+2026-03-31T14:05:13,embed-frame,vertex-mm-embedding,mm_image,9010657,1.0,per image,0.0001,0.00010000,1.124,OK
+2026-03-31T14:05:13,embed-video,vertex-mm-embedding,mm_video_essential,9010657,15.0,per second of video,0.0005,0.00750000,14.390,OK
+2026-03-31T14:05:13,enrichment,gemini,gemini_text_in,9010657,2644,per input token,1.5e-07,0.00039660,1.780,OK
+2026-03-31T14:05:13,enrichment,gemini,gemini_text_out,9010657,129,per output token,6e-07,0.00007740,0.000,OK
+2026-03-31T14:05:14,embed-frame,vertex-mm-embedding,mm_image,9010659,1.0,per image,0.0001,0.00010000,1.138,OK
+2026-03-31T14:05:14,enrichment,gemini,gemini_text_in,9010659,3284,per input token,1.5e-07,0.00049260,1.735,OK
+2026-03-31T14:05:14,enrichment,gemini,gemini_text_out,9010659,140,per output token,6e-07,0.00008400,0.000,OK
+2026-03-31T14:05:15,embed-frame,vertex-mm-embedding,mm_image,9010661,1.0,per image,0.0001,0.00010000,1.081,OK
+2026-03-31T14:05:15,embed-video,vertex-mm-embedding,mm_video_essential,9010661,10.0,per second of video,0.0005,0.00500000,14.909,OK
+2026-03-31T14:05:15,enrichment,gemini,gemini_text_in,9010661,3328,per input token,1.5e-07,0.00049920,1.554,OK
+2026-03-31T14:05:15,enrichment,gemini,gemini_text_out,9010661,105,per output token,6e-07,0.00006300,0.000,OK
+2026-03-31T14:05:16,embed-frame,vertex-mm-embedding,mm_image,9010663,1.0,per image,0.0001,0.00010000,1.225,OK
+2026-03-31T14:05:16,embed-video,vertex-mm-embedding,mm_video_essential,9010663,30.0,per second of video,0.0005,0.01500000,14.698,OK
+2026-03-31T14:05:16,enrichment,gemini,gemini_text_in,9010663,2848,per input token,1.5e-07,0.00042720,1.859,OK
+2026-03-31T14:05:16,enrichment,gemini,gemini_text_out,9010663,99,per output token,6e-07,0.00005940,0.000,OK
+2026-03-31T14:05:17,embed-frame,vertex-mm-embedding,mm_image,9010665,1.0,per image,0.0001,0.00010000,1.325,OK
+2026-03-31T14:05:17,enrichment,gemini,gemini_text_in,9010665,2694,per input token,1.5e-07,0.00040410,1.675,OK
+2026-03-31T14:05:17,enrichment,gemini,gemini_text_out,9010665,125,per output token,6e-07,0.00007500,0.000,OK
+2026-03-31T14:05:18,embed-frame,vertex-mm-embedding,mm_image,9010667,1.0,per image,0.0001,0.00010000,1.185,OK
+2026-03-31T14:05:18,embed-video,vertex-mm-embedding,mm_video_essential,9010667,10.0,per second of video,0.0005,0.00500000,12.095,OK
+2026-03-31T14:05:18,enrichment,gemini,gemini_text_in,9010667,2705,per input token,1.5e-07,0.00040575,1.330,OK
+2026-03-31T14:05:18,enrichment,gemini,gemini_text_out,9010667,130,per output token,6e-07,0.00007800,0.000,OK
+2026-03-31T14:05:19,embed-frame,vertex-mm-embedding,mm_image,9010669,1.0,per image,0.0001,0.00010000,1.152,OK
+2026-03-31T14:05:19,embed-video,vertex-mm-embedding,mm_video_essential,9010669,10.0,per second of video,0.0005,0.00500000,12.814,OK
+2026-03-31T14:05:19,enrichment,gemini,gemini_text_in,9010669,2572,per input token,1.5e-07,0.00038580,1.556,OK
+2026-03-31T14:05:19,enrichment,gemini,gemini_text_out,9010669,113,per output token,6e-07,0.00006780,0.000,OK
+2026-03-31T14:05:20,embed-frame,vertex-mm-embedding,mm_image,9010671,1.0,per image,0.0001,0.00010000,1.121,OK
+2026-03-31T14:05:20,enrichment,gemini,gemini_text_in,9010671,2683,per input token,1.5e-07,0.00040245,1.811,OK
+2026-03-31T14:05:20,enrichment,gemini,gemini_text_out,9010671,130,per output token,6e-07,0.00007800,0.000,OK
+2026-03-31T14:05:21,embed-frame,vertex-mm-embedding,mm_image,9010673,1.0,per image,0.0001,0.00010000,1.243,OK
+2026-03-31T14:05:21,embed-video,vertex-mm-embedding,mm_video_essential,9010673,30.0,per second of video,0.0005,0.01500000,14.840,OK
+2026-03-31T14:05:21,enrichment,gemini,gemini_text_in,9010673,3195,per input token,1.5e-07,0.00047925,1.794,OK
+2026-03-31T14:05:21,enrichment,gemini,gemini_text_out,9010673,107,per output token,6e-07,0.00006420,0.000,OK
+2026-03-31T14:05:22,embed-frame,vertex-mm-embedding,mm_image,9010675,1.0,per image,0.0001,0.00010000,0.927,OK
+2026-03-31T14:05:22,embed-video,vertex-mm-embedding,mm_video_essential,9010675,10.0,per second of video,0.0005,0.00500000,14.287,OK
+2026-03-31T14:05:22,enrichment,gemini,gemini_text_in,9010675,3321,per input token,1.5e-07,0.00049815,1.689,OK
+2026-03-31T14:05:22,enrichment,gemini,gemini_text_out,9010675,135,per output token,6e-07,0.00008100,0.000,OK
+2026-03-31T14:05:23,embed-frame,vertex-mm-embedding,mm_image,9010678,1.0,per image,0.0001,0.00010000,0.857,OK
+2026-03-31T14:05:23,embed-video,vertex-mm-embedding,mm_video_essential,9010678,10.0,per second of video,0.0005,0.00500000,14.228,OK
+2026-03-31T14:05:23,enrichment,gemini,gemini_text_in,9010678,2662,per input token,1.5e-07,0.00039930,1.382,OK
+2026-03-31T14:05:23,enrichment,gemini,gemini_text_out,9010678,130,per output token,6e-07,0.00007800,0.000,OK
+2026-03-31T14:05:24,embed-frame,vertex-mm-embedding,mm_image,9010681,1.0,per image,0.0001,0.00010000,1.013,OK
+2026-03-31T14:05:24,enrichment,gemini,gemini_text_in,9010681,3004,per input token,1.5e-07,0.00045060,1.415,OK
+2026-03-31T14:05:24,enrichment,gemini,gemini_text_out,9010681,111,per output token,6e-07,0.00006660,0.000,OK
+2026-03-31T14:05:25,embed-frame,vertex-mm-embedding,mm_image,9010684,1.0,per image,0.0001,0.00010000,1.200,OK
+2026-03-31T14:05:25,embed-video,vertex-mm-embedding,mm_video_essential,9010684,15.0,per second of video,0.0005,0.00750000,13.237,OK
+2026-03-31T14:05:25,enrichment,gemini,gemini_text_in,9010684,2433,per input token,1.5e-07,0.00036495,1.292,OK
+2026-03-31T14:05:25,enrichment,gemini,gemini_text_out,9010684,130,per output token,6e-07,0.00007800,0.000,OK
+2026-03-31T14:05:26,embed-frame,vertex-mm-embedding,mm_image,9010687,1.0,per image,0.0001,0.00010000,1.088,OK
+2026-03-31T14:05:26,embed-video,vertex-mm-embedding,mm_video_essential,9010687,10.0,per second of video,0.0005,0.00500000,13.465,OK
+2026-03-31T14:05:26,enrichment,gemini,gemini_text_in,9010687,3042,per input token,1.5e-07,0.00045630,1.616,OK
+2026-03-31T14:05:26,enrichment,gemini,gemini_text_out,9010687,124,per output token,6e-07,0.00007440,0.000,OK
+2026-03-31T14:05:27,embed-frame,vertex-mm-embedding,mm_image,9010689,1.0,per image,0.0001,0.00010000,0.974,OK
+2026-03-31T14:05:27,enrichment,gemini,gemini_text_in,9010689,3148,per input token,1.5e-07,0.00047220,1.826,OK
+2026-03-31T14:05:27,enrichment,gemini,gemini_text_out,9010689,106,per output token,6e-07,0.00006360,0.000,OK
+2026-03-31T14:05:28,embed-frame,vertex-mm-embedding,mm_image,9010691,1.0,per image,0.0001,0.00010000,1.115,OK
+2026-03-31T14:05:28,embed-video,vertex-mm-embedding,mm_video_essential,9010691,15.0,per second of video,0.0005,0.00750000,12.166,OK
+2026-03-31T14:05:28,enrichment,gemini,gemini_text_in,9010691,3015,per input token,1.5e-07,0.00045225,1.600,OK
+2026-03-31T14:05:28,enrichment,gemini,gemini_text_out,9010691,126,per output token,6e-07,0.00007560,0.000,OK
+2026-03-31T14:05:29,embed-frame,vertex-mm-embedding,mm_image,9010693,1.0,per image,0.0001,0.00010000,1.249,OK
+2026-03-31T14:05:29,embed-video,vertex-mm-embedding,mm_video_essential,9010693,30.0,per second of video,0.0005,0.01500000,11.717,OK
+2026-03-31T14:05:29,enrichment,gemini,gemini_text_in,9010693,2509,per input token,1.5e-07,0.00037635,1.321,OK
+2026-03-31T14:05:29,enrichment,gemini,gemini_text_out,9010693,144,per output token,6e-07,0.00008640,0.000,OK
+2026-03-31T14:05:30,embed-frame,vertex-mm-embedding,mm_image,9010695,1.0,per image,0.0001,0.00010000,1.053,OK
+2026-03-31T14:05:30,enrichment,gemini,gemini_text_in,9010695,2450,per input token,1.5e-07,0.00036750,1.844,OK
+2026-03-31T14:05:30,enrichment,gemini,gemini_text_out,9010695,111,per output token,6e-07,0.00006660,0.000,OK
+2026-03-31T14:05:31,embed-frame,vertex-mm-embedding,mm_image,9010697,1.0,per image,0.0001,0.00010000,1.197,OK
+2026-03-31T14:05:31,embed-video,vertex-mm-embedding,mm_video_essential,9010697,10.0,per second of video,0.0005,0.00500000,13.088,OK
+2026-03-31T14:05:31,enrichment,gemini,gemini_text_in,9010697,2790,per input token,1.5e-07,0.00041850,1.587,OK
+2026-03-31T14:05:31,enrichment,gemini,gemini_text_out,9010697,133,per output token,6e-07,0.00007980,0.000,OK
+2026-03-31T14:05:32,embed-frame,vertex-mm-embedding,mm_image,9010699,1.0,per image,0.0001,0.00010000,1.173,OK
+2026-03-31T14:05:32,embed-video,vertex-mm-embedding,mm_video_essential,9010699,10.0,per second of video,0.0005,0.00500000,11.759,OK
+2026-03-31T14:05:32,enrichment,gemini,gemini_text_in,9010699,2461,per input token,1.5e-07,0.00036915,1.873,OK
+2026-03-31T14:05:32,enrichment,gemini,gemini_text_out,9010699,144,per output token,6e-07,0.00008640,0.000,OK
+2026-03-31T14:05:33,embed-frame,vertex-mm-embedding,mm_image,9010701,1.0,per image,0.0001,0.00010000,1.071,OK
+2026-03-31T14:05:33,enrichment,gemini,gemini_text_in,9010701,2652,per input token,1.5e-07,0.00039780,1.319,OK
+2026-03-31T14:05:33,enrichment,gemini,gemini_text_out,9010701,135,per output token,6e-07,0.00008100,0.000,OK
+2026-03-31T14:05:34,embed-frame,vertex-mm-embedding,mm_image,9010703,1.0,per image,0.0001,0.00010000,1.288,OK
+2026-03-31T14:05:34,embed-video,vertex-mm-embedding,mm_video_essential,9010703,30.0,per second of video,0.0005,0.01500000,13.362,OK
+2026-03-31T14:05:34,enrichment,gemini,gemini_text_in,9010703,2702,per input token,1.5e-07,0.00040530,1.719,OK
+2026-03-31T14:05:34,enrichment,gemini,gemini_text_out,9010703,113,per output token,6e-07,0.00006780,0.000,OK
+2026-03-31T14:05:35,embed-frame,vertex-mm-embedding,mm_image,9010705,1.0,per image,0.0001,0.00010000,1.296,OK
+2026-03-31T14:05:35,embed-video,vertex-mm-embedding,mm_video_essential,9010705,30.0,per second of video,0.0005,0.01500000,11.494,OK
+2026-03-31T14:05:35,enrichment,gemini,gemini_text_in,9010705,2603,per input token,1.5e-07,0.00039045,1.425,OK
+2026-03-31T14:05:35,enrichment,gemini,gemini_text_out,9010705,112,per output token,6e-07,0.00006720,0.000,OK
+2026-03-31T14:05:36,embed-frame,vertex-mm-embedding,mm_image,9010707,1.0,per image,0.0001,0.00010000,0.882,OK
+2026-03-31T14:05:36,enrichment,gemini,gemini_text_in,9010707,3048,per input token,1.5e-07,0.00045720,1.530,OK
+2026-03-31T14:05:36,enrichment,gemini,gemini_text_out,9010707,108,per output token,6e-07,0.00006480,0.000,OK
+2026-03-31T14:05:37,embed-frame,vertex-mm-embedding,mm_image,9010709,1.0,per image,0.0001,0.00010000,1.253,OK
+2026-03-31T14:05:37,embed-video,vertex-mm-embedding,mm_video_essential,9010709,30.0,per second of video,0.0005,0.01500000,13.073,OK
+2026-03-31T14:05:37,enrichment,gemini,gemini_text_in,9010709,2888,per input token,1.5e-07,0.00043320,1.867,OK
+2026-03-31T14:05:37,enrichment,gemini,gemini_text_out,9010709,127,per output token,6e-07,0.00007620,0.000,OK
+2026-03-31T14:05:38,embed-frame,vertex-mm-embedding,mm_image,9010711,1.0,per image,0.0001,0.00010000,0.902,OK
+2026-03-31T14:05:38,embed-video,vertex-mm-embedding,mm_video_essential,9010711,10.0,per second of video,0.0005,0.00500000,12.203,OK
+2026-03-31T14:05:38,enrichment,gemini,gemini_text_in,9010711,2420,per input token,1.5e-07,0.00036300,1.363,OK
+2026-03-31T14:05:38,enrichment,gemini,gemini_text_out,9010711,132,per output token,6e-07,0.00007920,0.000,OK
+2026-03-31T14:05:39,embed-frame,vertex-mm-embedding,mm_image,9010714,1.0,per image,0.0001,0.00010000,1.227,OK
+2026-03-31T14:05:39,embed-video,vertex-mm-embedding,mm_video_essential,9010714,10.0,per second of video,0.0005,0.00500000,13.288,OK
+2026-03-31T14:05:39,enrichment,gemini,gemini_text_in,9010714,3245,per input token,1.5e-07,0.00048675,1.757,OK
+2026-03-31T14:05:39,enrichment,gemini,gemini_text_out,9010714,143,per output token,6e-07,0.00008580,0.000,OK
+2026-03-31T14:05:40,embed-frame,vertex-mm-embedding,mm_image,9010717,1.0,per image,0.0001,0.00010000,1.180,OK
+2026-03-31T14:05:40,enrichment,gemini,gemini_text_in,9010717,2904,per input token,1.5e-07,0.00043560,1.400,OK
+2026-03-31T14:05:40,enrichment,gemini,gemini_text_out,9010717,109,per output token,6e-07,0.00006540,0.000,OK
+2026-03-31T14:05:41,embed-frame,vertex-mm-embedding,mm_image,9010720,1.0,per image,0.0001,0.00010000,1.315,OK
+2026-03-31T14:05:41,embed-video,vertex-mm-embedding,mm_video_essential,9010720,30.0,per second of video,0.0005,0.01500000,12.329,OK
+2026-03-31T14:05:41,enrichment,gemini,gemini_text_in,9010720,2826,per input token,1.5e-07,0.00042390,1.581,OK
+2026-03-31T14:05:41,enrichment,gemini,gemini_text_out,9010720,114,per output token,6e-07,0.00006840,0.000,OK
+2026-03-31T14:05:42,embed-frame,vertex-mm-embedding,mm_image,9010723,1.0,per image,0.0001,0.00010000,0.936,OK
+2026-03-31T14:05:42,embed-video,vertex-mm-embedding,mm_video_essential,9010723,10.0,per second of video,0.0005,0.00500000,14.846,OK
+2026-03-31T14:05:42,enrichment,gemini,gemini_text_in,9010723,2957,per input token,1.5e-07,0.00044355,1.222,OK
+2026-03-31T14:05:42,enrichment,gemini,gemini_text_out,9010723,139,per output token,6e-07,0.00008340,0.000,OK
+2026-03-31T14:05:43,embed-frame,vertex-mm-embedding,mm_image,9010726,1.0,per image,0.0001,0.00010000,0.856,OK
+2026-03-31T14:05:43,enrichment,gemini,gemini_text_in,9010726,3027,per input token,1.5e-07,0.00045405,1.637,OK
+2026-03-31T14:05:43,enrichment,gemini,gemini_text_out,9010726,114,per output token,6e-07,0.00006840,0.000,OK
+2026-03-31T14:05:44,embed-frame,vertex-mm-embedding,mm_image,9010729,1.0,per image,0.0001,0.00010000,1.080,OK
+2026-03-31T14:05:44,embed-video,vertex-mm-embedding,mm_video_essential,9010729,10.0,per second of video,0.0005,0.00500000,14.693,OK
+2026-03-31T14:05:44,enrichment,gemini,gemini_text_in,9010729,3028,per input token,1.5e-07,0.00045420,1.532,OK
+2026-03-31T14:05:44,enrichment,gemini,gemini_text_out,9010729,105,per output token,6e-07,0.00006300,0.000,OK
+2026-03-31T14:05:45,embed-frame,vertex-mm-embedding,mm_image,9010731,1.0,per image,0.0001,0.00010000,1.341,OK
+2026-03-31T14:05:45,embed-video,vertex-mm-embedding,mm_video_essential,9010731,15.0,per second of video,0.0005,0.00750000,11.964,OK
+2026-03-31T14:05:45,enrichment,gemini,gemini_text_in,9010731,3165,per input token,1.5e-07,0.00047475,1.546,OK
+2026-03-31T14:05:45,enrichment,gemini,gemini_text_out,9010731,124,per output token,6e-07,0.00007440,0.000,OK
+2026-03-31T14:05:46,embed-frame,vertex-mm-embedding,mm_image,9010733,1.0,per image,0.0001,0.00010000,1.263,OK
+2026-03-31T14:05:46,enrichment,gemini,gemini_text_in,9010733,3081,per input token,1.5e-07,0.00046215,1.224,OK
+2026-03-31T14:05:46,enrichment,gemini,gemini_text_out,9010733,140,per output token,6e-07,0.00008400,0.000,OK
+2026-03-31T14:05:47,embed-frame,vertex-mm-embedding,mm_image,9010735,1.0,per image,0.0001,0.00010000,1.118,OK
+2026-03-31T14:05:47,embed-video,vertex-mm-embedding,mm_video_essential,9010735,15.0,per second of video,0.0005,0.00750000,13.227,OK
+2026-03-31T14:05:47,enrichment,gemini,gemini_text_in,9010735,3197,per input token,1.5e-07,0.00047955,1.685,OK
+2026-03-31T14:05:47,enrichment,gemini,gemini_text_out,9010735,132,per output token,6e-07,0.00007920,0.000,OK
+2026-03-31T14:05:48,embed-frame,vertex-mm-embedding,mm_image,9010737,1.0,per image,0.0001,0.00010000,0.869,OK
+2026-03-31T14:05:48,embed-video,vertex-mm-embedding,mm_video_essential,9010737,30.0,per second of video,0.0005,0.01500000,12.836,OK
+2026-03-31T14:05:48,enrichment,gemini,gemini_text_in,9010737,2510,per input token,1.5e-07,0.00037650,1.516,OK
+2026-03-31T14:05:48,enrichment,gemini,gemini_text_out,9010737,117,per output token,6e-07,0.00007020,0.000,OK
+2026-03-31T14:05:49,embed-frame,vertex-mm-embedding,mm_image,9010739,1.0,per image,0.0001,0.00010000,0.903,OK
+2026-03-31T14:05:49,enrichment,gemini,gemini_text_in,9010739,2794,per input token,1.5e-07,0.00041910,1.639,OK
+2026-03-31T14:05:49,enrichment,gemini,gemini_text_out,9010739,143,per output token,6e-07,0.00008580,0.000,OK
+2026-03-31T14:05:50,embed-frame,vertex-mm-embedding,mm_image,9010741,1.0,per image,0.0001,0.00010000,0.937,OK
+2026-03-31T14:05:50,embed-video,vertex-mm-embedding,mm_video_essential,9010741,15.0,per second of video,0.0005,0.00750000,14.735,OK
+2026-03-31T14:05:50,enrichment,gemini,gemini_text_in,9010741,2988,per input token,1.5e-07,0.00044820,1.335,OK
+2026-03-31T14:05:50,enrichment,gemini,gemini_text_out,9010741,119,per output token,6e-07,0.00007140,0.000,OK
+2026-03-31T14:05:51,embed-frame,vertex-mm-embedding,mm_image,9010743,1.0,per image,0.0001,0.00010000,1.099,OK
+2026-03-31T14:05:51,embed-video,vertex-mm-embedding,mm_video_essential,9010743,15.0,per second of video,0.0005,0.00750000,13.271,OK
+2026-03-31T14:05:51,enrichment,gemini,gemini_text_in,9010743,3138,per input token,1.5e-07,0.00047070,1.346,OK
+2026-03-31T14:05:51,enrichment,gemini,gemini_text_out,9010743,128,per output token,6e-07,0.00007680,0.000,OK
+2026-03-31T14:05:52,embed-frame,vertex-mm-embedding,mm_image,9010745,1.0,per image,0.0001,0.00010000,0.931,OK
+2026-03-31T14:05:52,embed-video,vertex-mm-embedding,mm_video_essential,9010745,30.0,per second of video,0.0005,0.01500000,14.234,OK
+2026-03-31T14:05:52,enrichment,gemini,gemini_text_in,9010745,3262,per input token,1.5e-07,0.00048930,1.284,OK
+2026-03-31T14:05:52,enrichment,gemini,gemini_text_out,9010745,100,per output token,6e-07,0.00006000,0.000,OK
+2026-03-31T14:05:53,embed-frame,vertex-mm-embedding,mm_image,9010748,1.0,per image,0.0001,0.00010000,1.083,OK
+2026-03-31T14:05:53,embed-video,vertex-mm-embedding,mm_video_essential,9010748,10.0,per second of video,0.0005,0.00500000,11.478,OK
+2026-03-31T14:05:53,enrichment,gemini,gemini_text_in,9010748,3063,per input token,1.5e-07,0.00045945,1.234,OK
+2026-03-31T14:05:53,enrichment,gemini,gemini_text_out,9010748,106,per output token,6e-07,0.00006360,0.000,OK
+2026-03-31T14:05:54,embed-frame,vertex-mm-embedding,mm_image,9010751,1.0,per image,0.0001,0.00010000,0.979,OK
+2026-03-31T14:05:54,enrichment,gemini,gemini_text_in,9010751,3013,per input token,1.5e-07,0.00045195,1.537,OK
+2026-03-31T14:05:54,enrichment,gemini,gemini_text_out,9010751,96,per output token,6e-07,0.00005760,0.000,OK
+2026-03-31T14:05:55,embed-frame,vertex-mm-embedding,mm_image,9010754,1.0,per image,0.0001,0.00010000,1.177,OK
+2026-03-31T14:05:55,embed-video,vertex-mm-embedding,mm_video_essential,9010754,10.0,per second of video,0.0005,0.00500000,12.898,OK
+2026-03-31T14:05:55,enrichment,gemini,gemini_text_in,9010754,2751,per input token,1.5e-07,0.00041265,1.604,OK
+2026-03-31T14:05:55,enrichment,gemini,gemini_text_out,9010754,141,per output token,6e-07,0.00008460,0.000,OK
+2026-03-31T14:05:56,embed-frame,vertex-mm-embedding,mm_image,9010756,1.0,per image,0.0001,0.00010000,1.048,OK
+2026-03-31T14:05:56,embed-video,vertex-mm-embedding,mm_video_essential,9010756,15.0,per second of video,0.0005,0.00750000,14.856,OK
+2026-03-31T14:05:56,enrichment,gemini,gemini_text_in,9010756,2519,per input token,1.5e-07,0.00037785,1.824,OK
+2026-03-31T14:05:56,enrichment,gemini,gemini_text_out,9010756,110,per output token,6e-07,0.00006600,0.000,OK
+2026-03-31T14:05:57,embed-frame,vertex-mm-embedding,mm_image,9010758,1.0,per image,0.0001,0.00010000,1.153,OK
+2026-03-31T14:05:57,enrichment,gemini,gemini_text_in,9010758,2751,per input token,1.5e-07,0.00041265,1.805,OK
+2026-03-31T14:05:57,enrichment,gemini,gemini_text_out,9010758,131,per output token,6e-07,0.00007860,0.000,OK
+2026-03-31T14:05:58,embed-frame,vertex-mm-embedding,mm_image,9010760,1.0,per image,0.0001,0.00010000,1.234,OK
+2026-03-31T14:05:58,embed-video,vertex-mm-embedding,mm_video_essential,9010760,15.0,per second of video,0.0005,0.00750000,12.787,OK
+2026-03-31T14:05:58,enrichment,gemini,gemini_text_in,9010760,2940,per input token,1.5e-07,0.00044100,1.521,OK
+2026-03-31T14:05:58,enrichment,gemini,gemini_text_out,9010760,120,per output token,6e-07,0.00007200,0.000,OK
+2026-03-31T14:05:59,embed-frame,vertex-mm-embedding,mm_image,9010762,1.0,per image,0.0001,0.00010000,1.004,OK
+2026-03-31T14:05:59,embed-video,vertex-mm-embedding,mm_video_essential,9010762,15.0,per second of video,0.0005,0.00750000,15.555,OK
+2026-03-31T14:05:59,enrichment,gemini,gemini_text_in,9010762,2688,per input token,1.5e-07,0.00040320,1.446,OK
+2026-03-31T14:05:59,enrichment,gemini,gemini_text_out,9010762,131,per output token,6e-07,0.00007860,0.000,OK
+2026-03-31T14:06:00,embed-frame,vertex-mm-embedding,mm_image,9010764,1.0,per image,0.0001,0.00010000,1.210,OK
+2026-03-31T14:06:00,enrichment,gemini,gemini_text_in,9010764,2678,per input token,1.5e-07,0.00040170,1.201,OK
+2026-03-31T14:06:00,enrichment,gemini,gemini_text_out,9010764,107,per output token,6e-07,0.00006420,0.000,OK
+2026-03-31T14:06:01,embed-frame,vertex-mm-embedding,mm_image,9010766,1.0,per image,0.0001,0.00010000,1.067,OK
+2026-03-31T14:06:01,embed-video,vertex-mm-embedding,mm_video_essential,9010766,15.0,per second of video,0.0005,0.00750000,14.504,OK
+2026-03-31T14:06:01,enrichment,gemini,gemini_text_in,9010766,3397,per input token,1.5e-07,0.00050955,1.459,OK
+2026-03-31T14:06:01,enrichment,gemini,gemini_text_out,9010766,109,per output token,6e-07,0.00006540,0.000,OK
+2026-03-31T14:06:02,embed-frame,vertex-mm-embedding,mm_image,9010768,1.0,per image,0.0001,0.00010000,1.186,OK
+2026-03-31T14:06:02,embed-video,vertex-mm-embedding,mm_video_essential,9010768,30.0,per second of video,0.0005,0.01500000,11.480,OK
+2026-03-31T14:06:02,enrichment,gemini,gemini_text_in,9010768,2712,per input token,1.5e-07,0.00040680,1.599,OK
+2026-03-31T14:06:02,enrichment,gemini,gemini_text_out,9010768,123,per output token,6e-07,0.00007380,0.000,OK
+2026-03-31T14:06:03,embed-frame,vertex-mm-embedding,mm_image,9010770,1.0,per image,0.0001,0.00010000,1.034,OK
+2026-03-31T14:06:03,enrichment,gemini,gemini_text_in,9010770,3164,per input token,1.5e-07,0.00047460,1.808,OK
+2026-03-31T14:06:03,enrichment,gemini,gemini_text_out,9010770,95,per output token,6e-07,0.00005700,0.000,OK
+2026-03-31T14:06:04,embed-frame,vertex-mm-embedding,mm_image,9010772,1.0,per image,0.0001,0.00010000,1.298,OK
+2026-03-31T14:06:04,embed-video,vertex-mm-embedding,mm_video_essential,9010772,10.0,per second of video,0.0005,0.00500000,12.285,OK
+2026-03-31T14:06:04,enrichment,gemini,gemini_text_in,9010772,2980,per input token,1.5e-07,0.00044700,1.598,OK
+2026-03-31T14:06:04,enrichment,gemini,gemini_text_out,9010772,109,per output token,6e-07,0.00006540,0.000,OK
+2026-03-31T14:06:05,embed-frame,vertex-mm-embedding,mm_image,9010774,1.0,per image,0.0001,0.00010000,1.166,OK
+2026-03-31T14:06:05,embed-video,vertex-mm-embedding,mm_video_essential,9010774,15.0,per second of video,0.0005,0.00750000,11.707,OK
+2026-03-31T14:06:05,enrichment,gemini,gemini_text_in,9010774,2510,per input token,1.5e-07,0.00037650,1.358,OK
+2026-03-31T14:06:05,enrichment,gemini,gemini_text_out,9010774,99,per output token,6e-07,0.00005940,0.000,OK
+2026-03-31T14:06:06,embed-frame,vertex-mm-embedding,mm_image,9010776,1.0,per image,0.0001,0.00010000,1.273,OK
+2026-03-31T14:06:06,enrichment,gemini,gemini_text_in,9010776,3194,per input token,1.5e-07,0.00047910,1.363,OK
+2026-03-31T14:06:06,enrichment,gemini,gemini_text_out,9010776,105,per output token,6e-07,0.00006300,0.000,OK
+2026-03-31T14:06:07,embed-frame,vertex-mm-embedding,mm_image,9010778,1.0,per image,0.0001,0.00010000,1.004,OK
+2026-03-31T14:06:07,enrichment,gemini,gemini_text_in,9010778,2426,per input token,1.5e-07,0.00036390,1.237,OK
+2026-03-31T14:06:07,enrichment,gemini,gemini_text_out,9010778,130,per output token,6e-07,0.00007800,0.000,OK
+2026-03-31T14:06:08,embed-frame,vertex-mm-embedding,mm_image,9010779,1.0,per image,0.0001,0.00010000,1.325,OK
+2026-03-31T14:06:08,enrichment,gemini,gemini_text_in,9010779,2970,per input token,1.5e-07,0.00044550,1.549,OK
+2026-03-31T14:06:08,enrichment,gemini,gemini_text_out,9010779,141,per output token,6e-07,0.00008460,0.000,OK
+2026-03-31T14:06:09,embed-frame,vertex-mm-embedding,mm_image,9010780,1.0,per image,0.0001,0.00010000,1.329,OK
+2026-03-31T14:06:09,enrichment,gemini,gemini_text_in,9010780,3024,per input token,1.5e-07,0.00045360,1.365,OK
+2026-03-31T14:06:09,enrichment,gemini,gemini_text_out,9010780,109,per output token,6e-07,0.00006540,0.000,OK
+2026-03-31T14:12:00,cluster-labelling,gemini,gemini_text_in,batch_all_clusters,3850,per input token,1.5e-07,0.00057750,1.420,OK
+2026-03-31T14:12:00,cluster-labelling,gemini,gemini_text_out,batch_all_clusters,310,per output token,6e-07,0.00018600,0.000,OK

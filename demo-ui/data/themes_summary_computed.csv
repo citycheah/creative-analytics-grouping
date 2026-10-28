@@ -1,0 +1,14 @@
+cluster_id,theme_label,total_spend,total_impressions,creative_count,pct_of_total_spend,recommendation
+7,5G Postpaid Unlimited Family Share,212399.98,25179519,124,22.3795678319602,Consider reallocating spend to this theme.
+4,Home Fibre 1Gbps WiFi 6 Bundle,184599.97,20686687,108,19.450414027312135,Consider reallocating spend to this theme.
+11,Flagship 5G Smartphone RM1 Zerolution,118199.98,12732529,88,12.454165344772342,Consider reallocating spend to this theme.
+5,5G Nationwide Speed & Coverage,96499.99,12618967,72,10.167741409337612,Consider reallocating spend to this theme.
+6,Hotlink Prepaid 5G Youth Gaming Pass,88755.03,13962837,85,9.351692096734954,Consider reallocating spend to this theme.
+3,Festive Raya & CNY 5G Roaming,64799.99,8103115,64,6.827664351547219,Consider reallocating spend to this theme.
+2,Maxis Business SME Fibre & POS,48900.0,4430115,52,5.1523586159605745,Consider reallocating spend to this theme.
+8,Hotlink App Daily Rewards & Cashback,38330.01,5617840,47,4.038649432992944,Consider reallocating spend to this theme.
+1,Home Solar Rooftop Energy Subscription,31499.98,2976146,38,3.3190019091121834,Consider reallocating spend to this theme.
+0,Experiential Concept Store Reopenings,26399.97,3386396,36,2.7816383004212817,Consider reallocating spend to this theme.
+10,Instant eSIM Switch & Port-In Rebate,21799.99,2869830,34,2.296960456121766,Consider reallocating spend to this theme.
+9,AI Scam Shield & Family Cyber Guard,16800.01,2128071,31,1.7701365290741062,Consider reallocating spend to this theme.
+-1,Unclustered / unrelated,95.0,10450,1,0.01000969465268414,Exclude these from analysis.

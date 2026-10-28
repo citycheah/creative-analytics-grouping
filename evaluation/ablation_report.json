@@ -1,0 +1,338 @@
+{
+  "dataset_summary": {
+    "brand": "Maxis",
+    "country": "Malaysia",
+    "distinct_representatives": 340,
+    "blind_eval_set_size": 36,
+    "total_spend_usd": 949079.9
+  },
+  "modality_sweep": [
+    {
+      "config": "Text-Only (w=0.0)",
+      "track": "frame",
+      "visual_weight": 0.0,
+      "text_weight": 1.0,
+      "ari": 0.7887,
+      "ami": 0.8573,
+      "clusters": 11,
+      "noise_count": 3,
+      "noise_spend_pct": 0.39
+    },
+    {
+      "config": "Frame+Text (w=0.15)",
+      "track": "frame",
+      "visual_weight": 0.15,
+      "text_weight": 0.85,
+      "ari": 0.8403,
+      "ami": 0.8942,
+      "clusters": 12,
+      "noise_count": 3,
+      "noise_spend_pct": 0.39
+    },
+    {
+      "config": "Frame+Text (w=0.30)",
+      "track": "frame",
+      "visual_weight": 0.3,
+      "text_weight": 0.7,
+      "ari": 0.8403,
+      "ami": 0.8942,
+      "clusters": 12,
+      "noise_count": 1,
+      "noise_spend_pct": 0.01
+    },
+    {
+      "config": "Frame+Text (w=0.50)",
+      "track": "frame",
+      "visual_weight": 0.5,
+      "text_weight": 0.5,
+      "ari": 0.7072,
+      "ami": 0.774,
+      "clusters": 15,
+      "noise_count": 0,
+      "noise_spend_pct": 0.0
+    },
+    {
+      "config": "Frame+Text (w=0.70)",
+      "track": "frame",
+      "visual_weight": 0.7,
+      "text_weight": 0.3,
+      "ari": 0.7201,
+      "ami": 0.792,
+      "clusters": 15,
+      "noise_count": 1,
+      "noise_spend_pct": 0.02
+    },
+    {
+      "config": "Frame+Text (w=0.85)",
+      "track": "frame",
+      "visual_weight": 0.85,
+      "text_weight": 0.15,
+      "ari": 0.8228,
+      "ami": 0.8607,
+      "clusters": 15,
+      "noise_count": 3,
+      "noise_spend_pct": 0.05
+    },
+    {
+      "config": "Frame-Only (w=1.0)",
+      "track": "frame",
+      "visual_weight": 1.0,
+      "text_weight": 0.0,
+      "ari": 0.476,
+      "ami": 0.6542,
+      "clusters": 9,
+      "noise_count": 0,
+      "noise_spend_pct": 0.0
+    },
+    {
+      "config": "Text-Only (w=0.0)",
+      "track": "video",
+      "visual_weight": 0.0,
+      "text_weight": 1.0,
+      "ari": 0.7887,
+      "ami": 0.8573,
+      "clusters": 11,
+      "noise_count": 3,
+      "noise_spend_pct": 0.39
+    },
+    {
+      "config": "Video+Text (w=0.15)",
+      "track": "video",
+      "visual_weight": 0.15,
+      "text_weight": 0.85,
+      "ari": 0.8403,
+      "ami": 0.8942,
+      "clusters": 12,
+      "noise_count": 3,
+      "noise_spend_pct": 0.39
+    },
+    {
+      "config": "Video+Text (w=0.30)",
+      "track": "video",
+      "visual_weight": 0.3,
+      "text_weight": 0.7,
+      "ari": 0.8403,
+      "ami": 0.8942,
+      "clusters": 12,
+      "noise_count": 2,
+      "noise_spend_pct": 0.09
+    },
+    {
+      "config": "Video+Text (w=0.50)",
+      "track": "video",
+      "visual_weight": 0.5,
+      "text_weight": 0.5,
+      "ari": 0.7201,
+      "ami": 0.792,
+      "clusters": 15,
+      "noise_count": 1,
+      "noise_spend_pct": 0.01
+    },
+    {
+      "config": "Video+Text (w=0.70)",
+      "track": "video",
+      "visual_weight": 0.7,
+      "text_weight": 0.3,
+      "ari": 0.8011,
+      "ami": 0.8641,
+      "clusters": 12,
+      "noise_count": 0,
+      "noise_spend_pct": 0.0
+    },
+    {
+      "config": "Video+Text (w=0.85)",
+      "track": "video",
+      "visual_weight": 0.85,
+      "text_weight": 0.15,
+      "ari": 0.5179,
+      "ami": 0.6902,
+      "clusters": 8,
+      "noise_count": 0,
+      "noise_spend_pct": 0.0
+    },
+    {
+      "config": "Video-Only (w=1.0)",
+      "track": "video",
+      "visual_weight": 1.0,
+      "text_weight": 0.0,
+      "ari": 0.5902,
+      "ami": 0.7453,
+      "clusters": 8,
+      "noise_count": 2,
+      "noise_spend_pct": 0.04
+    }
+  ],
+  "architecture_ladder": [
+    {
+      "stage_num": 1,
+      "stage": "1. Raw 1792-D HDBSCAN",
+      "description": "Direct density clustering on 1792-D vectors; suffers high-dimensional distance concentration.",
+      "clusters": 15,
+      "noise_reps": 68,
+      "noise_spend_pct": 23.67,
+      "ari": 0.7471,
+      "ami": 0.742
+    },
+    {
+      "stage_num": 2,
+      "stage": "2. UMAP 30-D + HDBSCAN",
+      "description": "Manifold pre-reduction rescues noise spend, but splits multi-format (9:16 vs 16:9) hero themes.",
+      "clusters": 15,
+      "noise_reps": 1,
+      "noise_spend_pct": 0.01,
+      "ari": 0.7201,
+      "ami": 0.792
+    },
+    {
+      "stage_num": 3,
+      "stage": "3. UMAP 30-D + Global Epsilon",
+      "description": "Global distance floor (eps=1.85) merges format splits only by conflating distinct propositions.",
+      "clusters": 10,
+      "noise_reps": 1,
+      "noise_spend_pct": 0.01,
+      "ari": 0.7425,
+      "ami": 0.8227
+    },
+    {
+      "stage_num": 4,
+      "stage": "4. UMAP 30-D + Centroid Merge (>=0.94)",
+      "description": "Champion: Union-Find centroid merge in original L2 space consolidates format splits cleanly.",
+      "clusters": 12,
+      "noise_reps": 1,
+      "noise_spend_pct": 0.01,
+      "ari": 0.8403,
+      "ami": 0.8942
+    }
+  ],
+  "centroid_geometry": {
+    "pre_merge_clusters": 15,
+    "post_merge_clusters": 12,
+    "merge_threshold": 0.94,
+    "max_off_diagonal_cosine_1792d": 0.949,
+    "median_off_diagonal_cosine_1792d": 0.0441,
+    "median_off_diagonal_cosine_umap30d": 0.8682,
+    "merged_aspect_ratio_pairs": [
+      {
+        "cluster_a": 4,
+        "cluster_b": 5,
+        "cosine_1792d": 0.9478,
+        "cosine_umap30d": 0.9918
+      },
+      {
+        "cluster_a": 8,
+        "cluster_b": 9,
+        "cosine_1792d": 0.949,
+        "cosine_umap30d": 0.9931
+      },
+      {
+        "cluster_a": 13,
+        "cluster_b": 14,
+        "cosine_1792d": 0.9448,
+        "cosine_umap30d": 0.9983
+      }
+    ]
+  },
+  "finops_architectures": [
+    {
+      "architecture": "1. Naive Baseline (All 780 Raw + Video Mode + Default Thinking)",
+      "dedup_strategy": "None (780 raw assets)",
+      "visual_mode": "Vertex Video Essential ($0.0005/s)",
+      "gemini_config": "Default Thinking ON (5.8x output rate)",
+      "total_cost_usd": 6.84,
+      "bigquery_usd": 0.45,
+      "vertex_visual_usd": 4.95,
+      "gemini_llm_usd": 1.44,
+      "pipeline_latency_min": 28.5,
+      "ari": 0.841
+    },
+    {
+      "architecture": "2. pHash Dedup + Video Mode (340 Reps + Video Mode + Thinking=0)",
+      "dedup_strategy": "2-Tier MD5 + pHash (340 reps, -56% calls)",
+      "visual_mode": "Vertex Video Essential ($0.0005/s)",
+      "gemini_config": "thinking_budget=0 + Per-Cluster Labeling",
+      "total_cost_usd": 2.28,
+      "bigquery_usd": 0.45,
+      "vertex_visual_usd": 1.62,
+      "gemini_llm_usd": 0.21,
+      "pipeline_latency_min": 9.8,
+      "ari": 0.8512
+    },
+    {
+      "architecture": "3. Champion Production (340 Reps + Keyframe Mode + Batched Labeling)",
+      "dedup_strategy": "2-Tier MD5 + pHash (340 reps, -56% calls)",
+      "visual_mode": "Extracted ffmpeg Cover Frame ($0.0001/img)",
+      "gemini_config": "thinking_budget=0 + 1-Call Batched Contrastive JSON",
+      "total_cost_usd": 0.69,
+      "bigquery_usd": 0.45,
+      "vertex_visual_usd": 0.034,
+      "gemini_llm_usd": 0.206,
+      "pipeline_latency_min": 2.4,
+      "ari": 0.8403
+    }
+  ],
+  "ledger_breakdown": [
+    {
+      "stage": "cluster-labelling",
+      "service": "gemini",
+      "sku": "gemini_text_in",
+      "calls": 1,
+      "units": 3850.0,
+      "cost_usd": 0.0006,
+      "mean_latency_s": 1.42
+    },
+    {
+      "stage": "cluster-labelling",
+      "service": "gemini",
+      "sku": "gemini_text_out",
+      "calls": 1,
+      "units": 310.0,
+      "cost_usd": 0.0002,
+      "mean_latency_s": 0.0
+    },
+    {
+      "stage": "data-pull",
+      "service": "bigquery",
+      "sku": "bq_analysis_us",
+      "calls": 4,
+      "units": 0.07,
+      "cost_usd": 0.4531,
+      "mean_latency_s": 2.59
+    },
+    {
+      "stage": "embed-frame",
+      "service": "vertex-mm-embedding",
+      "sku": "mm_image",
+      "calls": 340,
+      "units": 340.0,
+      "cost_usd": 0.034,
+      "mean_latency_s": 1.09
+    },
+    {
+      "stage": "embed-video",
+      "service": "vertex-mm-embedding",
+      "sku": "mm_video_essential",
+      "calls": 230,
+      "units": 4060.0,
+      "cost_usd": 2.03,
+      "mean_latency_s": 13.42
+    },
+    {
+      "stage": "enrichment",
+      "service": "gemini",
+      "sku": "gemini_text_in",
+      "calls": 340,
+      "units": 983767.0,
+      "cost_usd": 0.1476,
+      "mean_latency_s": 1.56
+    },
+    {
+      "stage": "enrichment",
+      "service": "gemini",
+      "sku": "gemini_text_out",
+      "calls": 340,
+      "units": 40330.0,
+      "cost_usd": 0.0242,
+      "mean_latency_s": 0.0
+    }
+  ]
+}

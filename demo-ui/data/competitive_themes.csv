@@ -1,0 +1,28 @@
+cat_theme_id,category_theme,classification,proposition_pillar,brand,brand_spend,brand_impressions,theme_total_spend,theme_sov_pct,distinct_renders,raw_creatives,active_competitors,brand_hook
+CAT_01,5G Postpaid Unlimited & Family Share Plans,Shared Battleground,5G Postpaid,Maxis,212400.0,25285000,677400.0,31.36,56,124,4,Maxis Postpaid Share 48 across 6 family lines
+CAT_01,5G Postpaid Unlimited & Family Share Plans,Shared Battleground,5G Postpaid,CelcomDigi,248500.0,30120000,677400.0,36.68,62,138,4,CelcomDigi 5G Postpaid 80 all-in family convergence
+CAT_01,5G Postpaid Unlimited & Family Share Plans,Shared Battleground,5G Postpaid,U Mobile,142000.0,19450000,677400.0,20.96,34,78,4,"U Postpaid 68 with 1,000GB 5G ultra-value cap"
+CAT_01,5G Postpaid Unlimited & Family Share Plans,Shared Battleground,5G Postpaid,Unifi,74500.0,9200000,677400.0,11.0,20,44,4,UNI5G Postpaid family mobile + home convergence
+CAT_02,1Gbps Home Fibre & WiFi 6 Mesh Bundles,Shared Battleground,Home Fibre Broadband,Maxis,184600.0,20625000,538600.0,34.27,48,108,3,Maxis Home Fibre 1Gbps + complimentary WiFi 6 router
+CAT_02,1Gbps Home Fibre & WiFi 6 Mesh Bundles,Shared Battleground,Home Fibre Broadband,CelcomDigi,136000.0,15900000,538600.0,25.25,35,80,3,CelcomDigi Fibre 1Gbps RM50 postpaid rebate
+CAT_02,1Gbps Home Fibre & WiFi 6 Mesh Bundles,Shared Battleground,Home Fibre Broadband,Unifi,218000.0,26400000,538600.0,40.48,58,132,3,Unifi Ultra 1Gbps & 2Gbps whole-home mesh leadership
+CAT_03,5G Nationwide Coverage & Speed Leadership,Shared Battleground,Network Brand Equity,Maxis,96500.0,12690000,357500.0,26.99,32,72,3,Nationwide 5G ultra-low latency benchmark leadership
+CAT_03,5G Nationwide Coverage & Speed Leadership,Shared Battleground,Network Brand Equity,CelcomDigi,172000.0,22400000,357500.0,48.11,44,96,3,"Malaysia's widest 18,000-site modernized 5G/4G network"
+CAT_03,5G Nationwide Coverage & Speed Leadership,Shared Battleground,Network Brand Equity,U Mobile,89000.0,12100000,357500.0,24.9,24,54,3,Next-Gen 5G network readiness & urban speed tests
+CAT_04,Flagship 5G Smartphone RM0/RM1 Instalment,Shared Battleground,Device Financing,Maxis,118200.0,12710000,314600.0,37.57,38,88,3,Maxis Zerolution RM1 flagship 5G device ownership
+CAT_04,Flagship 5G Smartphone RM0/RM1 Instalment,Shared Battleground,Device Financing,CelcomDigi,128400.0,14200000,314600.0,40.81,40,90,3,CelcomDigi Easy360 RM1/month 5G flagship phone
+CAT_04,Flagship 5G Smartphone RM0/RM1 Instalment,Shared Battleground,Device Financing,U Mobile,68000.0,8400000,314600.0,21.61,22,48,3,U PayLater 0% interest 5G device bundle
+CAT_05,Prepaid 5G Youth & Mobile Esports Gaming Pass,Shared Battleground,Prepaid & Youth,Maxis,88400.0,13810000,378600.0,23.35,34,82,3,Hotlink Pantas 5G MLBB esports & TikTok pass
+CAT_05,Prepaid 5G Youth & Mobile Esports Gaming Pass,Shared Battleground,Prepaid & Youth,CelcomDigi,94200.0,14900000,378600.0,24.88,36,84,3,Prepaid 5G Edisi Biru & Kuning unlimited gaming
+CAT_05,Prepaid 5G Youth & Mobile Esports Gaming Pass,Shared Battleground,Prepaid & Youth,U Mobile,196000.0,29800000,378600.0,51.77,52,118,3,U Prepaid 35 uncapped 5G weekend & gaming speed
+CAT_06,Festive Raya & CNY 5G Borderless Roaming,Shared Battleground,Roaming & Seasonal,Maxis,64800.0,8000000,174800.0,37.07,26,64,3,Maxis 30+ country unlimited festive 5G roaming
+CAT_06,Festive Raya & CNY 5G Borderless Roaming,Shared Battleground,Roaming & Seasonal,CelcomDigi,58000.0,7400000,174800.0,33.18,22,50,3,Roam Like Home ASEAN & global festive pass
+CAT_06,Festive Raya & CNY 5G Borderless Roaming,Shared Battleground,Roaming & Seasonal,U Mobile,52000.0,7100000,174800.0,29.75,18,42,3,Free 15GB global roaming included in U Postpaid
+CAT_07,"SME Business Fibre, ePOS & Cloud Grants",Shared Battleground,B2B Enterprise,Maxis,48900.0,4366000,171900.0,28.45,22,52,3,Maxis Business Fibre with 4G automatic failover & ePOS
+CAT_07,"SME Business Fibre, ePOS & Cloud Grants",Shared Battleground,B2B Enterprise,CelcomDigi,41000.0,3950000,171900.0,23.85,16,38,3,CelcomDigi Business 5G fleet & retail connectivity
+CAT_07,"SME Business Fibre, ePOS & Cloud Grants",Shared Battleground,B2B Enterprise,Unifi,82000.0,7900000,171900.0,47.7,28,64,3,Unifi Business Go SME digitalisation & cloud POS
+CAT_08,Home Solar Rooftop Green Energy Subscription,Brand-Exclusive Whitespace,Green Energy Adjacent,Maxis,31500.0,3000000,31500.0,100.0,16,38,1,Maxis Home Solar zero-upfront clean rooftop energy
+CAT_09,AI Scam Shield & Network Cyber Guard,Brand-Exclusive Whitespace,Cybersecurity Add-On,Maxis,16800.0,2100000,16800.0,100.0,14,31,1,Maxis Cyber Guard network-level phishing & scam blocker
+CAT_10,Smart AI Home Security Camera & IoT Hub,Brand-Exclusive Whitespace,Smart Home IoT,CelcomDigi,46500.0,5400000,46500.0,100.0,19,45,1,CelcomDigi AI Smart Home camera + fibre guard bundle
+CAT_11,Unifi TV Liga Malaysia & Asian Drama Streaming Pack,Brand-Exclusive Whitespace,OTT Content & Sports TV,Unifi,134000.0,17600000,134000.0,100.0,42,95,1,"Unifi TV Ultimate Pack with live football, Netflix & Viu"
+CAT_12,RM19 Ultra-Budget 5G Campus Student Plan,Brand-Exclusive Whitespace,Budget Student Entry,U Mobile,48500.0,7800000,48500.0,100.0,18,42,1,U Mobile RM19/month no-contract university student 5G pass

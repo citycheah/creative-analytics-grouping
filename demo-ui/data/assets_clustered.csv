@@ -1,0 +1,781 @@
+asset_id,cluster_id,cluster_label,phash,media_type,aspect_ratio,platform,duration_sec,spend,impressions,is_representative,core_concept_summary,umap_x,umap_y
+9010001,7,5G Postpaid Unlimited Family Share,010000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,3379.5,398015,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Vertical 9:16 mobile cut),35.0273,4.5168
+9010002,7,5G Postpaid Unlimited Family Share,010000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,2454.63,287128,0,,35.0273,4.5168
+9010003,7,5G Postpaid Unlimited Family Share,010000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,360.1,43695,0,,35.0273,4.5168
+9010004,7,5G Postpaid Unlimited Family Share,010001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,280.49,33549,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Vertical 9:16 mobile cut),34.8207,4.5121
+9010005,7,5G Postpaid Unlimited Family Share,010001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,222.8,28349,0,,34.8207,4.5121
+9010006,7,5G Postpaid Unlimited Family Share,010001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,153.43,19418,0,,34.8207,4.5121
+9010007,7,5G Postpaid Unlimited Family Share,010002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,302.41,34986,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Vertical 9:16 mobile cut),35.4286,3.2317
+9010008,7,5G Postpaid Unlimited Family Share,010002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,225.76,27853,0,,35.4286,3.2317
+9010009,7,5G Postpaid Unlimited Family Share,010002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,29.04,3223,0,,35.4286,3.2317
+9010010,7,5G Postpaid Unlimited Family Share,010003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,5414.58,593285,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Vertical 9:16 mobile cut),34.9457,4.3905
+9010011,7,5G Postpaid Unlimited Family Share,010003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,2165.31,262764,0,,34.9457,4.3905
+9010012,7,5G Postpaid Unlimited Family Share,010003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1523.82,195772,0,,34.9457,4.3905
+9010013,7,5G Postpaid Unlimited Family Share,010004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,696.65,79627,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Vertical 9:16 mobile cut),35.3346,4.5412
+9010014,7,5G Postpaid Unlimited Family Share,010004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,334.76,43029,0,,35.3346,4.5412
+9010015,7,5G Postpaid Unlimited Family Share,010004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,323.15,40520,0,,35.3346,4.5412
+9010016,7,5G Postpaid Unlimited Family Share,010005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,920.1,104190,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Vertical 9:16 mobile cut),36.3667,4.8443
+9010017,7,5G Postpaid Unlimited Family Share,010005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,867.84,104274,0,,36.3667,4.8443
+9010018,7,5G Postpaid Unlimited Family Share,010005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,788.8,99841,0,,36.3667,4.8443
+9010019,7,5G Postpaid Unlimited Family Share,010006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1051.94,131886,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Vertical 9:16 mobile cut),34.9139,4.3505
+9010020,7,5G Postpaid Unlimited Family Share,010006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,793.86,89995,0,,34.9139,4.3505
+9010021,7,5G Postpaid Unlimited Family Share,010006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,179.39,22669,0,,34.9139,4.3505
+9010022,7,5G Postpaid Unlimited Family Share,010007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,3256.62,393460,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Vertical 9:16 mobile cut),35.0077,4.3671
+9010023,7,5G Postpaid Unlimited Family Share,010007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,2354.03,281159,0,,35.0077,4.3671
+9010024,7,5G Postpaid Unlimited Family Share,010007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,2282.95,290230,0,,35.0077,4.3671
+9010025,7,5G Postpaid Unlimited Family Share,010008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2958.83,344688,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Vertical 9:16 mobile cut),33.8261,4.0993
+9010026,7,5G Postpaid Unlimited Family Share,010008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2412.38,266053,0,,33.8261,4.0993
+9010027,7,5G Postpaid Unlimited Family Share,010008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,778.75,95567,0,,33.8261,4.0993
+9010028,7,5G Postpaid Unlimited Family Share,010009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,435.06,55659,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Vertical 9:16 mobile cut),35.3919,4.3548
+9010029,7,5G Postpaid Unlimited Family Share,010009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,302.63,33539,0,,35.3919,4.3548
+9010030,7,5G Postpaid Unlimited Family Share,010009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,222.91,24492,0,,35.3919,4.3548
+9010031,7,5G Postpaid Unlimited Family Share,01000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1543.54,192872,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Vertical 9:16 mobile cut),35.123,4.4691
+9010032,7,5G Postpaid Unlimited Family Share,01000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,857.97,104361,0,,35.123,4.4691
+9010033,7,5G Postpaid Unlimited Family Share,01000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,774.41,93432,0,,35.123,4.4691
+9010034,7,5G Postpaid Unlimited Family Share,01000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1986.28,243258,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Vertical 9:16 mobile cut),36.1415,3.6561
+9010035,7,5G Postpaid Unlimited Family Share,01000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1702.1,216853,0,,36.1415,3.6561
+9010036,7,5G Postpaid Unlimited Family Share,01000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,157.23,19885,0,,36.1415,3.6561
+9010037,7,5G Postpaid Unlimited Family Share,01000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,3917.95,471598,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Vertical 9:16 mobile cut),35.2426,4.4152
+9010038,7,5G Postpaid Unlimited Family Share,01000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,679.14,74549,0,,35.2426,4.4152
+9010039,7,5G Postpaid Unlimited Family Share,01000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,204.78,23889,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Vertical 9:16 mobile cut),35.1872,4.5656
+9010040,7,5G Postpaid Unlimited Family Share,01000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,142.8,17897,0,,35.1872,4.5656
+9010041,7,5G Postpaid Unlimited Family Share,01000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,344.69,39889,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Vertical 9:16 mobile cut),34.1718,3.5418
+9010042,7,5G Postpaid Unlimited Family Share,01000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,210.8,23410,0,,34.1718,3.5418
+9010043,7,5G Postpaid Unlimited Family Share,01000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,3151.99,348611,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Vertical 9:16 mobile cut),35.2766,4.5752
+9010044,7,5G Postpaid Unlimited Family Share,01000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1690.95,199675,0,,35.2766,4.5752
+9010045,7,5G Postpaid Unlimited Family Share,010010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,577.27,69832,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Vertical 9:16 mobile cut),35.1229,4.634
+9010046,7,5G Postpaid Unlimited Family Share,010010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,246.06,28457,0,,35.1229,4.634
+9010047,7,5G Postpaid Unlimited Family Share,010011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1922.43,218774,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Vertical 9:16 mobile cut),36.3446,4.1563
+9010048,7,5G Postpaid Unlimited Family Share,010011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1873.83,224031,0,,36.3446,4.1563
+9010049,7,5G Postpaid Unlimited Family Share,010012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,633.37,71873,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Vertical 9:16 mobile cut),35.272,4.356
+9010050,7,5G Postpaid Unlimited Family Share,010012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,382.18,42528,0,,35.272,4.356
+9010051,7,5G Postpaid Unlimited Family Share,010013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,313.18,36694,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Vertical 9:16 mobile cut),34.7095,4.3689
+9010052,7,5G Postpaid Unlimited Family Share,010013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,285.42,34125,0,,34.7095,4.3689
+9010053,7,5G Postpaid Unlimited Family Share,010014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,727.01,79627,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Vertical 9:16 mobile cut),34.9277,3.1789
+9010054,7,5G Postpaid Unlimited Family Share,010014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,582.46,64293,0,,34.9277,3.1789
+9010055,7,5G Postpaid Unlimited Family Share,010015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1842.72,224057,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Vertical 9:16 mobile cut),35.2877,4.4277
+9010056,7,5G Postpaid Unlimited Family Share,010015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,966.27,113902,0,,35.2877,4.4277
+9010057,7,5G Postpaid Unlimited Family Share,010016a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,2361.92,293264,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Vertical 9:16 mobile cut),35.0591,4.2169
+9010058,7,5G Postpaid Unlimited Family Share,010016a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,1305.27,146323,0,,35.0591,4.2169
+9010059,7,5G Postpaid Unlimited Family Share,010017a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2835.42,336353,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Vertical 9:16 mobile cut),35.9599,5.3016
+9010060,7,5G Postpaid Unlimited Family Share,010017a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1175.44,149436,0,,35.9599,5.3016
+9010061,7,5G Postpaid Unlimited Family Share,010018a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,2928.71,368346,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Vertical 9:16 mobile cut),35.1723,4.3011
+9010062,7,5G Postpaid Unlimited Family Share,010018a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,2341.68,256869,0,,35.1723,4.3011
+9010063,7,5G Postpaid Unlimited Family Share,010019a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,822.75,94373,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Vertical 9:16 mobile cut),34.9482,4.4692
+9010064,7,5G Postpaid Unlimited Family Share,010019a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,559.82,68040,0,,34.9482,4.4692
+9010065,7,5G Postpaid Unlimited Family Share,01001aa9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,3374.74,395029,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Vertical 9:16 mobile cut),33.9028,4.6846
+9010066,7,5G Postpaid Unlimited Family Share,01001aa9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1681.23,190912,0,,33.9028,4.6846
+9010067,7,5G Postpaid Unlimited Family Share,01001ba9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1932.89,219756,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Vertical 9:16 mobile cut),35.1152,4.2902
+9010068,7,5G Postpaid Unlimited Family Share,01001ba9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1095.68,133175,0,,35.1152,4.2902
+9010069,7,5G Postpaid Unlimited Family Share,01101ca9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,2691.77,299183,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Widescreen multi-platform cut),34.3089,7.3132
+9010070,7,5G Postpaid Unlimited Family Share,01101ca9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,721.11,85657,0,,34.3089,7.3132
+9010071,7,5G Postpaid Unlimited Family Share,01101da9f0c3e5b1,image,2:3,Display / Programmatic Banner,,8671.72,987869,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Widescreen multi-platform cut),33.367,6.44
+9010072,7,5G Postpaid Unlimited Family Share,01101da9f0c3e5b1,image,2:3,Display / Programmatic Banner,,3692.67,415903,0,,33.367,6.44
+9010073,7,5G Postpaid Unlimited Family Share,01101ea9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,3199.62,400593,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Widescreen multi-platform cut),34.4623,7.2411
+9010074,7,5G Postpaid Unlimited Family Share,01101ea9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,1253.23,161048,0,,34.4623,7.2411
+9010075,7,5G Postpaid Unlimited Family Share,01101fa9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,1668.99,209111,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Widescreen multi-platform cut),34.1371,7.2736
+9010076,7,5G Postpaid Unlimited Family Share,01101fa9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,734.45,81601,0,,34.1371,7.2736
+9010077,7,5G Postpaid Unlimited Family Share,011020a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1561.89,188912,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Widescreen multi-platform cut),35.4119,7.3123
+9010078,7,5G Postpaid Unlimited Family Share,011020a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,521.56,59204,0,,35.4119,7.3123
+9010079,7,5G Postpaid Unlimited Family Share,011021a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,2142.12,246997,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Widescreen multi-platform cut),34.4387,7.298
+9010080,7,5G Postpaid Unlimited Family Share,011021a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,689.31,85025,0,,34.4387,7.298
+9010081,7,5G Postpaid Unlimited Family Share,011022a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,401.18,51265,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Widescreen multi-platform cut),34.2377,7.3273
+9010082,7,5G Postpaid Unlimited Family Share,011022a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,294.43,35207,0,,34.2377,7.3273
+9010083,7,5G Postpaid Unlimited Family Share,011023a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,2525.6,285510,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Widescreen multi-platform cut),34.1384,8.5649
+9010084,7,5G Postpaid Unlimited Family Share,011023a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1267.18,156595,0,,34.1384,8.5649
+9010085,7,5G Postpaid Unlimited Family Share,011024a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,2174.9,277665,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Widescreen multi-platform cut),34.287,7.1527
+9010086,7,5G Postpaid Unlimited Family Share,011024a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,628.66,71870,0,,34.287,7.1527
+9010087,7,5G Postpaid Unlimited Family Share,011025a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,1978.85,245512,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Widescreen multi-platform cut),34.0366,7.1152
+9010088,7,5G Postpaid Unlimited Family Share,011025a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,1401.71,173580,0,,34.0366,7.1152
+9010089,7,5G Postpaid Unlimited Family Share,011026a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1533.28,192861,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Widescreen multi-platform cut),33.3893,8.3657
+9010090,7,5G Postpaid Unlimited Family Share,011026a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1484.06,173359,0,,33.3893,8.3657
+9010091,7,5G Postpaid Unlimited Family Share,011027a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,619.43,78110,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Widescreen multi-platform cut),34.1479,7.5803
+9010092,7,5G Postpaid Unlimited Family Share,011027a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,159.35,20307,0,,34.1479,7.5803
+9010093,7,5G Postpaid Unlimited Family Share,011028a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,3860.09,448117,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Widescreen multi-platform cut),34.0959,7.4215
+9010094,7,5G Postpaid Unlimited Family Share,011028a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,705.24,79243,0,,34.0959,7.4215
+9010095,7,5G Postpaid Unlimited Family Share,011029a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1062.96,127884,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Widescreen multi-platform cut),35.3397,7.9436
+9010096,7,5G Postpaid Unlimited Family Share,011029a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,653.19,79703,0,,35.3397,7.9436
+9010097,7,5G Postpaid Unlimited Family Share,01102aa9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,4414.02,519696,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Widescreen multi-platform cut),34.0427,7.456
+9010098,7,5G Postpaid Unlimited Family Share,01102aa9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,1301.71,147464,0,,34.0427,7.456
+9010099,7,5G Postpaid Unlimited Family Share,01102ba9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,4001.95,493717,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Widescreen multi-platform cut),34.1674,7.1528
+9010100,7,5G Postpaid Unlimited Family Share,01102ba9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,849.61,102544,0,,34.1674,7.1528
+9010101,7,5G Postpaid Unlimited Family Share,01102ca9f0c3e5b1,image,2:3,Display / Programmatic Banner,,5964.7,685943,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Widescreen multi-platform cut),33.046,7.8239
+9010102,7,5G Postpaid Unlimited Family Share,01102ca9f0c3e5b1,image,2:3,Display / Programmatic Banner,,2793.45,350564,0,,33.046,7.8239
+9010103,7,5G Postpaid Unlimited Family Share,01102da9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,2275.78,250169,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Widescreen multi-platform cut),33.8695,7.311
+9010104,7,5G Postpaid Unlimited Family Share,01102da9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,548.3,62611,0,,33.8695,7.311
+9010105,7,5G Postpaid Unlimited Family Share,01102ea9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,2724.51,329189,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Widescreen multi-platform cut),33.8378,7.3147
+9010106,7,5G Postpaid Unlimited Family Share,01102ea9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,2549.07,304897,0,,33.8378,7.3147
+9010107,7,5G Postpaid Unlimited Family Share,01102fa9f0c3e5b1,image,2:3,Display / Programmatic Banner,,8402.88,966994,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Widescreen multi-platform cut),32.5936,6.9621
+9010108,7,5G Postpaid Unlimited Family Share,01102fa9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1036.52,128893,0,,32.5936,6.9621
+9010109,7,5G Postpaid Unlimited Family Share,011030a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,1096.23,127552,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Widescreen multi-platform cut),34.5085,7.1539
+9010110,7,5G Postpaid Unlimited Family Share,011030a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,487.22,62363,0,,34.5085,7.1539
+9010111,7,5G Postpaid Unlimited Family Share,011031a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,3154.73,356043,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Widescreen multi-platform cut),34.1227,7.3922
+9010112,7,5G Postpaid Unlimited Family Share,011031a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,3059.95,385087,0,,34.1227,7.3922
+9010113,7,5G Postpaid Unlimited Family Share,011032a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,2756.6,350294,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Widescreen multi-platform cut),34.7991,8.3911
+9010114,7,5G Postpaid Unlimited Family Share,011032a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1636.5,188662,0,,34.7991,8.3911
+9010115,7,5G Postpaid Unlimited Family Share,011033a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,589.62,71265,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Widescreen multi-platform cut),34.0901,7.2623
+9010116,7,5G Postpaid Unlimited Family Share,011033a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,557.2,67160,0,,34.0901,7.2623
+9010117,7,5G Postpaid Unlimited Family Share,011034a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,2477.59,298998,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Widescreen multi-platform cut),34.2686,7.2527
+9010118,7,5G Postpaid Unlimited Family Share,011034a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,77.69,9985,0,,34.2686,7.2527
+9010119,7,5G Postpaid Unlimited Family Share,011035a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,9453.61,1194242,1,Parents and teens connecting across KL and Penang on one unified Maxis 5G Postpaid Family bill with unlimited data. (Widescreen multi-platform cut),35.5349,6.3071
+9010120,7,5G Postpaid Unlimited Family Share,011035a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,4226.1,470117,0,,35.5349,6.3071
+9010121,7,5G Postpaid Unlimited Family Share,011036a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,4289.18,514969,1,Multi-generational Malaysian family streaming 4K video and gaming seamlessly on Maxis Postpaid 5G Unlimited family share lines. (Widescreen multi-platform cut),34.0638,7.4747
+9010122,7,5G Postpaid Unlimited Family Share,011036a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,1685.2,195182,0,,34.0638,7.4747
+9010123,7,5G Postpaid Unlimited Family Share,011037a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,3370.67,382266,1,Split-screen family showcase highlighting zero data caps and instant 5G hotspot sharing across 6 connected smartphones. (Widescreen multi-platform cut),34.3207,7.4523
+9010124,7,5G Postpaid Unlimited Family Share,011037a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,715.94,85599,0,,34.3207,7.4523
+9010125,4,Home Fibre 1Gbps WiFi 6 Bundle,020000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,368.76,40199,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Vertical 9:16 mobile cut),12.5326,-13.9592
+9010126,4,Home Fibre 1Gbps WiFi 6 Bundle,020000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,261.64,31039,0,,12.5326,-13.9592
+9010127,4,Home Fibre 1Gbps WiFi 6 Bundle,020000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,157.45,18347,0,,12.5326,-13.9592
+9010128,4,Home Fibre 1Gbps WiFi 6 Bundle,020001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,5097.06,587810,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Vertical 9:16 mobile cut),12.3165,-13.9015
+9010129,4,Home Fibre 1Gbps WiFi 6 Bundle,020001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1873.67,195106,0,,12.3165,-13.9015
+9010130,4,Home Fibre 1Gbps WiFi 6 Bundle,020001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,667.24,77654,0,,12.3165,-13.9015
+9010131,4,Home Fibre 1Gbps WiFi 6 Bundle,020002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1796.61,196316,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Vertical 9:16 mobile cut),13.4929,-13.3324
+9010132,4,Home Fibre 1Gbps WiFi 6 Bundle,020002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1303.6,140024,0,,13.4929,-13.3324
+9010133,4,Home Fibre 1Gbps WiFi 6 Bundle,020002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,352.41,41641,0,,13.4929,-13.3324
+9010134,4,Home Fibre 1Gbps WiFi 6 Bundle,020003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,4496.9,467002,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Vertical 9:16 mobile cut),12.4406,-13.7877
+9010135,4,Home Fibre 1Gbps WiFi 6 Bundle,020003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,2678.01,293031,0,,12.4406,-13.7877
+9010136,4,Home Fibre 1Gbps WiFi 6 Bundle,020003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,2453.4,284352,0,,12.4406,-13.7877
+9010137,4,Home Fibre 1Gbps WiFi 6 Bundle,020004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1238.6,128358,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Vertical 9:16 mobile cut),12.3775,-13.8572
+9010138,4,Home Fibre 1Gbps WiFi 6 Bundle,020004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,644.63,77474,0,,12.3775,-13.8572
+9010139,4,Home Fibre 1Gbps WiFi 6 Bundle,020004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,505.38,57089,0,,12.3775,-13.8572
+9010140,4,Home Fibre 1Gbps WiFi 6 Bundle,020005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1235.37,141084,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Vertical 9:16 mobile cut),11.7458,-12.9603
+9010141,4,Home Fibre 1Gbps WiFi 6 Bundle,020005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1001.14,114502,0,,11.7458,-12.9603
+9010142,4,Home Fibre 1Gbps WiFi 6 Bundle,020005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,820.79,98551,0,,11.7458,-12.9603
+9010143,4,Home Fibre 1Gbps WiFi 6 Bundle,020006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1505.9,166776,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Vertical 9:16 mobile cut),12.343,-13.8764
+9010144,4,Home Fibre 1Gbps WiFi 6 Bundle,020006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,705.61,73923,0,,12.343,-13.8764
+9010145,4,Home Fibre 1Gbps WiFi 6 Bundle,020006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,175.66,20226,0,,12.343,-13.8764
+9010146,4,Home Fibre 1Gbps WiFi 6 Bundle,020007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,1996.51,212722,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Vertical 9:16 mobile cut),12.584,-14.0409
+9010147,4,Home Fibre 1Gbps WiFi 6 Bundle,020007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,728.01,78593,0,,12.584,-14.0409
+9010148,4,Home Fibre 1Gbps WiFi 6 Bundle,020007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,65.95,7288,0,,12.584,-14.0409
+9010149,4,Home Fibre 1Gbps WiFi 6 Bundle,020008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,885.98,101568,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Vertical 9:16 mobile cut),12.2975,-12.7498
+9010150,4,Home Fibre 1Gbps WiFi 6 Bundle,020008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,781.68,86890,0,,12.2975,-12.7498
+9010151,4,Home Fibre 1Gbps WiFi 6 Bundle,020008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,452.97,51778,0,,12.2975,-12.7498
+9010152,4,Home Fibre 1Gbps WiFi 6 Bundle,020009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,4805.69,508912,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Vertical 9:16 mobile cut),12.6373,-13.8834
+9010153,4,Home Fibre 1Gbps WiFi 6 Bundle,020009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1366.13,148566,0,,12.6373,-13.8834
+9010154,4,Home Fibre 1Gbps WiFi 6 Bundle,020009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,677.26,73527,0,,12.6373,-13.8834
+9010155,4,Home Fibre 1Gbps WiFi 6 Bundle,02000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,1727.88,194752,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Vertical 9:16 mobile cut),12.398,-14.0621
+9010156,4,Home Fibre 1Gbps WiFi 6 Bundle,02000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,543.03,60701,0,,12.398,-14.0621
+9010157,4,Home Fibre 1Gbps WiFi 6 Bundle,02000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,165.41,18852,0,,12.398,-14.0621
+9010158,4,Home Fibre 1Gbps WiFi 6 Bundle,02000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,673.33,73837,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Vertical 9:16 mobile cut),13.6454,-13.848
+9010159,4,Home Fibre 1Gbps WiFi 6 Bundle,02000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,510.28,52477,0,,13.6454,-13.848
+9010160,4,Home Fibre 1Gbps WiFi 6 Bundle,02000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,195.83,21830,0,,13.6454,-13.848
+9010161,4,Home Fibre 1Gbps WiFi 6 Bundle,02000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1525.33,180743,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Vertical 9:16 mobile cut),12.69,-13.9854
+9010162,4,Home Fibre 1Gbps WiFi 6 Bundle,02000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1360.45,152680,0,,12.69,-13.9854
+9010163,4,Home Fibre 1Gbps WiFi 6 Bundle,02000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,1713.79,200931,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Vertical 9:16 mobile cut),12.5288,-14.0306
+9010164,4,Home Fibre 1Gbps WiFi 6 Bundle,02000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1502.92,162417,0,,12.5288,-14.0306
+9010165,4,Home Fibre 1Gbps WiFi 6 Bundle,02000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,3983.4,420911,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Vertical 9:16 mobile cut),12.9454,-12.8387
+9010166,4,Home Fibre 1Gbps WiFi 6 Bundle,02000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1191.86,127291,0,,12.9454,-12.8387
+9010167,4,Home Fibre 1Gbps WiFi 6 Bundle,02000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1259.7,135406,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Vertical 9:16 mobile cut),12.5494,-13.9753
+9010168,4,Home Fibre 1Gbps WiFi 6 Bundle,02000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,470.08,53223,0,,12.5494,-13.9753
+9010169,4,Home Fibre 1Gbps WiFi 6 Bundle,020010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,3367.16,400711,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Vertical 9:16 mobile cut),12.3042,-14.0828
+9010170,4,Home Fibre 1Gbps WiFi 6 Bundle,020010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,1462.78,174838,0,,12.3042,-14.0828
+9010171,4,Home Fibre 1Gbps WiFi 6 Bundle,020011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,5246.76,607906,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Vertical 9:16 mobile cut),11.1406,-13.9142
+9010172,4,Home Fibre 1Gbps WiFi 6 Bundle,020011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,3064.81,334281,0,,11.1406,-13.9142
+9010173,4,Home Fibre 1Gbps WiFi 6 Bundle,020012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,544.29,60256,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Vertical 9:16 mobile cut),12.4934,-14.0035
+9010174,4,Home Fibre 1Gbps WiFi 6 Bundle,020012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,60.06,6484,0,,12.4934,-14.0035
+9010175,4,Home Fibre 1Gbps WiFi 6 Bundle,020013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1882.73,219545,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Vertical 9:16 mobile cut),12.1883,-13.9388
+9010176,4,Home Fibre 1Gbps WiFi 6 Bundle,020013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,279.92,29322,0,,12.1883,-13.9388
+9010177,4,Home Fibre 1Gbps WiFi 6 Bundle,020014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,4450.26,501196,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Vertical 9:16 mobile cut),11.3247,-13.4189
+9010178,4,Home Fibre 1Gbps WiFi 6 Bundle,020014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,3677.3,417359,0,,11.3247,-13.4189
+9010179,4,Home Fibre 1Gbps WiFi 6 Bundle,020015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,4342.49,517259,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Vertical 9:16 mobile cut),12.3273,-13.7009
+9010180,4,Home Fibre 1Gbps WiFi 6 Bundle,020015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,444.32,52780,0,,12.3273,-13.7009
+9010181,4,Home Fibre 1Gbps WiFi 6 Bundle,020016a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,486.33,55920,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Vertical 9:16 mobile cut),12.3652,-13.9172
+9010182,4,Home Fibre 1Gbps WiFi 6 Bundle,020016a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,218.42,23188,0,,12.3652,-13.9172
+9010183,4,Home Fibre 1Gbps WiFi 6 Bundle,020017a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1477.99,165329,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Vertical 9:16 mobile cut),13.6614,-14.4412
+9010184,4,Home Fibre 1Gbps WiFi 6 Bundle,020017a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,698.65,72364,0,,13.6614,-14.4412
+9010185,4,Home Fibre 1Gbps WiFi 6 Bundle,021018a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,4052.75,447693,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Widescreen multi-platform cut),12.0439,-15.6647
+9010186,4,Home Fibre 1Gbps WiFi 6 Bundle,021018a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,855.58,94150,0,,12.0439,-15.6647
+9010187,4,Home Fibre 1Gbps WiFi 6 Bundle,021019a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,2140.99,250327,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Widescreen multi-platform cut),11.8579,-15.6482
+9010188,4,Home Fibre 1Gbps WiFi 6 Bundle,021019a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,1703.52,185801,0,,11.8579,-15.6482
+9010189,4,Home Fibre 1Gbps WiFi 6 Bundle,02101aa9f0c3e5b1,image,2:3,Display / Programmatic Banner,,4526.79,539683,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Widescreen multi-platform cut),10.8538,-15.8
+9010190,4,Home Fibre 1Gbps WiFi 6 Bundle,02101aa9f0c3e5b1,image,2:3,Display / Programmatic Banner,,2795.25,307433,0,,10.8538,-15.8
+9010191,4,Home Fibre 1Gbps WiFi 6 Bundle,02101ba9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,2151.35,226695,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Widescreen multi-platform cut),12.1643,-15.5909
+9010192,4,Home Fibre 1Gbps WiFi 6 Bundle,02101ba9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,996.65,104923,0,,12.1643,-15.5909
+9010193,4,Home Fibre 1Gbps WiFi 6 Bundle,02101ca9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,1606.43,167694,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Widescreen multi-platform cut),12.0325,-15.8103
+9010194,4,Home Fibre 1Gbps WiFi 6 Bundle,02101ca9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,570.15,63090,0,,12.0325,-15.8103
+9010195,4,Home Fibre 1Gbps WiFi 6 Bundle,02101da9f0c3e5b1,image,2:3,Display / Programmatic Banner,,5183.9,578425,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Widescreen multi-platform cut),13.2057,-16.1619
+9010196,4,Home Fibre 1Gbps WiFi 6 Bundle,02101da9f0c3e5b1,image,2:3,Display / Programmatic Banner,,4144.12,469857,0,,13.2057,-16.1619
+9010197,4,Home Fibre 1Gbps WiFi 6 Bundle,02101ea9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,2385.69,276826,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Widescreen multi-platform cut),12.0874,-15.6411
+9010198,4,Home Fibre 1Gbps WiFi 6 Bundle,02101ea9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,987.32,105210,0,,12.0874,-15.6411
+9010199,4,Home Fibre 1Gbps WiFi 6 Bundle,02101fa9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,1237.76,143603,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Widescreen multi-platform cut),12.0423,-15.6692
+9010200,4,Home Fibre 1Gbps WiFi 6 Bundle,02101fa9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,1213.46,134173,0,,12.0423,-15.6692
+9010201,4,Home Fibre 1Gbps WiFi 6 Bundle,021020a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,547.2,65546,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Widescreen multi-platform cut),13.3571,-15.752
+9010202,4,Home Fibre 1Gbps WiFi 6 Bundle,021020a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,61.86,7135,0,,13.3571,-15.752
+9010203,4,Home Fibre 1Gbps WiFi 6 Bundle,021021a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,3775.73,427161,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Widescreen multi-platform cut),11.9812,-15.6025
+9010204,4,Home Fibre 1Gbps WiFi 6 Bundle,021021a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,976.99,109079,0,,11.9812,-15.6025
+9010205,4,Home Fibre 1Gbps WiFi 6 Bundle,021022a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,3681.21,441009,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Widescreen multi-platform cut),12.0331,-15.686
+9010206,4,Home Fibre 1Gbps WiFi 6 Bundle,021022a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,623.64,68229,0,,12.0331,-15.686
+9010207,4,Home Fibre 1Gbps WiFi 6 Bundle,021023a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,3280.22,358643,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Widescreen multi-platform cut),10.849,-15.2399
+9010208,4,Home Fibre 1Gbps WiFi 6 Bundle,021023a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,834.64,91632,0,,10.849,-15.2399
+9010209,4,Home Fibre 1Gbps WiFi 6 Bundle,021024a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,3942.42,416630,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Widescreen multi-platform cut),12.0269,-15.5591
+9010210,4,Home Fibre 1Gbps WiFi 6 Bundle,021024a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,1492.61,174648,0,,12.0269,-15.5591
+9010211,4,Home Fibre 1Gbps WiFi 6 Bundle,021025a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,1180.88,135367,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Widescreen multi-platform cut),12.056,-15.6504
+9010212,4,Home Fibre 1Gbps WiFi 6 Bundle,021025a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,1052.67,121896,0,,12.056,-15.6504
+9010213,4,Home Fibre 1Gbps WiFi 6 Bundle,021026a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,3995.08,480930,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Widescreen multi-platform cut),12.1892,-16.8729
+9010214,4,Home Fibre 1Gbps WiFi 6 Bundle,021026a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,719.98,76010,0,,12.1892,-16.8729
+9010215,4,Home Fibre 1Gbps WiFi 6 Bundle,021027a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,4909.1,544136,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Widescreen multi-platform cut),12.0816,-15.7304
+9010216,4,Home Fibre 1Gbps WiFi 6 Bundle,021027a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,210.37,22971,0,,12.0816,-15.7304
+9010217,4,Home Fibre 1Gbps WiFi 6 Bundle,021028a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,2085.38,249022,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Widescreen multi-platform cut),12.0273,-15.7968
+9010218,4,Home Fibre 1Gbps WiFi 6 Bundle,021028a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,554.29,63608,0,,12.0273,-15.7968
+9010219,4,Home Fibre 1Gbps WiFi 6 Bundle,021029a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,3713.58,390694,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Widescreen multi-platform cut),11.5763,-16.782
+9010220,4,Home Fibre 1Gbps WiFi 6 Bundle,021029a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1931.47,231230,0,,11.5763,-16.782
+9010221,4,Home Fibre 1Gbps WiFi 6 Bundle,02102aa9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,1454.42,166387,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Widescreen multi-platform cut),12.1735,-15.8186
+9010222,4,Home Fibre 1Gbps WiFi 6 Bundle,02102aa9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,1030.59,106722,0,,12.1735,-15.8186
+9010223,4,Home Fibre 1Gbps WiFi 6 Bundle,02102ba9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,1875.92,224234,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Widescreen multi-platform cut),12.1199,-15.5595
+9010224,4,Home Fibre 1Gbps WiFi 6 Bundle,02102ba9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,198.55,20949,0,,12.1199,-15.5595
+9010225,4,Home Fibre 1Gbps WiFi 6 Bundle,02102ca9f0c3e5b1,image,2:3,Display / Programmatic Banner,,2803.97,315545,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Widescreen multi-platform cut),12.7653,-16.6718
+9010226,4,Home Fibre 1Gbps WiFi 6 Bundle,02102ca9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1117.83,118354,0,,12.7653,-16.6718
+9010227,4,Home Fibre 1Gbps WiFi 6 Bundle,02102da9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,1656.19,177259,1,Modern Kuala Lumpur condo tour demonstrating dead-zone-free 1Gbps Maxis Home Fibre coverage with a WiFi 6 mesh router. (Widescreen multi-platform cut),12.0906,-15.901
+9010228,4,Home Fibre 1Gbps WiFi 6 Bundle,02102da9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,925.39,109273,0,,12.0906,-15.901
+9010229,4,Home Fibre 1Gbps WiFi 6 Bundle,02102ea9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,1341.96,147403,1,Remote worker on a crystal-clear video call while family streams UHD sports using Maxis 1Gbps Home Fibre broadband. (Widescreen multi-platform cut),12.1467,-15.7418
+9010230,4,Home Fibre 1Gbps WiFi 6 Bundle,02102ea9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,903.03,98834,0,,12.1467,-15.7418
+9010231,4,Home Fibre 1Gbps WiFi 6 Bundle,02102fa9f0c3e5b1,image,2:3,Display / Programmatic Banner,,3214.78,363532,1,Technician installing next-gen Maxis WiFi 6 router with instant speed test hitting 980 Mbps across two floors. (Widescreen multi-platform cut),11.1122,-16.3906
+9010232,4,Home Fibre 1Gbps WiFi 6 Bundle,02102fa9f0c3e5b1,image,2:3,Display / Programmatic Banner,,2328.74,251899,0,,11.1122,-16.3906
+9010233,5,5G Nationwide Speed & Coverage,030000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,2138.81,261181,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.608,54.4756
+9010234,5,5G Nationwide Speed & Coverage,030000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,856.44,109679,0,,21.608,54.4756
+9010235,5,5G Nationwide Speed & Coverage,030000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,671.28,89207,0,,21.608,54.4756
+9010236,5,5G Nationwide Speed & Coverage,030001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,865.79,118397,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.6369,54.4229
+9010237,5,5G Nationwide Speed & Coverage,030001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,407.74,56915,0,,21.6369,54.4229
+9010238,5,5G Nationwide Speed & Coverage,030001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,143.72,18241,0,,21.6369,54.4229
+9010239,5,5G Nationwide Speed & Coverage,030002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,3417.71,460915,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.6506,53.1104
+9010240,5,5G Nationwide Speed & Coverage,030002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2620.63,319760,0,,21.6506,53.1104
+9010241,5,5G Nationwide Speed & Coverage,030002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1304.85,158499,0,,21.6506,53.1104
+9010242,5,5G Nationwide Speed & Coverage,030003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1952.68,248410,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.5948,54.1699
+9010243,5,5G Nationwide Speed & Coverage,030003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1292.93,180367,0,,21.5948,54.1699
+9010244,5,5G Nationwide Speed & Coverage,030003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,398.57,56117,0,,21.5948,54.1699
+9010245,5,5G Nationwide Speed & Coverage,030004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1407.99,187261,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.5371,54.2717
+9010246,5,5G Nationwide Speed & Coverage,030004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1119.49,143682,0,,21.5371,54.2717
+9010247,5,5G Nationwide Speed & Coverage,030004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,470.43,63410,0,,21.5371,54.2717
+9010248,5,5G Nationwide Speed & Coverage,030005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1153.88,156908,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.0269,53.3138
+9010249,5,5G Nationwide Speed & Coverage,030005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1075.89,137422,0,,21.0269,53.3138
+9010250,5,5G Nationwide Speed & Coverage,030005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,479.92,59796,0,,21.0269,53.3138
+9010251,5,5G Nationwide Speed & Coverage,030006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1687.04,212652,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.8655,54.3128
+9010252,5,5G Nationwide Speed & Coverage,030006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,863.21,104523,0,,21.8655,54.3128
+9010253,5,5G Nationwide Speed & Coverage,030006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,782.15,99788,0,,21.8655,54.3128
+9010254,5,5G Nationwide Speed & Coverage,030007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,668.25,85934,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.7932,54.3444
+9010255,5,5G Nationwide Speed & Coverage,030007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,642.51,83392,0,,21.7932,54.3444
+9010256,5,5G Nationwide Speed & Coverage,030007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,61.06,7872,0,,21.7932,54.3444
+9010257,5,5G Nationwide Speed & Coverage,030008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,3244.71,396688,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.6877,55.4139
+9010258,5,5G Nationwide Speed & Coverage,030008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1404.98,187935,0,,21.6877,55.4139
+9010259,5,5G Nationwide Speed & Coverage,030009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,3724.36,489573,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.5998,54.1918
+9010260,5,5G Nationwide Speed & Coverage,030009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1775.0,237524,0,,21.5998,54.1918
+9010261,5,5G Nationwide Speed & Coverage,03000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1257.26,153642,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.6784,54.1235
+9010262,5,5G Nationwide Speed & Coverage,03000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1020.22,141837,0,,21.6784,54.1235
+9010263,5,5G Nationwide Speed & Coverage,03000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2877.77,372000,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,22.3606,53.3751
+9010264,5,5G Nationwide Speed & Coverage,03000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1688.13,211093,0,,22.3606,53.3751
+9010265,5,5G Nationwide Speed & Coverage,03000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,2002.82,273728,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.8133,54.4011
+9010266,5,5G Nationwide Speed & Coverage,03000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,592.89,77691,0,,21.8133,54.4011
+9010267,5,5G Nationwide Speed & Coverage,03000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,138.89,19417,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.6146,54.2442
+9010268,5,5G Nationwide Speed & Coverage,03000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,81.11,11501,0,,21.6146,54.2442
+9010269,5,5G Nationwide Speed & Coverage,03000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2148.56,286527,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",22.7519,53.8773
+9010270,5,5G Nationwide Speed & Coverage,03000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1212.75,164679,0,,22.7519,53.8773
+9010271,5,5G Nationwide Speed & Coverage,03000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,3044.21,425491,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.8239,54.3044
+9010272,5,5G Nationwide Speed & Coverage,03000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1725.14,228613,0,,21.8239,54.3044
+9010273,5,5G Nationwide Speed & Coverage,030010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,1665.71,202543,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.8709,54.367
+9010274,5,5G Nationwide Speed & Coverage,030010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,808.36,100214,0,,21.8709,54.367
+9010275,5,5G Nationwide Speed & Coverage,030011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1525.29,208791,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.0494,55.1558
+9010276,5,5G Nationwide Speed & Coverage,030011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,834.65,108828,0,,21.0494,55.1558
+9010277,5,5G Nationwide Speed & Coverage,030012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1032.39,145660,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.5502,54.1304
+9010278,5,5G Nationwide Speed & Coverage,030012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,833.84,116824,0,,21.5502,54.1304
+9010279,5,5G Nationwide Speed & Coverage,030013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,263.48,32756,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.8285,54.4293
+9010280,5,5G Nationwide Speed & Coverage,030013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,239.7,32841,0,,21.8285,54.4293
+9010281,5,5G Nationwide Speed & Coverage,030014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,4866.22,671846,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",20.6548,54.6589
+9010282,5,5G Nationwide Speed & Coverage,030014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2357.17,324614,0,,20.6548,54.6589
+9010283,5,5G Nationwide Speed & Coverage,030015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,448.83,56049,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.8525,54.1585
+9010284,5,5G Nationwide Speed & Coverage,030015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,413.84,54373,0,,21.8525,54.1585
+9010285,5,5G Nationwide Speed & Coverage,030016a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,2905.12,408934,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.4488,54.3428
+9010286,5,5G Nationwide Speed & Coverage,030016a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1887.09,246274,0,,21.4488,54.3428
+9010287,5,5G Nationwide Speed & Coverage,030017a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1268.12,155755,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,20.5623,53.9509
+9010288,5,5G Nationwide Speed & Coverage,030017a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,55.87,7650,0,,20.5623,53.9509
+9010289,5,5G Nationwide Speed & Coverage,030018a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,136.3,17409,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.6887,54.0871
+9010290,5,5G Nationwide Speed & Coverage,030018a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,103.2,12832,0,,21.6887,54.0871
+9010291,5,5G Nationwide Speed & Coverage,030019a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,2797.96,359914,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.7265,54.0648
+9010292,5,5G Nationwide Speed & Coverage,030019a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,443.15,54453,0,,21.7265,54.0648
+9010293,5,5G Nationwide Speed & Coverage,03001aa9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1291.95,182203,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",22.8007,54.5699
+9010294,5,5G Nationwide Speed & Coverage,03001aa9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,318.31,39204,0,,22.8007,54.5699
+9010295,5,5G Nationwide Speed & Coverage,03001ba9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,2124.01,260077,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.6767,54.3484
+9010296,5,5G Nationwide Speed & Coverage,03001ba9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1814.35,238785,0,,21.6767,54.3484
+9010297,5,5G Nationwide Speed & Coverage,03001ca9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,549.75,69793,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.5182,54.3673
+9010298,5,5G Nationwide Speed & Coverage,03001ca9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,380.64,48857,0,,21.5182,54.3673
+9010299,5,5G Nationwide Speed & Coverage,03001da9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1490.11,188161,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,22.3929,55.1738
+9010300,5,5G Nationwide Speed & Coverage,03001da9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1349.3,175291,0,,22.3929,55.1738
+9010301,5,5G Nationwide Speed & Coverage,03001ea9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,3945.07,493550,1,"Drone timelapse across Kuala Lumpur skyline, Penang Bridge, and Johor Bahru showing glowing 5G network waves and live speed benchmarks.",21.8642,54.2072
+9010302,5,5G Nationwide Speed & Coverage,03001ea9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,2287.07,288703,0,,21.8642,54.2072
+9010303,5,5G Nationwide Speed & Coverage,03001fa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,936.97,129002,1,Commuter downloading an entire HD movie in seconds on the MRT using Maxis nationwide 5G ultra-low latency connectivity.,21.7616,54.0784
+9010304,5,5G Nationwide Speed & Coverage,03001fa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,704.4,88514,0,,21.7616,54.0784
+9010305,11,Flagship 5G Smartphone RM1 Zerolution,040000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1971.05,220181,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Vertical 9:16 mobile cut),31.042,29.7593
+9010306,11,Flagship 5G Smartphone RM1 Zerolution,040000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1166.52,135294,0,,31.042,29.7593
+9010307,11,Flagship 5G Smartphone RM1 Zerolution,040000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,879.65,101513,0,,31.042,29.7593
+9010308,11,Flagship 5G Smartphone RM1 Zerolution,040001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,281.51,29942,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Vertical 9:16 mobile cut),31.0032,29.6949
+9010309,11,Flagship 5G Smartphone RM1 Zerolution,040001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,219.34,23401,0,,31.0032,29.6949
+9010310,11,Flagship 5G Smartphone RM1 Zerolution,040001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,219.27,22251,0,,31.0032,29.6949
+9010311,11,Flagship 5G Smartphone RM1 Zerolution,040002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,601.94,60662,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Vertical 9:16 mobile cut),29.9864,30.2724
+9010312,11,Flagship 5G Smartphone RM1 Zerolution,040002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,509.36,57310,0,,29.9864,30.2724
+9010313,11,Flagship 5G Smartphone RM1 Zerolution,040002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,209.73,24168,0,,29.9864,30.2724
+9010314,11,Flagship 5G Smartphone RM1 Zerolution,040003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,3799.17,440181,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Vertical 9:16 mobile cut),30.9627,29.6696
+9010315,11,Flagship 5G Smartphone RM1 Zerolution,040003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,2495.32,285750,0,,30.9627,29.6696
+9010316,11,Flagship 5G Smartphone RM1 Zerolution,040003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1209.51,125009,0,,30.9627,29.6696
+9010317,11,Flagship 5G Smartphone RM1 Zerolution,040004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1693.0,179242,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Vertical 9:16 mobile cut),30.8859,29.7159
+9010318,11,Flagship 5G Smartphone RM1 Zerolution,040004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,949.36,95759,0,,30.8859,29.7159
+9010319,11,Flagship 5G Smartphone RM1 Zerolution,040004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,882.24,89863,0,,30.8859,29.7159
+9010320,11,Flagship 5G Smartphone RM1 Zerolution,040005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1914.53,205984,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Vertical 9:16 mobile cut),31.4631,28.5296
+9010321,11,Flagship 5G Smartphone RM1 Zerolution,040005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1710.05,189201,0,,31.4631,28.5296
+9010322,11,Flagship 5G Smartphone RM1 Zerolution,040005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,835.0,82880,0,,31.4631,28.5296
+9010323,11,Flagship 5G Smartphone RM1 Zerolution,040006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1961.72,204806,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Vertical 9:16 mobile cut),30.9021,29.7987
+9010324,11,Flagship 5G Smartphone RM1 Zerolution,040006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,959.35,108562,0,,30.9021,29.7987
+9010325,11,Flagship 5G Smartphone RM1 Zerolution,040006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,681.47,75893,0,,30.9021,29.7987
+9010326,11,Flagship 5G Smartphone RM1 Zerolution,040007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,2702.12,272671,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Vertical 9:16 mobile cut),30.9646,29.7922
+9010327,11,Flagship 5G Smartphone RM1 Zerolution,040007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,996.21,110835,0,,30.9646,29.7922
+9010328,11,Flagship 5G Smartphone RM1 Zerolution,040007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,560.99,60360,0,,30.9646,29.7922
+9010329,11,Flagship 5G Smartphone RM1 Zerolution,040008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,982.36,112960,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Vertical 9:16 mobile cut),30.7581,28.5553
+9010330,11,Flagship 5G Smartphone RM1 Zerolution,040008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,869.38,93294,0,,30.7581,28.5553
+9010331,11,Flagship 5G Smartphone RM1 Zerolution,040008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,413.56,42627,0,,30.7581,28.5553
+9010332,11,Flagship 5G Smartphone RM1 Zerolution,040009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,766.46,78380,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Vertical 9:16 mobile cut),30.9506,29.6271
+9010333,11,Flagship 5G Smartphone RM1 Zerolution,040009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,648.77,74958,0,,30.9506,29.6271
+9010334,11,Flagship 5G Smartphone RM1 Zerolution,040009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,499.27,50110,0,,30.9506,29.6271
+9010335,11,Flagship 5G Smartphone RM1 Zerolution,04000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,774.32,86822,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Vertical 9:16 mobile cut),31.0202,29.6236
+9010336,11,Flagship 5G Smartphone RM1 Zerolution,04000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,327.76,34308,0,,31.0202,29.6236
+9010337,11,Flagship 5G Smartphone RM1 Zerolution,04000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,134.56,15165,0,,31.0202,29.6236
+9010338,11,Flagship 5G Smartphone RM1 Zerolution,04000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2691.4,274162,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Vertical 9:16 mobile cut),30.3941,30.7991
+9010339,11,Flagship 5G Smartphone RM1 Zerolution,04000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2192.2,246659,0,,30.3941,30.7991
+9010340,11,Flagship 5G Smartphone RM1 Zerolution,04000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2178.91,239439,0,,30.3941,30.7991
+9010341,11,Flagship 5G Smartphone RM1 Zerolution,04000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,3832.54,422221,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Vertical 9:16 mobile cut),30.9483,29.7474
+9010342,11,Flagship 5G Smartphone RM1 Zerolution,04000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1348.57,146032,0,,30.9483,29.7474
+9010343,11,Flagship 5G Smartphone RM1 Zerolution,04000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1154.58,133797,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Vertical 9:16 mobile cut),30.9844,29.5943
+9010344,11,Flagship 5G Smartphone RM1 Zerolution,04000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,680.85,70801,0,,30.9844,29.5943
+9010345,11,Flagship 5G Smartphone RM1 Zerolution,04000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2309.1,263635,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Vertical 9:16 mobile cut),30.1684,28.9174
+9010346,11,Flagship 5G Smartphone RM1 Zerolution,04000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2058.2,236180,0,,30.1684,28.9174
+9010347,11,Flagship 5G Smartphone RM1 Zerolution,04000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,2566.59,277013,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Vertical 9:16 mobile cut),31.0504,29.6366
+9010348,11,Flagship 5G Smartphone RM1 Zerolution,04000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,81.38,9075,0,,31.0504,29.6366
+9010349,11,Flagship 5G Smartphone RM1 Zerolution,040010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1662.66,177714,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Vertical 9:16 mobile cut),30.9524,29.5697
+9010350,11,Flagship 5G Smartphone RM1 Zerolution,040010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1499.37,150785,0,,30.9524,29.5697
+9010351,11,Flagship 5G Smartphone RM1 Zerolution,040011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,870.45,95679,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Vertical 9:16 mobile cut),29.8611,29.6242
+9010352,11,Flagship 5G Smartphone RM1 Zerolution,040011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,707.29,71203,0,,29.8611,29.6242
+9010353,11,Flagship 5G Smartphone RM1 Zerolution,040012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,526.25,52505,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Vertical 9:16 mobile cut),31.0002,29.6697
+9010354,11,Flagship 5G Smartphone RM1 Zerolution,040012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,254.45,26173,0,,31.0002,29.6697
+9010355,11,Flagship 5G Smartphone RM1 Zerolution,041013a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,966.23,103487,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Widescreen multi-platform cut),31.7942,30.0917
+9010356,11,Flagship 5G Smartphone RM1 Zerolution,041013a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,108.9,10814,0,,31.7942,30.0917
+9010357,11,Flagship 5G Smartphone RM1 Zerolution,041014a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1427.12,146149,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Widescreen multi-platform cut),31.4525,31.2522
+9010358,11,Flagship 5G Smartphone RM1 Zerolution,041014a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,798.72,82237,0,,31.4525,31.2522
+9010359,11,Flagship 5G Smartphone RM1 Zerolution,041015a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,2222.89,223072,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Widescreen multi-platform cut),31.7518,30.0804
+9010360,11,Flagship 5G Smartphone RM1 Zerolution,041015a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,1298.12,138022,0,,31.7518,30.0804
+9010361,11,Flagship 5G Smartphone RM1 Zerolution,041016a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,1805.9,198397,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Widescreen multi-platform cut),31.7347,30.0522
+9010362,11,Flagship 5G Smartphone RM1 Zerolution,041016a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,350.61,35439,0,,31.7347,30.0522
+9010363,11,Flagship 5G Smartphone RM1 Zerolution,041017a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1047.99,109691,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Widescreen multi-platform cut),32.4517,29.0571
+9010364,11,Flagship 5G Smartphone RM1 Zerolution,041017a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,888.58,94848,0,,32.4517,29.0571
+9010365,11,Flagship 5G Smartphone RM1 Zerolution,041018a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,608.12,64119,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Widescreen multi-platform cut),31.7582,30.1716
+9010366,11,Flagship 5G Smartphone RM1 Zerolution,041018a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,504.79,55321,0,,31.7582,30.1716
+9010367,11,Flagship 5G Smartphone RM1 Zerolution,041019a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,792.43,89880,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Widescreen multi-platform cut),31.763,30.0815
+9010368,11,Flagship 5G Smartphone RM1 Zerolution,041019a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,569.63,58587,0,,31.763,30.0815
+9010369,11,Flagship 5G Smartphone RM1 Zerolution,04101aa9f0c3e5b1,image,2:3,Display / Programmatic Banner,,5105.36,549693,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Widescreen multi-platform cut),32.8663,30.1447
+9010370,11,Flagship 5G Smartphone RM1 Zerolution,04101aa9f0c3e5b1,image,2:3,Display / Programmatic Banner,,3860.99,406981,0,,32.8663,30.1447
+9010371,11,Flagship 5G Smartphone RM1 Zerolution,04101ba9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,2574.18,295894,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Widescreen multi-platform cut),31.7262,30.0138
+9010372,11,Flagship 5G Smartphone RM1 Zerolution,04101ba9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,1623.76,162097,0,,31.7262,30.0138
+9010373,11,Flagship 5G Smartphone RM1 Zerolution,04101ca9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,3218.51,363491,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Widescreen multi-platform cut),31.7395,30.1108
+9010374,11,Flagship 5G Smartphone RM1 Zerolution,04101ca9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,796.14,87559,0,,31.7395,30.1108
+9010375,11,Flagship 5G Smartphone RM1 Zerolution,04101da9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1031.53,110612,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Widescreen multi-platform cut),32.6945,29.423
+9010376,11,Flagship 5G Smartphone RM1 Zerolution,04101da9f0c3e5b1,image,2:3,Display / Programmatic Banner,,238.39,25003,0,,32.6945,29.423
+9010377,11,Flagship 5G Smartphone RM1 Zerolution,04101ea9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,2334.28,232588,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Widescreen multi-platform cut),31.784,30.0778
+9010378,11,Flagship 5G Smartphone RM1 Zerolution,04101ea9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,1397.04,143092,0,,31.784,30.0778
+9010379,11,Flagship 5G Smartphone RM1 Zerolution,04101fa9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,4240.57,435881,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Widescreen multi-platform cut),31.7447,30.0804
+9010380,11,Flagship 5G Smartphone RM1 Zerolution,04101fa9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,984.58,106525,0,,31.7447,30.0804
+9010381,11,Flagship 5G Smartphone RM1 Zerolution,041020a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,190.35,20345,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Widescreen multi-platform cut),32.0284,31.1326
+9010382,11,Flagship 5G Smartphone RM1 Zerolution,041020a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,87.02,10057,0,,32.0284,31.1326
+9010383,11,Flagship 5G Smartphone RM1 Zerolution,041021a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,5077.66,552942,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Widescreen multi-platform cut),31.7147,30.1681
+9010384,11,Flagship 5G Smartphone RM1 Zerolution,041021a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,15.00,1786.56,196244,0,,31.7147,30.1681
+9010385,11,Flagship 5G Smartphone RM1 Zerolution,041022a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,30.00,2306.51,246821,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Widescreen multi-platform cut),31.8017,29.8737
+9010386,11,Flagship 5G Smartphone RM1 Zerolution,041022a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,1412.42,151801,0,,31.8017,29.8737
+9010387,11,Flagship 5G Smartphone RM1 Zerolution,041023a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1416.79,154820,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Widescreen multi-platform cut),32.6252,30.7924
+9010388,11,Flagship 5G Smartphone RM1 Zerolution,041023a9f0c3e5b1,image,2:3,Display / Programmatic Banner,,1205.89,124953,0,,32.6252,30.7924
+9010389,11,Flagship 5G Smartphone RM1 Zerolution,041024a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,30.00,1012.6,112487,1,Studio 360-degree product reveal of flagship titanium 5G smartphone with bold 'From RM1/month on Maxis Zerolution' kinetic typography. (Widescreen multi-platform cut),31.7777,30.0003
+9010390,11,Flagship 5G Smartphone RM1 Zerolution,041024a9f0c3e5b1,video,16:9,Online Video / YouTube Instream,10.00,697.54,70571,0,,31.7777,30.0003
+9010391,11,Flagship 5G Smartphone RM1 Zerolution,041025a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,10.00,628.28,62624,1,Customer trading in an old phone at a Maxis counter and walking out with a brand-new 5G flagship device at RM0 upfront. (Widescreen multi-platform cut),31.7637,30.0718
+9010392,11,Flagship 5G Smartphone RM1 Zerolution,041025a9f0c3e5b1,video,1:1,Social Video / Facebook Feed Video,15.00,143.36,15970,0,,31.7637,30.0718
+9010393,6,Hotlink Prepaid 5G Youth Gaming Pass,050000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,820.69,121781,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.5672,21.9016
+9010394,6,Hotlink Prepaid 5G Youth Gaming Pass,050000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,789.67,127812,0,,-13.5672,21.9016
+9010395,6,Hotlink Prepaid 5G Youth Gaming Pass,050000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,667.18,101648,0,,-13.5672,21.9016
+9010396,6,Hotlink Prepaid 5G Youth Gaming Pass,050001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,2014.37,324020,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.3578,21.4635
+9010397,6,Hotlink Prepaid 5G Youth Gaming Pass,050001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,658.55,102817,0,,-13.3578,21.4635
+9010398,6,Hotlink Prepaid 5G Youth Gaming Pass,050001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,547.18,80802,0,,-13.3578,21.4635
+9010399,6,Hotlink Prepaid 5G Youth Gaming Pass,050002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,463.6,72680,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-12.9416,22.6917
+9010400,6,Hotlink Prepaid 5G Youth Gaming Pass,050002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,383.01,58357,0,,-12.9416,22.6917
+9010401,6,Hotlink Prepaid 5G Youth Gaming Pass,050002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,216.76,32680,0,,-12.9416,22.6917
+9010402,6,Hotlink Prepaid 5G Youth Gaming Pass,050003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,3458.85,574941,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.3553,21.7597
+9010403,6,Hotlink Prepaid 5G Youth Gaming Pass,050003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,2094.63,318895,0,,-13.3553,21.7597
+9010404,6,Hotlink Prepaid 5G Youth Gaming Pass,050003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1651.9,275865,0,,-13.3553,21.7597
+9010405,6,Hotlink Prepaid 5G Youth Gaming Pass,050004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,2398.15,397482,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.3959,21.8259
+9010406,6,Hotlink Prepaid 5G Youth Gaming Pass,050004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1242.3,206289,0,,-13.3959,21.8259
+9010407,6,Hotlink Prepaid 5G Youth Gaming Pass,050004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,788.3,125239,0,,-13.3959,21.8259
+9010408,6,Hotlink Prepaid 5G Youth Gaming Pass,050005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,3000.25,503774,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-12.3779,21.2927
+9010409,6,Hotlink Prepaid 5G Youth Gaming Pass,050005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2294.83,382365,0,,-12.3779,21.2927
+9010410,6,Hotlink Prepaid 5G Youth Gaming Pass,050005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1024.09,158800,0,,-12.3779,21.2927
+9010411,6,Hotlink Prepaid 5G Youth Gaming Pass,050006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,2111.38,314393,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.6438,21.6347
+9010412,6,Hotlink Prepaid 5G Youth Gaming Pass,050006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1669.74,269195,0,,-13.6438,21.6347
+9010413,6,Hotlink Prepaid 5G Youth Gaming Pass,050006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1121.61,184328,0,,-13.6438,21.6347
+9010414,6,Hotlink Prepaid 5G Youth Gaming Pass,050007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1092.34,174947,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.3833,21.8053
+9010415,6,Hotlink Prepaid 5G Youth Gaming Pass,050007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,596.88,93713,0,,-13.3833,21.8053
+9010416,6,Hotlink Prepaid 5G Youth Gaming Pass,050007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,265.31,41149,0,,-13.3833,21.8053
+9010417,6,Hotlink Prepaid 5G Youth Gaming Pass,050008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,927.68,139945,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-14.7727,21.6136
+9010418,6,Hotlink Prepaid 5G Youth Gaming Pass,050008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,394.67,60641,0,,-14.7727,21.6136
+9010419,6,Hotlink Prepaid 5G Youth Gaming Pass,050008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,224.45,37633,0,,-14.7727,21.6136
+9010420,6,Hotlink Prepaid 5G Youth Gaming Pass,050009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,313.5,52587,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.5259,21.5683
+9010421,6,Hotlink Prepaid 5G Youth Gaming Pass,050009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,198.59,30291,0,,-13.5259,21.5683
+9010422,6,Hotlink Prepaid 5G Youth Gaming Pass,050009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,116.41,17189,0,,-13.5259,21.5683
+9010423,6,Hotlink Prepaid 5G Youth Gaming Pass,05000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1888.83,283959,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.5337,21.5313
+9010424,6,Hotlink Prepaid 5G Youth Gaming Pass,05000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1272.18,191353,0,,-13.5337,21.5313
+9010425,6,Hotlink Prepaid 5G Youth Gaming Pass,05000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,139.58,21536,0,,-13.5337,21.5313
+9010426,6,Hotlink Prepaid 5G Youth Gaming Pass,05000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,977.31,164780,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.9968,20.5288
+9010427,6,Hotlink Prepaid 5G Youth Gaming Pass,05000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,348.92,52901,0,,-13.9968,20.5288
+9010428,6,Hotlink Prepaid 5G Youth Gaming Pass,05000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,146.81,24772,0,,-13.9968,20.5288
+9010429,6,Hotlink Prepaid 5G Youth Gaming Pass,05000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,712.23,110909,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.7254,21.7501
+9010430,6,Hotlink Prepaid 5G Youth Gaming Pass,05000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,500.65,76737,0,,-13.7254,21.7501
+9010431,6,Hotlink Prepaid 5G Youth Gaming Pass,05000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,191.81,32014,0,,-13.7254,21.7501
+9010432,6,Hotlink Prepaid 5G Youth Gaming Pass,05000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,477.35,74987,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.4775,21.7927
+9010433,6,Hotlink Prepaid 5G Youth Gaming Pass,05000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,215.08,33569,0,,-13.4775,21.7927
+9010434,6,Hotlink Prepaid 5G Youth Gaming Pass,05000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,165.38,25173,0,,-13.4775,21.7927
+9010435,6,Hotlink Prepaid 5G Youth Gaming Pass,05000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1292.72,210171,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-14.6017,22.2855
+9010436,6,Hotlink Prepaid 5G Youth Gaming Pass,05000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,686.5,107360,0,,-14.6017,22.2855
+9010437,6,Hotlink Prepaid 5G Youth Gaming Pass,05000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1360.24,209097,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.6374,21.4574
+9010438,6,Hotlink Prepaid 5G Youth Gaming Pass,05000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,290.79,46032,0,,-13.6374,21.4574
+9010439,6,Hotlink Prepaid 5G Youth Gaming Pass,050010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,485.32,75927,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.256,21.781
+9010440,6,Hotlink Prepaid 5G Youth Gaming Pass,050010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,231.89,38252,0,,-13.256,21.781
+9010441,6,Hotlink Prepaid 5G Youth Gaming Pass,050011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,250.01,37471,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-12.5871,20.5364
+9010442,6,Hotlink Prepaid 5G Youth Gaming Pass,050011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,244.73,37304,0,,-12.5871,20.5364
+9010443,6,Hotlink Prepaid 5G Youth Gaming Pass,050012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,362.4,52427,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.7368,21.6466
+9010444,6,Hotlink Prepaid 5G Youth Gaming Pass,050012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,65.29,10273,0,,-13.7368,21.6466
+9010445,6,Hotlink Prepaid 5G Youth Gaming Pass,050013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1596.05,261962,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.3154,21.5392
+9010446,6,Hotlink Prepaid 5G Youth Gaming Pass,050013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1113.7,172258,0,,-13.3154,21.5392
+9010447,6,Hotlink Prepaid 5G Youth Gaming Pass,050014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1640.41,271271,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-14.5089,20.9342
+9010448,6,Hotlink Prepaid 5G Youth Gaming Pass,050014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,927.85,135346,0,,-14.5089,20.9342
+9010449,6,Hotlink Prepaid 5G Youth Gaming Pass,050015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,717.76,106354,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.273,21.6526
+9010450,6,Hotlink Prepaid 5G Youth Gaming Pass,050015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,592.22,88736,0,,-13.273,21.6526
+9010451,6,Hotlink Prepaid 5G Youth Gaming Pass,050016a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,6286.45,953719,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.3291,21.6165
+9010452,6,Hotlink Prepaid 5G Youth Gaming Pass,050016a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1811.76,282475,0,,-13.3291,21.6165
+9010453,6,Hotlink Prepaid 5G Youth Gaming Pass,050017a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,927.31,155791,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-14.2047,22.8028
+9010454,6,Hotlink Prepaid 5G Youth Gaming Pass,050017a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,172.89,28520,0,,-14.2047,22.8028
+9010455,6,Hotlink Prepaid 5G Youth Gaming Pass,050018a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1382.87,221048,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.4795,21.9083
+9010456,6,Hotlink Prepaid 5G Youth Gaming Pass,050018a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1241.76,190837,0,,-13.4795,21.9083
+9010457,6,Hotlink Prepaid 5G Youth Gaming Pass,050019a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1703.56,254254,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.6708,21.8533
+9010458,6,Hotlink Prepaid 5G Youth Gaming Pass,050019a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,249.43,37937,0,,-13.6708,21.8533
+9010459,6,Hotlink Prepaid 5G Youth Gaming Pass,05001aa9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1920.28,282740,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.5416,22.9137
+9010460,6,Hotlink Prepaid 5G Youth Gaming Pass,05001aa9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,431.85,71876,0,,-13.5416,22.9137
+9010461,6,Hotlink Prepaid 5G Youth Gaming Pass,05001ba9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,3297.53,516367,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.6598,21.6443
+9010462,6,Hotlink Prepaid 5G Youth Gaming Pass,05001ba9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1792.5,275043,0,,-13.6598,21.6443
+9010463,6,Hotlink Prepaid 5G Youth Gaming Pass,05001ca9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1277.45,211727,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.7489,21.7724
+9010464,6,Hotlink Prepaid 5G Youth Gaming Pass,05001ca9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,727.58,110450,0,,-13.7489,21.7724
+9010465,6,Hotlink Prepaid 5G Youth Gaming Pass,05001da9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,3109.24,508691,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-12.1242,22.2734
+9010466,6,Hotlink Prepaid 5G Youth Gaming Pass,05001da9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,718.35,108863,0,,-12.1242,22.2734
+9010467,6,Hotlink Prepaid 5G Youth Gaming Pass,05001ea9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,741.54,118021,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.5868,21.4872
+9010468,6,Hotlink Prepaid 5G Youth Gaming Pass,05001ea9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,561.47,89595,0,,-13.5868,21.4872
+9010469,6,Hotlink Prepaid 5G Youth Gaming Pass,05001fa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,968.65,139937,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.39,21.8636
+9010470,6,Hotlink Prepaid 5G Youth Gaming Pass,05001fa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,183.86,29553,0,,-13.39,21.8636
+9010471,6,Hotlink Prepaid 5G Youth Gaming Pass,050020a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1334.01,201485,1,Fast-paced UGC esports squad playing Mobile Legends with 9ms ping indicator and Hotlink Red neon overlays.,-13.1737,20.5466
+9010472,6,Hotlink Prepaid 5G Youth Gaming Pass,050020a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,810.52,122727,0,,-13.1737,20.5466
+9010473,6,Hotlink Prepaid 5G Youth Gaming Pass,050021a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,2649.57,418511,1,Gen-Z creator scrolling TikTok and streaming live outdoors with Hotlink Prepaid 5G unlimited uncapped speed pass.,-13.603,21.6767
+9010474,6,Hotlink Prepaid 5G Youth Gaming Pass,050021a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1658.72,258431,0,,-13.603,21.6767
+9010475,3,Festive Raya & CNY 5G Roaming,060000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,2965.72,393926,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-9.1693,-1.6694
+9010476,3,Festive Raya & CNY 5G Roaming,060000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,2754.14,323540,0,,-9.1693,-1.6694
+9010477,3,Festive Raya & CNY 5G Roaming,060000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,497.84,62875,0,,-9.1693,-1.6694
+9010478,3,Festive Raya & CNY 5G Roaming,060001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,610.25,71328,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-9.1666,-1.5076
+9010479,3,Festive Raya & CNY 5G Roaming,060001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,342.75,41718,0,,-9.1666,-1.5076
+9010480,3,Festive Raya & CNY 5G Roaming,060001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,252.63,32258,0,,-9.1666,-1.5076
+9010481,3,Festive Raya & CNY 5G Roaming,060002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,407.11,46824,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-8.535,-1.1267
+9010482,3,Festive Raya & CNY 5G Roaming,060002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,245.5,32291,0,,-8.535,-1.1267
+9010483,3,Festive Raya & CNY 5G Roaming,060002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,195.17,24750,0,,-8.535,-1.1267
+9010484,3,Festive Raya & CNY 5G Roaming,060003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,2989.4,394924,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-9.1161,-1.6109
+9010485,3,Festive Raya & CNY 5G Roaming,060003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1466.5,169306,0,,-9.1161,-1.6109
+9010486,3,Festive Raya & CNY 5G Roaming,060003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1271.76,145621,0,,-9.1161,-1.6109
+9010487,3,Festive Raya & CNY 5G Roaming,060004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,2396.06,306854,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-9.0413,-1.6127
+9010488,3,Festive Raya & CNY 5G Roaming,060004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1787.0,206428,0,,-9.0413,-1.6127
+9010489,3,Festive Raya & CNY 5G Roaming,060004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,272.86,33854,0,,-9.0413,-1.6127
+9010490,3,Festive Raya & CNY 5G Roaming,060005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1620.63,190130,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-8.365,-1.6045
+9010491,3,Festive Raya & CNY 5G Roaming,060005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,409.97,52982,0,,-8.365,-1.6045
+9010492,3,Festive Raya & CNY 5G Roaming,060005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,242.86,30601,0,,-8.365,-1.6045
+9010493,3,Festive Raya & CNY 5G Roaming,060006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,663.55,86618,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-9.0373,-1.7086
+9010494,3,Festive Raya & CNY 5G Roaming,060006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,408.75,46884,0,,-9.0373,-1.7086
+9010495,3,Festive Raya & CNY 5G Roaming,060006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,120.6,15927,0,,-9.0373,-1.7086
+9010496,3,Festive Raya & CNY 5G Roaming,060007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,641.84,81018,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-9.1756,-1.597
+9010497,3,Festive Raya & CNY 5G Roaming,060007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,385.7,46084,0,,-9.1756,-1.597
+9010498,3,Festive Raya & CNY 5G Roaming,060007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,214.22,28438,0,,-9.1756,-1.597
+9010499,3,Festive Raya & CNY 5G Roaming,060008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1424.95,181492,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-9.5609,-1.9559
+9010500,3,Festive Raya & CNY 5G Roaming,060008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,924.58,108877,0,,-9.5609,-1.9559
+9010501,3,Festive Raya & CNY 5G Roaming,060008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,903.13,103007,0,,-9.5609,-1.9559
+9010502,3,Festive Raya & CNY 5G Roaming,060009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1265.78,162896,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-9.1606,-1.5431
+9010503,3,Festive Raya & CNY 5G Roaming,060009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,642.28,83150,0,,-9.1606,-1.5431
+9010504,3,Festive Raya & CNY 5G Roaming,060009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,392.18,51351,0,,-9.1606,-1.5431
+9010505,3,Festive Raya & CNY 5G Roaming,06000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1856.97,223097,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-9.0852,-1.6609
+9010506,3,Festive Raya & CNY 5G Roaming,06000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,411.37,51376,0,,-9.0852,-1.6609
+9010507,3,Festive Raya & CNY 5G Roaming,06000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,259.46,34038,0,,-9.0852,-1.6609
+9010508,3,Festive Raya & CNY 5G Roaming,06000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2285.62,287651,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-9.0693,-2.2634
+9010509,3,Festive Raya & CNY 5G Roaming,06000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1972.42,235552,0,,-9.0693,-2.2634
+9010510,3,Festive Raya & CNY 5G Roaming,06000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1101.65,140811,0,,-9.0693,-2.2634
+9010511,3,Festive Raya & CNY 5G Roaming,06000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,484.16,58906,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-9.1704,-1.6371
+9010512,3,Festive Raya & CNY 5G Roaming,06000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,353.21,47084,0,,-9.1704,-1.6371
+9010513,3,Festive Raya & CNY 5G Roaming,06000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,337.43,41859,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-8.9837,-1.525
+9010514,3,Festive Raya & CNY 5G Roaming,06000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,134.31,15794,0,,-8.9837,-1.525
+9010515,3,Festive Raya & CNY 5G Roaming,06000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1222.39,154041,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-8.6215,-2.0033
+9010516,3,Festive Raya & CNY 5G Roaming,06000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,417.39,49246,0,,-8.6215,-2.0033
+9010517,3,Festive Raya & CNY 5G Roaming,06000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,452.68,55815,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-8.9889,-1.5107
+9010518,3,Festive Raya & CNY 5G Roaming,06000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,445.39,53392,0,,-8.9889,-1.5107
+9010519,3,Festive Raya & CNY 5G Roaming,060010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,1510.44,191866,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-9.0138,-1.6601
+9010520,3,Festive Raya & CNY 5G Roaming,060010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,850.07,113036,0,,-9.0138,-1.6601
+9010521,3,Festive Raya & CNY 5G Roaming,060011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,181.6,23941,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-9.5439,-1.0663
+9010522,3,Festive Raya & CNY 5G Roaming,060011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,27.44,3393,0,,-9.5439,-1.0663
+9010523,3,Festive Raya & CNY 5G Roaming,060012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,684.69,80355,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-9.0067,-1.6175
+9010524,3,Festive Raya & CNY 5G Roaming,060012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,658.31,75795,0,,-9.0067,-1.6175
+9010525,3,Festive Raya & CNY 5G Roaming,060013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,529.44,64760,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-9.1037,-1.4711
+9010526,3,Festive Raya & CNY 5G Roaming,060013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,292.48,38001,0,,-9.1037,-1.4711
+9010527,3,Festive Raya & CNY 5G Roaming,060014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,4467.68,563993,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-9.7576,-1.494
+9010528,3,Festive Raya & CNY 5G Roaming,060014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1639.68,218147,0,,-9.7576,-1.494
+9010529,3,Festive Raya & CNY 5G Roaming,060015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,663.19,87921,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-9.0513,-1.4628
+9010530,3,Festive Raya & CNY 5G Roaming,060015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,312.19,39464,0,,-9.0513,-1.4628
+9010531,3,Festive Raya & CNY 5G Roaming,060016a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1690.42,216434,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-8.9759,-1.598
+9010532,3,Festive Raya & CNY 5G Roaming,060016a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1499.4,188250,0,,-8.9759,-1.598
+9010533,3,Festive Raya & CNY 5G Roaming,060017a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1969.61,255360,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-8.9834,-0.9694
+9010534,3,Festive Raya & CNY 5G Roaming,060017a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1779.77,235322,0,,-8.9834,-0.9694
+9010535,3,Festive Raya & CNY 5G Roaming,060018a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1244.61,157326,1,Malaysian family video-calling grandparents during festive balik kampung and overseas holiday travel using Maxis 5G Roaming.,-9.0297,-1.6263
+9010536,3,Festive Raya & CNY 5G Roaming,060018a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1118.26,142335,0,,-9.0297,-1.6263
+9010537,3,Festive Raya & CNY 5G Roaming,060019a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1927.4,242143,1,"Traveller landing at Singapore, Bangkok, and Tokyo airports with instant automatic 5G roaming activation and no SIM swap.",-9.0455,-1.47
+9010538,3,Festive Raya & CNY 5G Roaming,060019a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,1303.15,160659,0,,-9.0455,-1.47
+9010539,2,Maxis Business SME Fibre & POS,070000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,422.34,38707,1,Busy Malaysian cafe owner processing cashless QR payments on a Maxis Business cloud POS terminal backed by automatic 4G failover.,18.4733,2.8871
+9010540,2,Maxis Business SME Fibre & POS,070000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,329.8,30026,0,,18.4733,2.8871
+9010541,2,Maxis Business SME Fibre & POS,070000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,83.14,7799,0,,18.4733,2.8871
+9010542,2,Maxis Business SME Fibre & POS,070001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,762.06,71331,1,SME retail team managing inventory and online orders with Maxis Business Fibre and SME digital grant support.,18.4589,2.8759
+9010543,2,Maxis Business SME Fibre & POS,070001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,673.78,63193,0,,18.4589,2.8759
+9010544,2,Maxis Business SME Fibre & POS,070001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,465.05,40894,0,,18.4589,2.8759
+9010545,2,Maxis Business SME Fibre & POS,070002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,541.42,45202,1,Busy Malaysian cafe owner processing cashless QR payments on a Maxis Business cloud POS terminal backed by automatic 4G failover.,18.6063,3.4054
+9010546,2,Maxis Business SME Fibre & POS,070002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,377.68,35268,0,,18.6063,3.4054
+9010547,2,Maxis Business SME Fibre & POS,070002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,272.34,26018,0,,18.6063,3.4054
+9010548,2,Maxis Business SME Fibre & POS,070003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,2844.11,238667,1,SME retail team managing inventory and online orders with Maxis Business Fibre and SME digital grant support.,18.4778,2.9144
+9010549,2,Maxis Business SME Fibre & POS,070003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,2223.62,198397,0,,18.4778,2.9144
+9010550,2,Maxis Business SME Fibre & POS,070003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,470.96,44661,0,,18.4778,2.9144
+9010551,2,Maxis Business SME Fibre & POS,070004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1151.12,107166,1,Busy Malaysian cafe owner processing cashless QR payments on a Maxis Business cloud POS terminal backed by automatic 4G failover.,18.4877,2.9151
+9010552,2,Maxis Business SME Fibre & POS,070004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,854.01,78152,0,,18.4877,2.9151
+9010553,2,Maxis Business SME Fibre & POS,070004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,255.33,24483,0,,18.4877,2.9151
+9010554,2,Maxis Business SME Fibre & POS,070005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,755.27,72396,1,SME retail team managing inventory and online orders with Maxis Business Fibre and SME digital grant support.,18.8124,2.725
+9010555,2,Maxis Business SME Fibre & POS,070005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,176.45,15316,0,,18.8124,2.725
+9010556,2,Maxis Business SME Fibre & POS,070005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,35.99,3016,0,,18.8124,2.725
+9010557,2,Maxis Business SME Fibre & POS,070006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1817.04,167338,1,Busy Malaysian cafe owner processing cashless QR payments on a Maxis Business cloud POS terminal backed by automatic 4G failover.,18.4579,2.8953
+9010558,2,Maxis Business SME Fibre & POS,070006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1099.9,99019,0,,18.4579,2.8953
+9010559,2,Maxis Business SME Fibre & POS,070006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,605.68,57401,0,,18.4579,2.8953
+9010560,2,Maxis Business SME Fibre & POS,070007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,137.47,13021,1,SME retail team managing inventory and online orders with Maxis Business Fibre and SME digital grant support.,18.4793,2.8958
+9010561,2,Maxis Business SME Fibre & POS,070007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,84.42,7590,0,,18.4793,2.8958
+9010562,2,Maxis Business SME Fibre & POS,070007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,70.3,6205,0,,18.4793,2.8958
+9010563,2,Maxis Business SME Fibre & POS,070008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1416.94,130071,1,Busy Malaysian cafe owner processing cashless QR payments on a Maxis Business cloud POS terminal backed by automatic 4G failover.,18.0081,2.867
+9010564,2,Maxis Business SME Fibre & POS,070008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,16.86,1612,0,,18.0081,2.867
+9010565,2,Maxis Business SME Fibre & POS,070009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1017.78,92810,1,SME retail team managing inventory and online orders with Maxis Business Fibre and SME digital grant support.,18.4763,2.8822
+9010566,2,Maxis Business SME Fibre & POS,070009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,327.09,30350,0,,18.4763,2.8822
+9010567,2,Maxis Business SME Fibre & POS,07000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,3651.81,346465,1,Busy Malaysian cafe owner processing cashless QR payments on a Maxis Business cloud POS terminal backed by automatic 4G failover.,18.4908,2.901
+9010568,2,Maxis Business SME Fibre & POS,07000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,2703.94,249776,0,,18.4908,2.901
+9010569,2,Maxis Business SME Fibre & POS,07000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,3226.5,297381,1,SME retail team managing inventory and online orders with Maxis Business Fibre and SME digital grant support.,18.5905,2.433
+9010570,2,Maxis Business SME Fibre & POS,07000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2099.6,186914,0,,18.5905,2.433
+9010571,2,Maxis Business SME Fibre & POS,07000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,136.63,11366,1,Busy Malaysian cafe owner processing cashless QR payments on a Maxis Business cloud POS terminal backed by automatic 4G failover.,18.4728,2.9137
+9010572,2,Maxis Business SME Fibre & POS,07000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,97.1,8936,0,,18.4728,2.9137
+9010573,2,Maxis Business SME Fibre & POS,07000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,3397.82,301924,1,SME retail team managing inventory and online orders with Maxis Business Fibre and SME digital grant support.,18.4767,2.8981
+9010574,2,Maxis Business SME Fibre & POS,07000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,864.4,78681,0,,18.4767,2.8981
+9010575,2,Maxis Business SME Fibre & POS,07000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,663.34,57546,1,Busy Malaysian cafe owner processing cashless QR payments on a Maxis Business cloud POS terminal backed by automatic 4G failover.,18.9645,2.9524
+9010576,2,Maxis Business SME Fibre & POS,07000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,291.12,25682,0,,18.9645,2.9524
+9010577,2,Maxis Business SME Fibre & POS,07000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1805.94,160956,1,SME retail team managing inventory and online orders with Maxis Business Fibre and SME digital grant support.,18.4694,2.9083
+9010578,2,Maxis Business SME Fibre & POS,07000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,119.47,10986,0,,18.4694,2.9083
+9010579,2,Maxis Business SME Fibre & POS,070010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1171.37,96617,1,Busy Malaysian cafe owner processing cashless QR payments on a Maxis Business cloud POS terminal backed by automatic 4G failover.,18.4858,2.9097
+9010580,2,Maxis Business SME Fibre & POS,070010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,264.88,22289,0,,18.4858,2.9097
+9010581,2,Maxis Business SME Fibre & POS,070011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1091.0,102596,1,SME retail team managing inventory and online orders with Maxis Business Fibre and SME digital grant support.,18.1863,3.3075
+9010582,2,Maxis Business SME Fibre & POS,070011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,527.16,44548,0,,18.1863,3.3075
+9010583,2,Maxis Business SME Fibre & POS,070012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1293.26,123528,1,Busy Malaysian cafe owner processing cashless QR payments on a Maxis Business cloud POS terminal backed by automatic 4G failover.,18.4649,2.9077
+9010584,2,Maxis Business SME Fibre & POS,070012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,607.35,56592,0,,18.4649,2.9077
+9010585,2,Maxis Business SME Fibre & POS,070013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1070.27,94445,1,SME retail team managing inventory and online orders with Maxis Business Fibre and SME digital grant support.,18.4847,2.8877
+9010586,2,Maxis Business SME Fibre & POS,070013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,550.89,51528,0,,18.4847,2.8877
+9010587,2,Maxis Business SME Fibre & POS,070014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2070.98,188331,1,Busy Malaysian cafe owner processing cashless QR payments on a Maxis Business cloud POS terminal backed by automatic 4G failover.,18.1384,2.5426
+9010588,2,Maxis Business SME Fibre & POS,070014a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,696.38,60888,0,,18.1384,2.5426
+9010589,2,Maxis Business SME Fibre & POS,070015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,860.92,72489,1,SME retail team managing inventory and online orders with Maxis Business Fibre and SME digital grant support.,18.46,2.891
+9010590,2,Maxis Business SME Fibre & POS,070015a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,349.92,33542,0,,18.46,2.891
+9010591,8,Hotlink App Daily Rewards & Cashback,080000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1844.18,268443,1,Close-up smartphone screen tapping 'Redeem Voucher' in the Hotlink Rewards app at a local boba and cinema counter.,19.1259,24.0207
+9010592,8,Hotlink App Daily Rewards & Cashback,080000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,602.75,83521,0,,19.1259,24.0207
+9010593,8,Hotlink App Daily Rewards & Cashback,080000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,487.82,71929,0,,19.1259,24.0207
+9010594,8,Hotlink App Daily Rewards & Cashback,080001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,786.13,124697,1,Friends celebrating concert ticket wins and dining discounts unlocked exclusively through Maxis app loyalty rewards.,19.1149,23.9987
+9010595,8,Hotlink App Daily Rewards & Cashback,080001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,566.6,88505,0,,19.1149,23.9987
+9010596,8,Hotlink App Daily Rewards & Cashback,080001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,88.66,14003,0,,19.1149,23.9987
+9010597,8,Hotlink App Daily Rewards & Cashback,080002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1119.75,166856,1,Close-up smartphone screen tapping 'Redeem Voucher' in the Hotlink Rewards app at a local boba and cinema counter.,19.2312,23.6835
+9010598,8,Hotlink App Daily Rewards & Cashback,080002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,454.2,69689,0,,19.2312,23.6835
+9010599,8,Hotlink App Daily Rewards & Cashback,080002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,396.69,58071,0,,19.2312,23.6835
+9010600,8,Hotlink App Daily Rewards & Cashback,080003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,935.14,132872,1,Friends celebrating concert ticket wins and dining discounts unlocked exclusively through Maxis app loyalty rewards.,19.0965,23.9842
+9010601,8,Hotlink App Daily Rewards & Cashback,080003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,203.35,28988,0,,19.0965,23.9842
+9010602,8,Hotlink App Daily Rewards & Cashback,080003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,137.51,20539,0,,19.0965,23.9842
+9010603,8,Hotlink App Daily Rewards & Cashback,080004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1172.77,164038,1,Close-up smartphone screen tapping 'Redeem Voucher' in the Hotlink Rewards app at a local boba and cinema counter.,19.1237,23.9971
+9010604,8,Hotlink App Daily Rewards & Cashback,080004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1170.06,178384,0,,19.1237,23.9971
+9010605,8,Hotlink App Daily Rewards & Cashback,080004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,821.14,127852,0,,19.1237,23.9971
+9010606,8,Hotlink App Daily Rewards & Cashback,080005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1082.6,165695,1,Friends celebrating concert ticket wins and dining discounts unlocked exclusively through Maxis app loyalty rewards.,19.6865,24.2673
+9010607,8,Hotlink App Daily Rewards & Cashback,080005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,957.79,139232,0,,19.6865,24.2673
+9010608,8,Hotlink App Daily Rewards & Cashback,080005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,469.64,65973,0,,19.6865,24.2673
+9010609,8,Hotlink App Daily Rewards & Cashback,080006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,963.77,134729,1,Close-up smartphone screen tapping 'Redeem Voucher' in the Hotlink Rewards app at a local boba and cinema counter.,19.1063,23.9874
+9010610,8,Hotlink App Daily Rewards & Cashback,080006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,880.96,135169,0,,19.1063,23.9874
+9010611,8,Hotlink App Daily Rewards & Cashback,080007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,611.16,94778,1,Friends celebrating concert ticket wins and dining discounts unlocked exclusively through Maxis app loyalty rewards.,19.1066,23.9923
+9010612,8,Hotlink App Daily Rewards & Cashback,080007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,419.97,62322,0,,19.1066,23.9923
+9010613,8,Hotlink App Daily Rewards & Cashback,080008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2552.81,370949,1,Close-up smartphone screen tapping 'Redeem Voucher' in the Hotlink Rewards app at a local boba and cinema counter.,18.7787,24.2452
+9010614,8,Hotlink App Daily Rewards & Cashback,080008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1332.03,197431,0,,18.7787,24.2452
+9010615,8,Hotlink App Daily Rewards & Cashback,080009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,4066.61,572999,1,Friends celebrating concert ticket wins and dining discounts unlocked exclusively through Maxis app loyalty rewards.,19.1123,23.9971
+9010616,8,Hotlink App Daily Rewards & Cashback,080009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,447.67,60664,0,,19.1123,23.9971
+9010617,8,Hotlink App Daily Rewards & Cashback,08000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,243.4,34396,1,Close-up smartphone screen tapping 'Redeem Voucher' in the Hotlink Rewards app at a local boba and cinema counter.,19.1023,24.0067
+9010618,8,Hotlink App Daily Rewards & Cashback,08000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,197.12,28956,0,,19.1023,24.0067
+9010619,8,Hotlink App Daily Rewards & Cashback,08000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1543.25,244986,1,Friends celebrating concert ticket wins and dining discounts unlocked exclusively through Maxis app loyalty rewards.,18.7615,23.7747
+9010620,8,Hotlink App Daily Rewards & Cashback,08000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,402.22,55292,0,,18.7615,23.7747
+9010621,8,Hotlink App Daily Rewards & Cashback,08000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,560.56,81030,1,Close-up smartphone screen tapping 'Redeem Voucher' in the Hotlink Rewards app at a local boba and cinema counter.,19.1281,24.0015
+9010622,8,Hotlink App Daily Rewards & Cashback,08000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,430.86,59717,0,,19.1281,24.0015
+9010623,8,Hotlink App Daily Rewards & Cashback,08000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1235.93,167515,1,Friends celebrating concert ticket wins and dining discounts unlocked exclusively through Maxis app loyalty rewards.,19.1008,23.9735
+9010624,8,Hotlink App Daily Rewards & Cashback,08000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,666.25,91113,0,,19.1008,23.9735
+9010625,8,Hotlink App Daily Rewards & Cashback,08000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,139.87,19351,1,Close-up smartphone screen tapping 'Redeem Voucher' in the Hotlink Rewards app at a local boba and cinema counter.,19.172,24.3642
+9010626,8,Hotlink App Daily Rewards & Cashback,08000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,110.66,15086,0,,19.172,24.3642
+9010627,8,Hotlink App Daily Rewards & Cashback,08000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,2594.87,371833,1,Friends celebrating concert ticket wins and dining discounts unlocked exclusively through Maxis app loyalty rewards.,19.0941,23.9865
+9010628,8,Hotlink App Daily Rewards & Cashback,08000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,896.07,133370,0,,19.0941,23.9865
+9010629,8,Hotlink App Daily Rewards & Cashback,080010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,525.84,81854,1,Close-up smartphone screen tapping 'Redeem Voucher' in the Hotlink Rewards app at a local boba and cinema counter.,19.1409,24.0075
+9010630,8,Hotlink App Daily Rewards & Cashback,080010a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,348.84,49240,0,,19.1409,24.0075
+9010631,8,Hotlink App Daily Rewards & Cashback,080011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1188.83,177903,1,Friends celebrating concert ticket wins and dining discounts unlocked exclusively through Maxis app loyalty rewards.,19.1964,23.6814
+9010632,8,Hotlink App Daily Rewards & Cashback,080011a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1171.48,181894,0,,19.1964,23.6814
+9010633,8,Hotlink App Daily Rewards & Cashback,080012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,246.82,38894,1,Close-up smartphone screen tapping 'Redeem Voucher' in the Hotlink Rewards app at a local boba and cinema counter.,19.1317,24.0133
+9010634,8,Hotlink App Daily Rewards & Cashback,080012a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,105.16,15847,0,,19.1317,24.0133
+9010635,8,Hotlink App Daily Rewards & Cashback,080013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,572.92,88973,1,Friends celebrating concert ticket wins and dining discounts unlocked exclusively through Maxis app loyalty rewards.,19.0803,24.0011
+9010636,8,Hotlink App Daily Rewards & Cashback,080013a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,447.3,67962,0,,19.0803,24.0011
+9010637,1,Home Solar Rooftop Energy Subscription,090000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,903.8,80994,1,Aerial shot of a Malaysian landed terrace house with sleek rooftop solar panels and a live Maxis Home Solar savings dashboard.,5.5579,39.445
+9010638,1,Home Solar Rooftop Energy Subscription,090000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,883.45,79348,0,,5.5579,39.445
+9010639,1,Home Solar Rooftop Energy Subscription,090000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,657.1,63205,0,,5.5579,39.445
+9010640,1,Home Solar Rooftop Energy Subscription,090001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1291.46,121924,1,Homeowner checking real-time solar energy generation and TNB bill savings on the Maxis Green Energy mobile app.,5.5271,39.448
+9010641,1,Home Solar Rooftop Energy Subscription,090001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1174.2,110526,0,,5.5271,39.448
+9010642,1,Home Solar Rooftop Energy Subscription,090001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,1123.48,99450,0,,5.5271,39.448
+9010643,1,Home Solar Rooftop Energy Subscription,090002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,2338.83,234664,1,Aerial shot of a Malaysian landed terrace house with sleek rooftop solar panels and a live Maxis Home Solar savings dashboard.,6.2092,39.1114
+9010644,1,Home Solar Rooftop Energy Subscription,090002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,347.81,34168,0,,6.2092,39.1114
+9010645,1,Home Solar Rooftop Energy Subscription,090002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,71.95,7183,0,,6.2092,39.1114
+9010646,1,Home Solar Rooftop Energy Subscription,090003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,138.56,12181,1,Homeowner checking real-time solar energy generation and TNB bill savings on the Maxis Green Energy mobile app.,5.5164,39.4916
+9010647,1,Home Solar Rooftop Energy Subscription,090003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,122.95,12362,0,,5.5164,39.4916
+9010648,1,Home Solar Rooftop Energy Subscription,090003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,25.28,2301,0,,5.5164,39.4916
+9010649,1,Home Solar Rooftop Energy Subscription,090004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1442.86,145896,1,Aerial shot of a Malaysian landed terrace house with sleek rooftop solar panels and a live Maxis Home Solar savings dashboard.,5.4975,39.4502
+9010650,1,Home Solar Rooftop Energy Subscription,090004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,378.39,36883,0,,5.4975,39.4502
+9010651,1,Home Solar Rooftop Energy Subscription,090004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,378.32,35440,0,,5.4975,39.4502
+9010652,1,Home Solar Rooftop Energy Subscription,090005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,426.96,43320,1,Homeowner checking real-time solar energy generation and TNB bill savings on the Maxis Green Energy mobile app.,5.7025,38.703
+9010653,1,Home Solar Rooftop Energy Subscription,090005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,409.93,38041,0,,5.7025,38.703
+9010654,1,Home Solar Rooftop Energy Subscription,090005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,162.51,14271,0,,5.7025,38.703
+9010655,1,Home Solar Rooftop Energy Subscription,090006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,2476.44,252902,1,Aerial shot of a Malaysian landed terrace house with sleek rooftop solar panels and a live Maxis Home Solar savings dashboard.,5.5203,39.4574
+9010656,1,Home Solar Rooftop Energy Subscription,090006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1348.73,132813,0,,5.5203,39.4574
+9010657,1,Home Solar Rooftop Energy Subscription,090007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,805.15,71250,1,Homeowner checking real-time solar energy generation and TNB bill savings on the Maxis Green Energy mobile app.,5.5114,39.4537
+9010658,1,Home Solar Rooftop Energy Subscription,090007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,585.92,54873,0,,5.5114,39.4537
+9010659,1,Home Solar Rooftop Energy Subscription,090008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,134.33,13510,1,Aerial shot of a Malaysian landed terrace house with sleek rooftop solar panels and a live Maxis Home Solar savings dashboard.,6.2847,39.7767
+9010660,1,Home Solar Rooftop Energy Subscription,090008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,122.21,11747,0,,6.2847,39.7767
+9010661,1,Home Solar Rooftop Energy Subscription,090009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1389.03,124098,1,Homeowner checking real-time solar energy generation and TNB bill savings on the Maxis Green Energy mobile app.,5.5291,39.4483
+9010662,1,Home Solar Rooftop Energy Subscription,090009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,916.87,89627,0,,5.5291,39.4483
+9010663,1,Home Solar Rooftop Energy Subscription,09000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,2286.56,212242,1,Aerial shot of a Malaysian landed terrace house with sleek rooftop solar panels and a live Maxis Home Solar savings dashboard.,5.5069,39.4477
+9010664,1,Home Solar Rooftop Energy Subscription,09000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,664.63,59454,0,,5.5069,39.4477
+9010665,1,Home Solar Rooftop Energy Subscription,09000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,639.46,59592,1,Homeowner checking real-time solar energy generation and TNB bill savings on the Maxis Green Energy mobile app.,5.3515,38.5547
+9010666,1,Home Solar Rooftop Energy Subscription,09000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,268.08,26068,0,,5.3515,38.5547
+9010667,1,Home Solar Rooftop Energy Subscription,09000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1185.5,107091,1,Aerial shot of a Malaysian landed terrace house with sleek rooftop solar panels and a live Maxis Home Solar savings dashboard.,5.5378,39.43
+9010668,1,Home Solar Rooftop Energy Subscription,09000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,697.36,66039,0,,5.5378,39.43
+9010669,1,Home Solar Rooftop Energy Subscription,09000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,743.9,65249,1,Homeowner checking real-time solar energy generation and TNB bill savings on the Maxis Green Energy mobile app.,5.5299,39.3852
+9010670,1,Home Solar Rooftop Energy Subscription,09000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,644.28,58790,0,,5.5299,39.3852
+9010671,1,Home Solar Rooftop Energy Subscription,09000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,756.57,68733,1,Aerial shot of a Malaysian landed terrace house with sleek rooftop solar panels and a live Maxis Home Solar savings dashboard.,6.075,40.133
+9010672,1,Home Solar Rooftop Energy Subscription,09000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,636.43,60735,0,,6.075,40.133
+9010673,1,Home Solar Rooftop Energy Subscription,09000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1789.02,162233,1,Homeowner checking real-time solar energy generation and TNB bill savings on the Maxis Green Energy mobile app.,5.5096,39.4239
+9010674,1,Home Solar Rooftop Energy Subscription,09000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1131.67,106943,0,,5.5096,39.4239
+9010675,0,Experiential Concept Store Reopenings,0a0000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1694.13,220123,1,Walkthrough of the newly reopened Maxis Concept Store at Suria KLCC and Sunway Pyramid featuring interactive smart-home zones.,4.7895,39.8286
+9010676,0,Experiential Concept Store Reopenings,0a0000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1355.83,162537,0,,4.7895,39.8286
+9010677,0,Experiential Concept Store Reopenings,0a0000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,212.97,25359,0,,4.7895,39.8286
+9010678,0,Experiential Concept Store Reopenings,0a0001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,357.05,47558,1,Smiling customers receiving launch mystery gifts at a paperless Maxis retail store grand reopening.,4.8101,39.8107
+9010679,0,Experiential Concept Store Reopenings,0a0001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,260.87,35648,0,,4.8101,39.8107
+9010680,0,Experiential Concept Store Reopenings,0a0001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,26.11,3401,0,,4.8101,39.8107
+9010681,0,Experiential Concept Store Reopenings,0a0002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1166.0,149158,1,Walkthrough of the newly reopened Maxis Concept Store at Suria KLCC and Sunway Pyramid featuring interactive smart-home zones.,4.0375,40.1586
+9010682,0,Experiential Concept Store Reopenings,0a0002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,899.18,114474,0,,4.0375,40.1586
+9010683,0,Experiential Concept Store Reopenings,0a0002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,237.42,31786,0,,4.0375,40.1586
+9010684,0,Experiential Concept Store Reopenings,0a0003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,39.19,5106,1,Smiling customers receiving launch mystery gifts at a paperless Maxis retail store grand reopening.,4.8302,39.8182
+9010685,0,Experiential Concept Store Reopenings,0a0003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,19.12,2428,0,,4.8302,39.8182
+9010686,0,Experiential Concept Store Reopenings,0a0003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,4.61,620,0,,4.8302,39.8182
+9010687,0,Experiential Concept Store Reopenings,0a0004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1295.1,166731,1,Walkthrough of the newly reopened Maxis Concept Store at Suria KLCC and Sunway Pyramid featuring interactive smart-home zones.,4.7936,39.8341
+9010688,0,Experiential Concept Store Reopenings,0a0004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,216.52,27901,0,,4.7936,39.8341
+9010689,0,Experiential Concept Store Reopenings,0a0005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,935.72,116554,1,Smiling customers receiving launch mystery gifts at a paperless Maxis retail store grand reopening.,4.5355,40.5826
+9010690,0,Experiential Concept Store Reopenings,0a0005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,334.4,41173,0,,4.5355,40.5826
+9010691,0,Experiential Concept Store Reopenings,0a0006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,2507.68,339798,1,Walkthrough of the newly reopened Maxis Concept Store at Suria KLCC and Sunway Pyramid featuring interactive smart-home zones.,4.8484,39.8083
+9010692,0,Experiential Concept Store Reopenings,0a0006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1628.05,214537,0,,4.8484,39.8083
+9010693,0,Experiential Concept Store Reopenings,0a0007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,2006.66,249080,1,Smiling customers receiving launch mystery gifts at a paperless Maxis retail store grand reopening.,4.8318,39.8394
+9010694,0,Experiential Concept Store Reopenings,0a0007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1178.69,148710,0,,4.8318,39.8394
+9010695,0,Experiential Concept Store Reopenings,0a0008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1152.93,138453,1,Walkthrough of the newly reopened Maxis Concept Store at Suria KLCC and Sunway Pyramid featuring interactive smart-home zones.,5.0697,40.6641
+9010696,0,Experiential Concept Store Reopenings,0a0008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,689.66,86855,0,,5.0697,40.6641
+9010697,0,Experiential Concept Store Reopenings,0a0009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1230.13,167977,1,Smiling customers receiving launch mystery gifts at a paperless Maxis retail store grand reopening.,4.8356,39.7859
+9010698,0,Experiential Concept Store Reopenings,0a0009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1144.07,146683,0,,4.8356,39.7859
+9010699,0,Experiential Concept Store Reopenings,0a000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,451.31,57722,1,Walkthrough of the newly reopened Maxis Concept Store at Suria KLCC and Sunway Pyramid featuring interactive smart-home zones.,4.7887,39.8626
+9010700,0,Experiential Concept Store Reopenings,0a000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,310.41,38484,0,,4.7887,39.8626
+9010701,0,Experiential Concept Store Reopenings,0a000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,81.73,11043,1,Smiling customers receiving launch mystery gifts at a paperless Maxis retail store grand reopening.,4.1737,39.0945
+9010702,0,Experiential Concept Store Reopenings,0a000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,64.34,7576,0,,4.1737,39.0945
+9010703,0,Experiential Concept Store Reopenings,0a000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,208.93,28201,1,Walkthrough of the newly reopened Maxis Concept Store at Suria KLCC and Sunway Pyramid featuring interactive smart-home zones.,4.8486,39.8192
+9010704,0,Experiential Concept Store Reopenings,0a000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,122.81,15331,0,,4.8486,39.8192
+9010705,0,Experiential Concept Store Reopenings,0a000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,1549.52,200203,1,Smiling customers receiving launch mystery gifts at a paperless Maxis retail store grand reopening.,4.8175,39.8271
+9010706,0,Experiential Concept Store Reopenings,0a000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,683.18,80773,0,,4.8175,39.8271
+9010707,0,Experiential Concept Store Reopenings,0a000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,759.5,103335,1,Walkthrough of the newly reopened Maxis Concept Store at Suria KLCC and Sunway Pyramid featuring interactive smart-home zones.,4.1316,39.5436
+9010708,0,Experiential Concept Store Reopenings,0a000ea9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,453.96,57556,0,,4.1316,39.5436
+9010709,0,Experiential Concept Store Reopenings,0a000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,822.21,105041,1,Smiling customers receiving launch mystery gifts at a paperless Maxis retail store grand reopening.,4.809,39.8
+9010710,0,Experiential Concept Store Reopenings,0a000fa9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,299.98,38481,0,,4.809,39.8
+9010711,10,Instant eSIM Switch & Port-In Rebate,0b0000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,1263.33,157627,1,Step-by-step 10-second tutorial scanning a QR code for instant Maxis eSIM activation while keeping an existing mobile number.,2.3242,15.4638
+9010712,10,Instant eSIM Switch & Port-In Rebate,0b0000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,724.87,90759,0,,2.3242,15.4638
+9010713,10,Instant eSIM Switch & Port-In Rebate,0b0000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,691.02,94818,0,,2.3242,15.4638
+9010714,10,Instant eSIM Switch & Port-In Rebate,0b0001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,1292.78,173047,1,Clean graphic callout offering RM240 total bill rebate when switching to Maxis 5G online with digital eKYC.,2.3443,15.5002
+9010715,10,Instant eSIM Switch & Port-In Rebate,0b0001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,594.02,76331,0,,2.3443,15.5002
+9010716,10,Instant eSIM Switch & Port-In Rebate,0b0001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,304.72,40460,0,,2.3443,15.5002
+9010717,10,Instant eSIM Switch & Port-In Rebate,0b0002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,81.73,10499,1,Step-by-step 10-second tutorial scanning a QR code for instant Maxis eSIM activation while keeping an existing mobile number.,2.8808,15.4605
+9010718,10,Instant eSIM Switch & Port-In Rebate,0b0002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,66.03,8658,0,,2.8808,15.4605
+9010719,10,Instant eSIM Switch & Port-In Rebate,0b0002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,48.0,6970,0,,2.8808,15.4605
+9010720,10,Instant eSIM Switch & Port-In Rebate,0b0003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,695.23,95829,1,Clean graphic callout offering RM240 total bill rebate when switching to Maxis 5G online with digital eKYC.,2.3413,15.483
+9010721,10,Instant eSIM Switch & Port-In Rebate,0b0003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,422.61,53494,0,,2.3413,15.483
+9010722,10,Instant eSIM Switch & Port-In Rebate,0b0003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,225.89,31325,0,,2.3413,15.483
+9010723,10,Instant eSIM Switch & Port-In Rebate,0b0004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,257.92,33001,1,Step-by-step 10-second tutorial scanning a QR code for instant Maxis eSIM activation while keeping an existing mobile number.,2.3712,15.49
+9010724,10,Instant eSIM Switch & Port-In Rebate,0b0004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,149.13,21735,0,,2.3712,15.49
+9010725,10,Instant eSIM Switch & Port-In Rebate,0b0004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,85.9,12244,0,,2.3712,15.49
+9010726,10,Instant eSIM Switch & Port-In Rebate,0b0005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,411.13,56787,1,Clean graphic callout offering RM240 total bill rebate when switching to Maxis 5G online with digital eKYC.,3.0814,15.6758
+9010727,10,Instant eSIM Switch & Port-In Rebate,0b0005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,291.62,38239,0,,3.0814,15.6758
+9010728,10,Instant eSIM Switch & Port-In Rebate,0b0005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,86.01,12525,0,,3.0814,15.6758
+9010729,10,Instant eSIM Switch & Port-In Rebate,0b0006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,4138.26,526967,1,Step-by-step 10-second tutorial scanning a QR code for instant Maxis eSIM activation while keeping an existing mobile number.,2.3382,15.506
+9010730,10,Instant eSIM Switch & Port-In Rebate,0b0006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,1901.53,241078,0,,2.3382,15.506
+9010731,10,Instant eSIM Switch & Port-In Rebate,0b0007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,507.99,72411,1,Clean graphic callout offering RM240 total bill rebate when switching to Maxis 5G online with digital eKYC.,2.3319,15.5257
+9010732,10,Instant eSIM Switch & Port-In Rebate,0b0007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,227.05,32692,0,,2.3319,15.5257
+9010733,10,Instant eSIM Switch & Port-In Rebate,0b0008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1682.78,230030,1,Step-by-step 10-second tutorial scanning a QR code for instant Maxis eSIM activation while keeping an existing mobile number.,2.5044,14.9198
+9010734,10,Instant eSIM Switch & Port-In Rebate,0b0008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,295.72,39623,0,,2.5044,14.9198
+9010735,10,Instant eSIM Switch & Port-In Rebate,0b0009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,51.61,7503,1,Clean graphic callout offering RM240 total bill rebate when switching to Maxis 5G online with digital eKYC.,2.353,15.4856
+9010736,10,Instant eSIM Switch & Port-In Rebate,0b0009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,15.3,2200,0,,2.353,15.4856
+9010737,10,Instant eSIM Switch & Port-In Rebate,0b000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,411.74,58011,1,Step-by-step 10-second tutorial scanning a QR code for instant Maxis eSIM activation while keeping an existing mobile number.,2.3439,15.4826
+9010738,10,Instant eSIM Switch & Port-In Rebate,0b000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,45.03,6163,0,,2.3439,15.4826
+9010739,10,Instant eSIM Switch & Port-In Rebate,0b000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1301.31,162913,1,Clean graphic callout offering RM240 total bill rebate when switching to Maxis 5G online with digital eKYC.,1.8889,14.9267
+9010740,10,Instant eSIM Switch & Port-In Rebate,0b000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1177.91,156774,0,,1.8889,14.9267
+9010741,10,Instant eSIM Switch & Port-In Rebate,0b000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,514.04,67162,1,Step-by-step 10-second tutorial scanning a QR code for instant Maxis eSIM activation while keeping an existing mobile number.,2.3656,15.5096
+9010742,10,Instant eSIM Switch & Port-In Rebate,0b000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,101.62,14812,0,,2.3656,15.5096
+9010743,10,Instant eSIM Switch & Port-In Rebate,0b000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1054.48,145080,1,Clean graphic callout offering RM240 total bill rebate when switching to Maxis 5G online with digital eKYC.,2.3171,15.4899
+9010744,10,Instant eSIM Switch & Port-In Rebate,0b000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,681.68,92063,0,,2.3171,15.4899
+9010745,9,AI Scam Shield & Family Cyber Guard,0c0000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,311.73,36912,1,Visual alert animation showing a fraudulent SMS link blocked automatically at the network level by Maxis Cyber Guard.,2.0782,15.9467
+9010746,9,AI Scam Shield & Family Cyber Guard,0c0000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,295.56,36765,0,,2.0782,15.9467
+9010747,9,AI Scam Shield & Family Cyber Guard,0c0000a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,279.39,36893,0,,2.0782,15.9467
+9010748,9,AI Scam Shield & Family Cyber Guard,0c0001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,355.28,44736,1,Elderly parent protected from a suspicious unknown caller ID by real-time Maxis AI Scam Shield.,2.0366,15.9297
+9010749,9,AI Scam Shield & Family Cyber Guard,0c0001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,305.57,40485,0,,2.0366,15.9297
+9010750,9,AI Scam Shield & Family Cyber Guard,0c0001a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,257.93,33630,0,,2.0366,15.9297
+9010751,9,AI Scam Shield & Family Cyber Guard,0c0002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,1645.83,213650,1,Visual alert animation showing a fraudulent SMS link blocked automatically at the network level by Maxis Cyber Guard.,2.6429,16.4843
+9010752,9,AI Scam Shield & Family Cyber Guard,0c0002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,655.11,86047,0,,2.6429,16.4843
+9010753,9,AI Scam Shield & Family Cyber Guard,0c0002a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,561.44,68276,0,,2.6429,16.4843
+9010754,9,AI Scam Shield & Family Cyber Guard,0c0003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,202.2,25335,1,Elderly parent protected from a suspicious unknown caller ID by real-time Maxis AI Scam Shield.,2.1169,15.9385
+9010755,9,AI Scam Shield & Family Cyber Guard,0c0003a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,175.84,23141,0,,2.1169,15.9385
+9010756,9,AI Scam Shield & Family Cyber Guard,0c0004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,737.52,88749,1,Visual alert animation showing a fraudulent SMS link blocked automatically at the network level by Maxis Cyber Guard.,2.0643,15.974
+9010757,9,AI Scam Shield & Family Cyber Guard,0c0004a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,715.35,92781,0,,2.0643,15.974
+9010758,9,AI Scam Shield & Family Cyber Guard,0c0005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,308.44,37543,1,Elderly parent protected from a suspicious unknown caller ID by real-time Maxis AI Scam Shield.,1.3901,15.7315
+9010759,9,AI Scam Shield & Family Cyber Guard,0c0005a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,132.16,16879,0,,1.3901,15.7315
+9010760,9,AI Scam Shield & Family Cyber Guard,0c0006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,376.6,43614,1,Visual alert animation showing a fraudulent SMS link blocked automatically at the network level by Maxis Cyber Guard.,2.0636,15.9671
+9010761,9,AI Scam Shield & Family Cyber Guard,0c0006a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,232.8,30952,0,,2.0636,15.9671
+9010762,9,AI Scam Shield & Family Cyber Guard,0c0007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,1333.87,162905,1,Elderly parent protected from a suspicious unknown caller ID by real-time Maxis AI Scam Shield.,2.0557,15.9731
+9010763,9,AI Scam Shield & Family Cyber Guard,0c0007a9f0c3e5b1,video,9:16,Social Video / Instagram Reels,10.00,613.41,77351,0,,2.0557,15.9731
+9010764,9,AI Scam Shield & Family Cyber Guard,0c0008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,428.05,50090,1,Visual alert animation showing a fraudulent SMS link blocked automatically at the network level by Maxis Cyber Guard.,2.0144,16.5804
+9010765,9,AI Scam Shield & Family Cyber Guard,0c0008a9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,259.52,34839,0,,2.0144,16.5804
+9010766,9,AI Scam Shield & Family Cyber Guard,0c0009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,1502.06,185039,1,Elderly parent protected from a suspicious unknown caller ID by real-time Maxis AI Scam Shield.,2.0474,15.9692
+9010767,9,AI Scam Shield & Family Cyber Guard,0c0009a9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,30.00,492.0,63447,0,,2.0474,15.9692
+9010768,9,AI Scam Shield & Family Cyber Guard,0c000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,1282.78,168964,1,Visual alert animation showing a fraudulent SMS link blocked automatically at the network level by Maxis Cyber Guard.,2.0678,15.9929
+9010769,9,AI Scam Shield & Family Cyber Guard,0c000aa9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,736.72,91807,0,,2.0678,15.9929
+9010770,9,AI Scam Shield & Family Cyber Guard,0c000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,744.28,99256,1,Elderly parent protected from a suspicious unknown caller ID by real-time Maxis AI Scam Shield.,1.4931,16.1295
+9010771,9,AI Scam Shield & Family Cyber Guard,0c000ba9f0c3e5b1,image,4:5,Social Display / Instagram Feed,,353.48,44255,0,,1.4931,16.1295
+9010772,9,AI Scam Shield & Family Cyber Guard,0c000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,10.00,912.19,122011,1,Visual alert animation showing a fraudulent SMS link blocked automatically at the network level by Maxis Cyber Guard.,2.0616,15.9453
+9010773,9,AI Scam Shield & Family Cyber Guard,0c000ca9f0c3e5b1,video,9:16,Social Video / TikTok In-Feed,15.00,334.16,39916,0,,2.0616,15.9453
+9010774,9,AI Scam Shield & Family Cyber Guard,0c000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,15.00,205.72,25452,1,Elderly parent protected from a suspicious unknown caller ID by real-time Maxis AI Scam Shield.,2.0672,15.9432
+9010775,9,AI Scam Shield & Family Cyber Guard,0c000da9f0c3e5b1,video,9:16,Social Video / Instagram Reels,30.00,53.02,6351,0,,2.0672,15.9432
+9010776,6,Hotlink Prepaid 5G Youth Gaming Pass,ff9000deadbeef00,image,1:1,Social Display / Facebook Feed,,105.0,11550,1,Static typographical notice announcing scheduled late-night billing system maintenance window.,-11.6861,22.4407
+9010777,6,Hotlink Prepaid 5G Youth Gaming Pass,ff9000deadbeef00,image,1:1,Social Display / Facebook Feed,,105.0,11550,0,,-11.6861,22.4407
+9010778,6,Hotlink Prepaid 5G Youth Gaming Pass,ff9100deadbeef01,image,1:1,Social Display / Facebook Feed,,145.0,15950,1,Recruitment flyer inviting university students to visit a campus career fair booth.,-12.2808,20.1284
+9010779,8,Hotlink App Daily Rewards & Cashback,ff9200deadbeef02,image,1:1,Social Display / Facebook Feed,,130.0,14300,1,Documentary photo of community relief volunteers setting up emergency mobile charging stations.,20.6233,24.723
+9010780,-1,Unclustered / unrelated,ff9300deadbeef03,image,1:1,Social Display / Facebook Feed,,95.0,10450,1,Corporate governance notice announcing the date of the Annual General Meeting for shareholders.,32.2702,6.8962
