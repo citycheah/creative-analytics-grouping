@@ -2,7 +2,7 @@
 
 import csv
 import os
-import tempfile
+
 import pytest
 
 from common import costs
@@ -39,7 +39,7 @@ def test_costs_record_and_summary(tmp_path):
 
     # Check that CSV file exists and has rows
     assert os.path.exists(test_ledger)
-    with open(test_ledger, "r", encoding="utf-8") as fh:
+    with open(test_ledger, encoding="utf-8") as fh:
         reader = list(csv.DictReader(fh))
         assert len(reader) == 2
         assert reader[0]["stage"] == "embedding"

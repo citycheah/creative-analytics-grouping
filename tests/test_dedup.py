@@ -1,6 +1,5 @@
 """Unit tests for aspect_bucket and perceptual hashing deduplication."""
 
-import pytest
 from PIL import Image, ImageDraw
 
 from common.vectors import compute_phash_hex, phash_distance

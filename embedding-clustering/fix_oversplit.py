@@ -16,8 +16,6 @@ Usage:
     python embedding-clustering/fix_oversplit.py
 """
 
-import collections
-import csv
 import json
 import os
 import sys
@@ -33,18 +31,15 @@ warnings.filterwarnings("ignore")
 
 import hdbscan
 import umap
-from sklearn.metrics import adjusted_rand_score, adjusted_mutual_info_score
 
-import ingestion.config as cfg
+from common.logging import get_logger
 from common.vectors import (
-    l2,
+    compute_centroids,
     load_combined_vectors,
     load_spend_by_asset,
-    score,
-    compute_centroids,
     merge_by_centroid,
+    score,
 )
-from common.logging import get_logger
 
 logger = get_logger("fix_oversplit", stage="clustering")
 
@@ -86,7 +81,7 @@ def family(pred, ids, targets):
 
 def main():
     labels_file = os.path.join(EVAL_DIR, "eval_labels.json")
-    with open(labels_file, "r", encoding="utf-8") as fh:
+    with open(labels_file, encoding="utf-8") as fh:
         truth = {str(k): str(v) for k, v in json.load(fh).items()}
     ids, X = load()
     spend, total = spend_map(ids)
@@ -104,7 +99,8 @@ def main():
 
     hdr = (f"{'method':<26}{'clus':>6}{'noise%':>8}{'sp%':>7}"
            f"{'ARI':>8}{'AMI':>8}{'max_cos':>9}")
-    print(hdr); print("-" * len(hdr))
+    print(hdr)
+    print("-" * len(hdr))
 
     def report(name, pred):
         n_cl = len(set(p for p in pred if p != -1))

@@ -13,9 +13,9 @@ Provides canonical implementations of:
 import collections
 import csv
 import os
-from typing import Dict, List, Optional, Tuple, Union
 
 import numpy as np
+from intel_core.media import compute_phash_hex, phash_distance  # noqa: F401
 from sklearn.metrics import adjusted_mutual_info_score, adjusted_rand_score
 
 import config as cfg
@@ -89,33 +89,7 @@ def reduce_manifold(
         return np.asarray(coords * 10.0 + 4.5, dtype=np.float64)
 
 
-def compute_phash_hex(pil_img) -> str:
-    """Computes a 64-bit DCT perceptual hash (pHash) of a PIL Image (with scipy.fftpack fallback)."""
-    try:
-        import imagehash
-        return str(imagehash.phash(pil_img))
-    except ImportError:
-        from scipy.fft import dct
-        img = pil_img.convert("L").resize((32, 32))
-        pixels = np.asarray(img, dtype=np.float64)
-        dct_rows = dct(pixels, axis=0, norm="ortho")
-        dct_low = dct(dct_rows, axis=1, norm="ortho")[:8, :8]
-        med = np.median(dct_low.flatten()[1:])
-        bits = (dct_low.flatten() > med).astype(int)
-        val = 0
-        for b in bits:
-            val = (val << 1) | int(b)
-        return f"{val:016x}"
-
-
-def phash_distance(hash_a: str, hash_b: str) -> int:
-    """Computes Hamming distance between two 16-char hex perceptual hashes."""
-    val_a = int(str(hash_a), 16)
-    val_b = int(str(hash_b), 16)
-    return bin(val_a ^ val_b).count("1")
-
-
-def cluster_hdbscan(mat: np.ndarray, min_cluster_size: int, min_samples: Optional[int] = None) -> np.ndarray:
+def cluster_hdbscan(mat: np.ndarray, min_cluster_size: int, min_samples: int | None = None) -> np.ndarray:
     """HDBSCAN clustering on Euclidean metric (equivalent to cosine on L2-normalized vectors)."""
     cl = HDBSCAN(metric="euclidean", min_cluster_size=min_cluster_size, min_samples=min_samples)
     return cl.fit_predict(mat)
@@ -146,7 +120,7 @@ def combine(visual: np.ndarray, text: np.ndarray, w_vis: float) -> np.ndarray:
     return l2(np.hstack([v_norm, t_norm]))
 
 
-def load_aligned_embeddings(data_dir: Optional[str] = None) -> Dict[str, Union[List[str], np.ndarray]]:
+def load_aligned_embeddings(data_dir: str | None = None) -> dict[str, list[str] | np.ndarray]:
     """Loads visual_embeddings.npz and text_embeddings.npz and aligns them by common asset ID.
 
     Returns dict:
@@ -177,7 +151,7 @@ def load_aligned_embeddings(data_dir: Optional[str] = None) -> Dict[str, Union[L
     aligned_ids = [vis_ids[i] for i in keep_indices]
     aligned_txt_indices = [txt_pos[a] for a in aligned_ids]
 
-    out: Dict[str, Union[List[str], np.ndarray]] = {"ids": aligned_ids}
+    out: dict[str, list[str] | np.ndarray] = {"ids": aligned_ids}
     if "vec_video" in vis:
         out["video"] = vis["vec_video"][keep_indices]
     if "vec_frame" in vis:
@@ -190,21 +164,21 @@ def load_aligned_embeddings(data_dir: Optional[str] = None) -> Dict[str, Union[L
 def load_combined_vectors(
     track: str = "frame",
     w_vis: float = 0.3,
-    data_dir: Optional[str] = None
-) -> Tuple[List[str], np.ndarray]:
+    data_dir: str | None = None
+) -> tuple[list[str], np.ndarray]:
     """Loads aligned embeddings and returns (ids, combined_vectors)."""
     aligned = load_aligned_embeddings(data_dir)
-    ids: List[str] = aligned["ids"]  # type: ignore
+    ids: list[str] = aligned["ids"]  # type: ignore
     if track not in aligned:
         raise KeyError(f"Visual track '{track}' not found in visual embeddings. Available: {[k for k in aligned if k != 'ids']}")
-    
+
     vis_vec = aligned[track]
     txt_vec = aligned["text"]
     combined = combine(vis_vec, txt_vec, w_vis)  # type: ignore
     return ids, combined
 
 
-def compute_centroids(X: np.ndarray, pred: np.ndarray) -> Dict[int, np.ndarray]:
+def compute_centroids(X: np.ndarray, pred: np.ndarray) -> dict[int, np.ndarray]:
     """Computes L2-normalized centroid vectors for each non-noise cluster (c != -1)."""
     cen = {}
     pred = np.asarray(pred)
@@ -230,6 +204,12 @@ def merge_by_centroid(
 
     Note: X MUST be the L2-normalized embedding space (not UMAP projection).
     """
+    def _find(parent_map: dict[int, int], a: int) -> int:
+        while parent_map[a] != a:
+            parent_map[a] = parent_map[parent_map[a]]
+            a = parent_map[a]
+        return a
+
     pred = np.asarray(pred).copy()
     for _ in range(max_iter):
         cen = compute_centroids(X, pred)
@@ -245,20 +225,14 @@ def merge_by_centroid(
 
         parent = {k: k for k in ks}
 
-        def find(a: int) -> int:
-            while parent[a] != a:
-                parent[a] = parent[parent[a]]
-                a = parent[a]
-            return a
-
         for i in range(len(ks)):
             for j in range(i + 1, len(ks)):
                 if S[i, j] >= thresh:
-                    ra, rb = find(ks[i]), find(ks[j])
+                    ra, rb = _find(parent, ks[i]), _find(parent, ks[j])
                     if ra != rb:
                         parent[max(ra, rb)] = min(ra, rb)
 
-        remap = {k: find(k) for k in ks}
+        remap = {k: _find(parent, k) for k in ks}
         if all(remap[k] == k for k in ks):
             break
         pred = np.array([remap.get(p, p) if p != -1 else -1 for p in pred])
@@ -270,11 +244,11 @@ def merge_by_centroid(
 
 
 def score(
-    pred_or_ids: Union[Dict[str, int], List[str], np.ndarray],
-    truth_or_pred: Union[Dict[str, str], np.ndarray, List[int]],
-    truth_or_none: Optional[Dict[str, str]] = None,
+    pred_or_ids: dict[str, int] | list[str] | np.ndarray,
+    truth_or_pred: dict[str, str] | np.ndarray | list[int],
+    truth_or_none: dict[str, str] | None = None,
     split_noise: bool = True
-) -> Tuple[float, float]:
+) -> tuple[float, float]:
     """Computes Adjusted Rand Index (ARI) and Adjusted Mutual Information (AMI).
 
     Supported calling signatures:
@@ -286,7 +260,7 @@ def score(
         ids = list(pred_or_ids)  # type: ignore
         pred = truth_or_pred
         truth = truth_or_none
-        by_id = {str(a): int(p) for a, p in zip(ids, pred)}
+        by_id = {str(a): int(p) for a, p in zip(ids, pred, strict=False)}
     elif isinstance(pred_or_ids, dict):
         # Signature: score(pred_by_id, truth, split_noise)
         by_id = {str(k): int(v) for k, v in pred_or_ids.items()}
@@ -313,9 +287,9 @@ def score(
 
 
 def load_spend_by_asset(
-    ids: List[str],
-    staged_csv: Optional[str] = None
-) -> Tuple[np.ndarray, float]:
+    ids: list[str],
+    staged_csv: str | None = None
+) -> tuple[np.ndarray, float]:
     """Computes spend attributable to each representative asset ID via its phash group."""
     csv_path = staged_csv or cfg.ASSETS_STAGED_CSV
     if not os.path.exists(csv_path):

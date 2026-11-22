@@ -13,11 +13,11 @@ import argparse
 import json
 import os
 import sys
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any
 
 import numpy as np
-from sklearn.metrics import silhouette_score
 import yaml
+from sklearn.metrics import silhouette_score
 
 repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 if repo_root not in sys.path:
@@ -27,7 +27,6 @@ import config as cfg
 from common.logging import get_logger
 from common.vectors import (
     HDBSCAN,
-    compute_centroids,
     load_aligned_embeddings,
     load_spend_by_asset,
     merge_by_centroid,
@@ -38,14 +37,14 @@ logger = get_logger("auto_tune", stage="tuning")
 
 
 def run_auto_tune(
-    data_dir: Optional[str] = None,
-    eval_labels_path: Optional[str] = None,
-    advertiser_name: Optional[str] = None,
-) -> Dict[str, Any]:
+    data_dir: str | None = None,
+    eval_labels_path: str | None = None,
+    advertiser_name: str | None = None,
+) -> dict[str, Any]:
     """Runs a hyperparameter sweep and returns recommended parameters."""
     d_dir = data_dir or cfg.DATA_DIR
     aligned = load_aligned_embeddings(d_dir)
-    ids: List[str] = aligned["ids"]  # type: ignore
+    ids: list[str] = aligned["ids"]  # type: ignore
     spend_arr, total_spend = load_spend_by_asset(ids)
 
     # Check for ground truth labels
@@ -53,19 +52,19 @@ def run_auto_tune(
     lbl_path = eval_labels_path or os.path.join(cfg.EVAL_DIR, "eval_labels.json")
     if os.path.exists(lbl_path):
         try:
-            with open(lbl_path, "r", encoding="utf-8") as fh:
+            with open(lbl_path, encoding="utf-8") as fh:
                 truth = {str(k): str(v) for k, v in json.load(fh).items()}
             logger.info(f"Loaded {len(truth)} ground-truth evaluation labels.")
         except Exception as e:
             logger.warning(f"Could not load eval labels ({e}); using unsupervised scoring.")
 
-    from common.vectors import combine, l2, reduce_manifold
+    from common.vectors import combine, reduce_manifold
 
     tracks_to_try = [t for t in ("frame", "video") if t in aligned]
     if not tracks_to_try:
         tracks_to_try = ["frame"]
 
-    best_config: Optional[Dict[str, Any]] = None
+    best_config: dict[str, Any] | None = None
     best_score = -1.0
 
     logger.info("Running parameter sweep...")

@@ -1,12 +1,14 @@
 # Multimodal Creative Analytics & Competitive Intelligence Engine
 
-[![Python 3.10 | 3.11 | 3.12](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
+[![Python 3.11 | 3.12](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue.svg)](https://www.python.org/)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Tests: 19 Passing](https://img.shields.io/badge/tests-19%2F19%20passing-brightgreen.svg)](tests/)
+[![Tests: 21 Passing](https://img.shields.io/badge/tests-21%2F21%20passing-brightgreen.svg)](tests/)
 [![Architecture: Local--First](https://img.shields.io/badge/architecture-local--first%20%7C%20zero--cloud-green.svg)](#quick-start-zero-credential-local-portfolio-mode)
-[![UI: Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
+[![Federated: intel-core](https://img.shields.io/badge/federated-intel--core%20v0.1.0-purple.svg)](https://github.com/citycheah/intel-core)
 
 An end-to-end multimodal machine learning and competitive intelligence platform that groups fragmented, multi-format digital advertising creatives (video & static across `9:16`, `16:9`, `1:1`, `4:5`) into unified **strategic campaign themes**, rolls up media investment and impressions, and quantifies cross-brand category positioning.
+
+Integrated with [`intel-core`](https://github.com/citycheah/intel-core) via [`src/intel_themes/`](src/intel_themes/) for federated incremental DuckDB anti-join creative dissection, `FinOpsGuard` budget circuit breakers, dynamic multi-brand clustering with centroid stability, and creative fatigue tracking. (The legacy Streamlit UI in `demo-ui/app.py` is retired in favor of the unified Next.js Portal in [`brand-analytics-agent/frontend-portal/`](https://github.com/citycheah/brand-analytics-agent).)
 
 Built with a **local-first, reproducible benchmark architecture** demonstrating **Directions A + B + C**:
 - **Direction A (Multimodal Creative Grouping & Spend Attribution):** Perceptual DCT deduplication (`pHash`), multimodal representation learning (1408-D visual + 384-D semantic concept blocks), manifold pre-reduction, HDBSCAN clustering, and Union-Find post-hoc centroid consolidation.
@@ -148,45 +150,40 @@ creative-analytics-grouping/
 │   ├── evaluate.py                    # Blind evaluation scorer (ARI / AMI with split_noise)
 │   ├── fix_oversplit.py               # Centroid cosine similarity inspection utility
 │   └── tune.py                        # Hyperparameter Pareto frontier sweep
+├── src/intel_themes/                  # Federated package (intel-core contracts & FinOps)
+│   ├── dissection.py                  # DuckDB anti-join incremental dissection (GeminiMediaClient)
+│   ├── competitive.py                 # Dynamic multi-brand clustering, centroid stability & fatigue
+│   └── vectors.py                     # Shared L2 fusion, 30-D manifold & centroid merge helpers
 ├── demo-ui/
-│   ├── app.py                         # 6-tab Streamlit Executive & Competitive Intelligence Dashboard
+│   ├── app.py                         # Retired Streamlit entrypoint (see brand-analytics-agent Next.js Portal)
 │   ├── aggregate.py                   # Spend & impression rollup verification
 │   ├── insights.py                    # Automated Markdown executive briefing generator
 │   ├── export.py                      # Multi-page PDF executive report generator
-│   └── data/                          # Pre-computed CSV/JSON/PDF artifacts for zero-key launch
+│   └── data/                          # Frozen CSV/JSON artifacts for Malaysia Telco ablation regression tests
 ├── evaluation/
 │   ├── eval_labels.json               # 36 blind-tagged ground-truth evaluation labels
 │   ├── ablation_report.json           # Full JSON output of the 4 ablation experiments
 │   ├── cluster_review.html            # Self-contained HTML cluster inspection sheet
 │   └── eval_sheet.html                # Interactive blind human-tagging HTML tool
-└── tests/                             # 19 pytest unit & integration tests
+└── tests/                             # 21 pytest unit & integration tests (incl. lakehouse dissection)
 ```
 
 ---
 
 ## Quick Start (Zero-Credential Local Portfolio Mode)
 
-This repository ships with a complete, deterministic synthetic benchmark for the **Malaysia Telecommunications sector** (including rendered creative cards in `assets/frames/*.jpg`, pre-computed multimodal embeddings, and competitive intelligence tables) so you can run the entire clustering, competitive analysis, ablation suite, and Streamlit UI **100% offline without GCP credentials**.
+This repository ships with a complete, deterministic synthetic benchmark for the **Malaysia Telecommunications sector** (including rendered creative cards in `assets/frames/*.jpg`, pre-computed multimodal embeddings, and competitive intelligence tables) so you can run the entire clustering, competitive analysis, and ablation suite **100% offline without GCP credentials**.
 
 ### 1. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+uv sync --extra dev
+# Or: pip install -r requirements.txt
 ```
 
-### 2. Launch the 6-Tab Streamlit Intelligence Suite
+### 2. Unified Portal (Replacing Retired Streamlit UI)
 
-```bash
-streamlit run demo-ui/app.py
-```
-
-The interactive dashboard includes **6 specialized views**:
-1. **Executive Overview:** Portfolio KPIs (`780 -> 340 -> 12`), top-theme spend distribution, and automated executive narrative.
-2. **2D Semantic Cluster Explorer:** Interactive manifold projection sized by media spend with creative card previews and format-consolidation badges.
-3. **Ranked Creative Themes:** Sortable rollup table with media format splits (`9:16` vs `16:9`) and spend concentration diagnostics.
-4. **Malaysia Telco Competitive Intelligence (Big 4):** Cross-brand $HHI$ cards, **100% Stacked Share-of-Voice ($\text{SOV}\%$) Battleground vs. Whitespace chart**, and **Pairwise Jaccard Theme Overlap matrix**.
-5. **Methodology & Ablation Lab:** Interactive visualizations of the **Modality Weight Curve (`w_vis` 0.0 $\rightarrow$ 1.0)**, the **4-Stage Architecture Ladder**, and the **FinOps Cost-Accuracy Pareto Frontier**.
-6. **Unclustered Noise Audit:** Inspection of the `< 0.1%` unclustered outlier spend.
+> **Note:** Standalone `demo-ui/app.py` is retired. Launch the unified 5-page Next.js Portal in `brand-analytics-agent/frontend-portal/` (`/themes` & `/creatives`), backed by `intel_themes` Gold/Silver Parquet outputs. Static files in `demo-ui/data/` remain frozen for Malaysia Telco ablation regression tests.
 
 ### 3. Regenerate All Benchmark Artifacts or Run the Orchestrator
 

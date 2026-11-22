@@ -1,7 +1,6 @@
 """Unit tests for common.vectors module."""
 
 import numpy as np
-import pytest
 
 from common.vectors import (
     combine,

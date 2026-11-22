@@ -20,15 +20,14 @@ import json
 import os
 import sys
 
-import numpy as np
-
 repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 if repo_root not in sys.path:
     sys.path.insert(0, repo_root)
 
-import ingestion.config as cfg
-from common.vectors import l2, combine, score, load_aligned_embeddings as load_vectors, cluster_hdbscan as cluster
 from common.logging import get_logger
+from common.vectors import cluster_hdbscan as cluster
+from common.vectors import combine, score
+from common.vectors import load_aligned_embeddings as load_vectors
 
 logger = get_logger("evaluate", stage="evaluation")
 EVAL_DIR = os.path.join(repo_root, "evaluation")
@@ -44,7 +43,7 @@ def main():
     if not os.path.exists(labels_path):
         print(f"Missing {labels_path} - tag evaluation/eval_sheet.html first.")
         return
-    with open(labels_path, "r", encoding="utf-8") as fh:
+    with open(labels_path, encoding="utf-8") as fh:
         truth = {str(k): str(v) for k, v in json.load(fh).items()}
 
     V = load_vectors()
@@ -73,7 +72,7 @@ def main():
     for name, track, w in configs:
         mat = combine(V[track] if track else V["text"], V["text"], w)
         pred = cluster(mat, args.min_cluster_size, args.min_samples)
-        by_id = {a: int(p) for a, p in zip(ids, pred)}
+        by_id = {a: int(p) for a, p in zip(ids, pred, strict=False)}
         ari, ami = score(by_id, truth, split_noise=True)
         ari_lump, _ = score(by_id, truth, split_noise=False)
         n_cl = len(set(p for p in pred if p != -1))

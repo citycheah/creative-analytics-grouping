@@ -65,7 +65,7 @@ def main():
             # If the cached model matches the requested model, reuse embeddings
             if not cached_model or cached_model == model_name:
                 c_ids = [str(x) for x in cached["asset_ids"]]
-                for aid, vec in zip(c_ids, cached["vec_text"]):
+                for aid, vec in zip(c_ids, cached["vec_text"], strict=False):
                     cached_vecs[aid] = vec
                 logger.info(f"Loaded {len(cached_vecs)} cached text embeddings ({model_name}) from {out}")
             else:
@@ -130,8 +130,8 @@ def main():
 
     # Priority 3: Offline deterministic TF-IDF + TruncatedSVD fallback
     if new_vecs is None:
-        from sklearn.feature_extraction.text import TfidfVectorizer
         from sklearn.decomposition import TruncatedSVD
+        from sklearn.feature_extraction.text import TfidfVectorizer
         vec = TfidfVectorizer(max_features=1000)
         X_tfidf = vec.fit_transform(texts)
         dim = min(384, X_tfidf.shape[1] - 1, X_tfidf.shape[0] - 1)
@@ -147,7 +147,7 @@ def main():
         model_name = "tfidf-svd-fallback"
         logger.info(f"Encoded {len(pending_rows)} items with TF-IDF fallback in {time.time()-t0:.1f}s")
 
-    for r, v in zip(pending_rows, new_vecs):
+    for r, v in zip(pending_rows, new_vecs, strict=False):
         cached_vecs[r["asset_id"]] = v
 
     # Preserve stable order matching rows

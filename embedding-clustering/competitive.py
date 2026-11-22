@@ -25,7 +25,7 @@ import csv
 import json
 import os
 import sys
-from typing import Any, Dict, List, Set, Tuple
+from typing import Any
 
 import numpy as np
 
@@ -35,7 +35,6 @@ if repo_root not in sys.path:
 
 import config as cfg
 from common.logging import get_logger
-from common.vectors import l2
 
 logger = get_logger("competitive", stage="competitive-intelligence")
 
@@ -44,7 +43,7 @@ SEED = 42
 # ==============================================================================
 # MALAYSIA TELCO CATEGORY COMPETITIVE TAXONOMY (Big 4 Telcos)
 # ==============================================================================
-CATEGORY_THEMES_SPEC: List[Dict[str, Any]] = [
+CATEGORY_THEMES_SPEC: list[dict[str, Any]] = [
     # --- Shared Category Battlegrounds (Multi-Brand Head-to-Head) ---
     {
         "cat_theme_id": "CAT_01",
@@ -185,7 +184,7 @@ CATEGORY_THEMES_SPEC: List[Dict[str, Any]] = [
 ]
 
 
-def compute_hhi(spend_shares: List[float]) -> float:
+def compute_hhi(spend_shares: list[float]) -> float:
     """Computes Herfindahl-Hirschman Index (HHI = sum_{i=1}^N s_i^2).
 
     Accepts either fractional shares in [0, 1] or percentages in [0, 100].
@@ -202,7 +201,7 @@ def compute_hhi(spend_shares: List[float]) -> float:
     return float(np.sum(proportions ** 2))
 
 
-def compute_jaccard_overlap(themes_a: Set[str], themes_b: Set[str]) -> float:
+def compute_jaccard_overlap(themes_a: set[str], themes_b: set[str]) -> float:
     """Computes Creative Theme Overlap Index (Jaccard similarity) between two advertisers."""
     if not themes_a and not themes_b:
         return 0.0
@@ -212,7 +211,7 @@ def compute_jaccard_overlap(themes_a: Set[str], themes_b: Set[str]) -> float:
     return float(len(themes_a & themes_b) / len(union))
 
 
-def compute_theme_sov(brand_spends: Dict[str, float]) -> Dict[str, float]:
+def compute_theme_sov(brand_spends: dict[str, float]) -> dict[str, float]:
     """Computes Share of Voice (SOV %) by spend for each brand within a category theme."""
     total = sum(max(0.0, float(v)) for v in brand_spends.values())
     if total <= 0:
@@ -220,7 +219,7 @@ def compute_theme_sov(brand_spends: Dict[str, float]) -> Dict[str, float]:
     return {k: round(100.0 * max(0.0, float(v)) / total, 2) for k, v in brand_spends.items()}
 
 
-def run_competitive_intelligence(output_dir: str = None) -> Dict[str, Any]:
+def run_competitive_intelligence(output_dir: str = None) -> dict[str, Any]:
     """Generates joint category themes, brand HHI concentration metrics, SOV, and 2D UMAP projections."""
     rng = np.random.default_rng(SEED)
     out_dir = output_dir or cfg.UI_DATA_DIR
@@ -235,10 +234,10 @@ def run_competitive_intelligence(output_dir: str = None) -> Dict[str, Any]:
         "Unifi": [0.18, 0.34, 0.18, 0.20, 0.10],
     }
 
-    theme_rows: List[Dict[str, Any]] = []
-    asset_points: List[Dict[str, Any]] = []
-    brand_themes_active: Dict[str, Set[str]] = {b: set() for b in brands}
-    brand_theme_spends: Dict[str, List[float]] = {b: [] for b in brands}
+    theme_rows: list[dict[str, Any]] = []
+    asset_points: list[dict[str, Any]] = []
+    brand_themes_active: dict[str, set[str]] = {b: set() for b in brands}
+    brand_theme_spends: dict[str, list[float]] = {b: [] for b in brands}
 
     for spec in CATEGORY_THEMES_SPEC:
         cid = spec["cat_theme_id"]
@@ -302,7 +301,7 @@ def run_competitive_intelligence(output_dir: str = None) -> Dict[str, Any]:
 
     # Compute Brand-Level Strategic Summary (HHI, Total Spend, Whitespace Count)
     total_market_spend = sum(r["brand_spend"] for r in theme_rows)
-    brand_metrics: List[Dict[str, Any]] = []
+    brand_metrics: list[dict[str, Any]] = []
     for b in brands:
         b_rows = [r for r in theme_rows if r["brand"] == b]
         b_spend = sum(r["brand_spend"] for r in b_rows)
@@ -335,7 +334,7 @@ def run_competitive_intelligence(output_dir: str = None) -> Dict[str, Any]:
         })
 
     # Compute Pairwise Brand Theme Overlap Matrix (Jaccard)
-    overlap_matrix: List[Dict[str, Any]] = []
+    overlap_matrix: list[dict[str, Any]] = []
     for b1 in brands:
         for b2 in brands:
             jaccard = 1.0 if b1 == b2 else compute_jaccard_overlap(brand_themes_active[b1], brand_themes_active[b2])

@@ -1,7 +1,6 @@
 """Unit tests for Malaysia Telco Competitive Creative Intelligence engine."""
 
 import pytest
-
 from embedding_clustering_helpers import compute_hhi, compute_jaccard_overlap, compute_theme_sov
 
 

@@ -169,8 +169,6 @@ def main():
         print(f"All {len(targets)} assets for tracks {tracks} are already cached. (Use --force to re-embed)")
         return
 
-    n_vid = sum(1 for r, t in jobs if r["media_type"] == "video" and t == "video")
-    vid_secs = sum(float(r["duration_sec"] or 0) for r, t in jobs if r["media_type"] == "video" and t == "video")
     print(f"Embedding {len(jobs)} pending asset-track pairs ({len(targets)} total targets)")
     print(f"Pending tracks jobs: {len(jobs)}")
     est = 0.0

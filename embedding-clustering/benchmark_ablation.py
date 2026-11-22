@@ -36,7 +36,7 @@ import csv
 import json
 import os
 import sys
-from typing import Any, Dict, List
+from typing import Any
 
 import numpy as np
 
@@ -50,7 +50,6 @@ from common.vectors import (
     HDBSCAN,
     combine,
     compute_centroids,
-    l2,
     load_aligned_embeddings,
     load_spend_by_asset,
     merge_by_centroid,
@@ -61,23 +60,23 @@ from common.vectors import (
 logger = get_logger("benchmark_ablation", stage="evaluation")
 
 
-def run_ablation_suite() -> Dict[str, Any]:
+def run_ablation_suite() -> dict[str, Any]:
     eval_labels_path = os.path.join(cfg.EVAL_DIR, "eval_labels.json")
     if not os.path.exists(eval_labels_path):
         raise FileNotFoundError(f"Missing evaluation labels at {eval_labels_path}")
 
-    with open(eval_labels_path, "r", encoding="utf-8") as fh:
+    with open(eval_labels_path, encoding="utf-8") as fh:
         truth = {str(k): str(v) for k, v in json.load(fh).items()}
 
     V = load_aligned_embeddings(cfg.DATA_DIR)
-    ids: List[str] = V["ids"]  # type: ignore
+    ids: list[str] = V["ids"]  # type: ignore
     spend_arr, total_spend = load_spend_by_asset(ids)
 
     # ==========================================================================
     # EXPERIMENT 1: Modality Weight Sweep (w_vis from 0.0 to 1.0, Frame vs Video)
     # ==========================================================================
     weights = [0.0, 0.15, 0.30, 0.50, 0.70, 0.85, 1.0]
-    modality_sweep: List[Dict[str, Any]] = []
+    modality_sweep: list[dict[str, Any]] = []
 
     for track in ("frame", "video"):
         if track not in V:
@@ -161,7 +160,7 @@ def run_ablation_suite() -> Dict[str, Any]:
     # Stage 4 (Champion): UMAP 30-D + HDBSCAN + Post-Hoc Centroid Cosine Merge (>= 0.94 in 1792-D space)
     pred_stage4 = merge_by_centroid(mat_opt, pred_stage2, thresh=cfg.CLUSTERING_MERGE_THRESHOLD)
 
-    architecture_ladder: List[Dict[str, Any]] = []
+    architecture_ladder: list[dict[str, Any]] = []
     for stage_idx, (st_name, st_desc, p_arr) in enumerate([
         (
             "1. Raw 1792-D HDBSCAN",
@@ -284,11 +283,11 @@ def run_ablation_suite() -> Dict[str, Any]:
     ]
 
     # Summarize actual ledger file if present
-    ledger_summary: List[Dict[str, Any]] = []
+    ledger_summary: list[dict[str, Any]] = []
     ledger_path = os.path.join(repo_root, "costs_ledger.csv")
     if os.path.exists(ledger_path):
         by_stage = collections.defaultdict(lambda: {"calls": 0, "units": 0.0, "cost_usd": 0.0, "latencies": []})
-        with open(ledger_path, "r", encoding="utf-8") as fh:
+        with open(ledger_path, encoding="utf-8") as fh:
             for r in csv.DictReader(fh):
                 key = (r["stage"], r["service"], r["sku"])
                 by_stage[key]["calls"] += 1

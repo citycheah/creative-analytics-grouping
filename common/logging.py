@@ -9,7 +9,6 @@ import os
 import sys
 import time
 from contextlib import contextmanager
-from typing import Any, Dict, Optional
 
 try:
     from pythonjsonlogger import jsonlogger
@@ -41,7 +40,7 @@ class ContextFilter(logging.Filter):
 def setup_logger(
     name: str = "creative_clustering",
     stage: str = "",
-    log_file: Optional[str] = None
+    log_file: str | None = None
 ) -> logging.Logger:
     """Configures and returns a logger instance with appropriate handlers."""
     logger = logging.getLogger(name)

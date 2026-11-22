@@ -43,8 +43,8 @@ if repo_root not in sys.path:
 
 import ingestion.config as cfg
 from common import costs
-from common.vectors import l2, merge_by_centroid, load_aligned_embeddings, reduce_manifold, HDBSCAN
 from common.logging import get_logger
+from common.vectors import HDBSCAN, l2, load_aligned_embeddings, merge_by_centroid, reduce_manifold
 
 logger = get_logger("cluster", stage="clustering")
 
@@ -179,8 +179,9 @@ def gemini_labels(clusters, enriched):
     )
 
     try:
-        from google.genai import types as _t
         import json
+
+        from google.genai import types as _t
 
         resp = client.models.generate_content(
             model=MODEL,
@@ -201,7 +202,7 @@ def gemini_labels(clusters, enriched):
         raw_text = resp.text.strip()
         parsed_labels = json.loads(raw_text)
 
-        for cid, summaries in cluster_summaries.items():
+        for cid, _summaries in cluster_summaries.items():
             label = parsed_labels.get(str(cid)) or parsed_labels.get(int(cid))
             if label and isinstance(label, str):
                 out[cid] = label.strip().strip('"')[:80]
@@ -314,7 +315,7 @@ def main():
     pred = merge_by_centroid(mat, pred, MERGE_THRESHOLD)
     n_after = len(set(p for p in pred if p != -1))
     print(f"  centroid merge >={MERGE_THRESHOLD}: {n_before} -> {n_after} clusters")
-    rep_cluster = {a: int(p) for a, p in zip(ids, pred)}
+    rep_cluster = {a: int(p) for a, p in zip(ids, pred, strict=False)}
     clusters = collections.defaultdict(list)
     for a, c in rep_cluster.items():
         clusters[c].append(a)

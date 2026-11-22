@@ -25,8 +25,6 @@ Usage:
 """
 
 import argparse
-import collections
-import csv
 import json
 import os
 import sys
@@ -40,15 +38,13 @@ if repo_root not in sys.path:
 
 warnings.filterwarnings("ignore")
 
-import ingestion.config as cfg
+from common.logging import get_logger
 from common.vectors import (
-    l2,
+    HDBSCAN,
     load_combined_vectors,
     load_spend_by_asset,
     score,
-    HDBSCAN,
 )
-from common.logging import get_logger
 
 logger = get_logger("tune", stage="clustering")
 
@@ -71,12 +67,12 @@ def main():
     args = ap.parse_args()
 
     eval_labels_path = os.path.join(EVAL_DIR, "eval_labels.json")
-    with open(eval_labels_path, "r", encoding="utf-8") as fh:
+    with open(eval_labels_path, encoding="utf-8") as fh:
         truth = {str(k): str(v) for k, v in json.load(fh).items()}
     ids, X = load()
     spend, total_spend = spend_by_rep(ids)
     print(f"{len(ids)} representatives, {X.shape[1]}-d combined vectors")
-    print(f"Baseline in use: mcs=2, min_samples=default, no reduction\n")
+    print("Baseline in use: mcs=2, min_samples=default, no reduction\n")
 
     spaces = {"raw-1792d": X}
     try:
@@ -131,14 +127,16 @@ def main():
     hdr = (f"{'space':<11}{'mcs':>4}{'ms':>4}{'eps':>6}{'meth':>6}"
            f"{'clus':>6}{'noise%':>8}{'noise£%':>9}{'ARI':>8}{'AMI':>8}")
     print("=== PARETO FRONTIER (best accuracy for each noise level) ===")
-    print(hdr); print("-" * len(hdr))
+    print(hdr)
+    print("-" * len(hdr))
     for r in pareto[: args.top]:
         print(f"{r['space']:<11}{r['mcs']:>4}{str(r['min_samples']):>4}{r['eps']:>6.2f}"
               f"{r['method']:>6}{r['clusters']:>6}{r['noise_pct']:>8.1f}"
               f"{r['noise_spend_pct']:>9.1f}{r['ari']:>8.4f}{r['ami']:>8.4f}")
 
     print("\n=== BEST BY ACCURACY ===")
-    print(hdr); print("-" * len(hdr))
+    print(hdr)
+    print("-" * len(hdr))
     for r in sorted(results, key=lambda r: -r["ari"])[:8]:
         print(f"{r['space']:<11}{r['mcs']:>4}{str(r['min_samples']):>4}{r['eps']:>6.2f}"
               f"{r['method']:>6}{r['clusters']:>6}{r['noise_pct']:>8.1f}"

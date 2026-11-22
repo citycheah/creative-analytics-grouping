@@ -2,11 +2,11 @@
 
 import json
 import os
+
 import pandas as pd
 import pytest
 
 import config as cfg
-from embedding_clustering_helpers import run_ablation_suite, run_competitive_intelligence
 
 
 def test_generated_portfolio_integrity():
@@ -34,7 +34,7 @@ def test_generated_portfolio_integrity():
 def test_ablation_report_discoveries():
     ablation_path = os.path.join(cfg.EVAL_DIR, "ablation_report.json")
     assert os.path.exists(ablation_path)
-    with open(ablation_path, "r", encoding="utf-8") as fh:
+    with open(ablation_path, encoding="utf-8") as fh:
         rep = json.load(fh)
 
     # Finding 1: Inverted modality weighting (w_vis=0.30 beats visual-only w_vis=1.0)
